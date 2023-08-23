@@ -1,0 +1,272 @@
+[18.06.2023]
+- Sunucu MTA:SA 1.6 versiyonuna güncellendi.
+- 1.6 ile gelen skinler F1'e eklendi.
+- Yeni versiyon ile birlikte birçok script optimize edildi.
+- Sanayi sitesi kaldırıldı.
+- Klasik sanayi yeniden düzenlendi.
+
+[04.06.2023]
+• F6 Lastik Ayarları düzenlenip aktifleştirildi.
+  - Jantlara parlama eklendi.
+  - Sıfırlama özelliği eklendi.
+  - Kayıt olma özelliği eklendi.
+  - Optimize edildi.
+  - 17 yeni jant kullanılabilir hale geldi.
+• [Mercedes] Actros TIR düzenlendi.
+  - Yere girme sorunu düzeltildi.
+  - Değiştirilebilir plaka eklendi.
+  - Türk bayrağı eklendi.
+• F1 Yardım menüsündeki komutlar ve tuşlar düzenlendi.
+• Turfdaki ATM kaldırıldı.
+• 0 Tag sorunu kesin olarak çözüldü.
+• Galeri arkaplanı ve kasma sorunu düzeltildi.
+
+[31.05.2023]
+• Galeri sistemi; Tag şansı 50% arttırıldı ve araç satın alırken rastgele plaka özelliği eklendi.
+• [BMW] E60 eklendi.
+• [FIAT] 126 galeriye eklendi.
+• [SCANIA] R730 TIR galeriye eklendi.
+• [KENWORTH] W900 TIR galeriye eklendi.
+• [ANKARA] EGO galeriye eklendi.
+• [BMW] 525 TDS TAKSİ galeriye eklendi.
+• Modları Yönet: mod isimleri düzenlendi ve bazı kapanmayan modlar eklendi.
+• Otobüs ve Tır mesleğindeki çoklu araç bugı düzeltildi.
+
+[24.05.2023]
+• F4 Klan tagı genel sohbete eklendi.
+• Tab paneline ölme-öldürme istatistiği eklendi.
+• Otobüs Mesleği; şehir içi 4. güzergâh eklendi.
+• Pizza Mesleği; araç level'i 3'e düşürüldü.
+• Temizlik Mesleği; klan xp 40'a yükseltildi ve iptal etme /giptal oldu.
+• Zombi Avı; yeniden eklendi ve kazanç yazısı spam nedeniyle kaldırıldı.
+
+[16.05.2023]
+• Tır mesleği yenilendi.
+    - Kara Ambar Kamyoncular Derneği teması eklendi.
+    - Yeri değiştirildi.
+    - 3 tane tır seçeneği eklendi. (Mercedes, Scania, Kenworth)
+    - Teslimat noktaları düzenlendi.
+    - Level sistemi eklendi.
+    - Sıralama sistemi eklendi.
+    - Buglar düzeltildi.
+• Taksi görevinde Kabul et - Reddet ekranı kaldırıldı.
+• Bazı Araçlardaki Egzoz Patlatma hatası düzeltildi.
+• Eski tır yeri turf yapıldı.
+• Helikopter mesleğinde üst üste spawn olma oranı azaltıldı, görev iptal /giptal oldu.
+• Otobüs görevinde rota seçim panelini kapatma eklendi.
+• Gereksiz objeler silindi.
+• Görevde hand kullanma açığı kapatıldı.
+
+[09.05.2023]
+• Chopper yerine Harley-Davidson Road King eklendi.
+
+[02.05.2023]
+• AUDI RS4 eklendi.
+    - Plaka, kaplama, 3 renk ayarı ve spoiler desteği!
+• Nissan Skyline R34 düzenlendi.
+    - Plaka, kaplama, 3 renk ayarı ve spoiler desteği eklendi.
+• Taksi görevindeki UBER 3 levele, BMW 525 TDS 1 levele düşürüldü.
+• Düello iptal etme özelliği eklendi. /duelloiptal
+
+[26.04.2023]
+• Renault Megane düzenlendi.
+    - Plaka, spoiler desteği ve yeni jant eklendi; sallanma sorunu düzeltildi. 
+• Nissan GTR'ın ön camındaki yazı kaldırıldı.
+• 9 yeni karakter eklendi.
+    - Real Madrid PVP, JackBoys PVP.
+    - Asayiş Polis, Yunus Polis.
+    - Kamuflajlı Maskeli, Cio, BMW Fanboy, Sivil ve Nike Eşofmanlı.
+• Sevkiyat görevi kaldırıldı.
+
+[25.04.2023]
+• Volkswagen Passat düzenlendi.
+    - Renk, egzoz, sallanma ve süspansiyon sorunu düzeltildi.
+• F1 mekanlara banka eklendi.
+• Aracı kitleyince tüm kapıların kapanma özelliği eklendi.
+• Kumarhanedeki krupiyerler ölümsüz hâle getirildi.
+• Bilardo; fps artışı ve kullanılmadığı için kaldırıldı.
+• Loglar detaylandırılıp, güçlendirildi.
+
+[19.04.2023]
+• [BMW] E92 M3 aracı eklendi.
+    * 3 renk, plaka, hasar ve kaplama desteği bulunuyor.
+• Drift pisti eklendi.
+• Pavyon binası yenilendi. 
+
+[07.04.2023]
+• Para gönderme, Konum gönderme ve Hesap makinesi paneli yenilendi; sürükleme ve kapatma özelliği eklendi.
+• Protokol plaka yapma paneli eklendi. 
+• /s (durum) komutuna renk desteği eklendi ve performansı arttırıldı.
+• Database hataları düzeltildi.
+
+[06.04.2023]
+• F1 panel görünümü yenilendi ve sürükleme özelliği eklendi.
+• F2 panel görünümü yenilendi ve yeni özellikler eklendi.
+    * Mermi ile silah satın alma eklendi.
+    * Tüm silahları sıfırlama eklendi.
+    * Tüm yetenekleri doldur eklendi.
+    * Can ve zırh alma 1 dakikadan 30 saniyeye düşürüldü.
+    * Butonlara ses eklendi.
+    * Sürükleme özelliği eklendi.
+• F3 panel görünümü yenilendi ve sürükleme özelliği eklendi.
+• Bazı scriptler optimize edilerek FPS kazancı sağlandı.
+
+[31.03.2023]
+• [MERCEDES] E63 AMG, [MERCEDES] E250 yerine oyuna eklendi.
+• İftar sayacına açma, kapatma ve şehir değiştirme özelliği eklendi.
+    *Kullanım: /iftar ac-kapat-degistir
+
+[27.03.2023]
+• 5 Yeni skin eklendi.
+• Havai fişek sistemi eklendi.
+    *Etkinlik anında yetkililer kullanacaktır.
+  
+[26.03.2023]
+• Yeni şehir eklendi! 
+    * Gitmek için: F1>Mekanlar>Atom City
+• Araç içi chat eklendi.
+    * 9 tuşuna basarak erişebilirsiniz.
+• Hava durumu ayarlama eklendi.
+    *Kullanmak için /sw komutunu yazabilirsiniz. 
+
+[25.03.2023]
+• İftar sayacı sistemi eklendi. (MTA'da tek!)
+• HD Gökyüzü eklendi. 
+    * ESC (Ayarlar) menüsünden açıp/kapatabilirsiniz.
+
+[22.03.2023]
+• Düello sistemi eklendi.
+    * Arenalar: İskele, Çöl, Big, Üst Big ve Marina.
+• Ramazan ayına özel giriş görseli ve sesi değiştirildi.
+• Ramazan ayı boyunca saat 19.00 ve 06.00 arasında tüm görevlerde %25 bonus aktif edildi!
+
+[21.03.2023]
+• Ada turfları ve gölet turfu eklendi.
+• Turf maaş süresi kısaltıldı.
+• Bozuk turflar düzeltildi.
+• Twitter mesaj koruması eklendi.
+• Superman satışı durduruldu.
+• E-pin markette satılan oyun içi paraların miktari arttırıldı.
+• Güncellemeler paneli yenilendi.
+• Otobüs bugı kapatıldı.
+• Scoreboard FPS kaldırıldı.
+• FPS tüketen gereksiz modlar kaldırıldı.
+• Gereksiz scriptler kaldırıldı.
+• Akıcılığı engelleyen scriptler optimize edildi.
+
+[18.03.2023]
+• Sex sistemi eklendi.
+    *Rahatsız olan oyuncular ESC(Ayarlar) menüsünden istekleri kapatabilir.
+• ID sistemi eklendi.
+• Oyuncuya ışınlanma sistemi eklendi.
+• F1 Panel görünümü düzenlendi.
+• Ada turfu eklendi.
+    *İlerleyen günlerde daha fazla eklenecektir.
+• Turf'a ışınlanınca F1 kapanmama sorunu düzeltildi.
+• Kilit sistemi yenilendi.
+  *Sadece kendi aracınızı kilitleyebilirsiniz.
+  *Araçta değilken kilitleyince farlar yanıp sönme eklendi ve ses değiştirildi.
+  
+[16.03.2023]
+• Klan maaş sistemi düzeltildi.
+• Klan blip sistemi düzeltildi.
+• Lag yapan scriptler optimize edildi.
+
+[14.03.2023]
+• Emlak sistemi eklendi. 
+    *Erişmek için Telefondaki "Emlak" uygulamasına girin.
+• Taksi mesleği yenilendi.
+    *Mesafeler kısaltıldı.
+    *Uber modu eklendi.
+    *Sıralama eklendi.
+    *Görünümü ve konumu yenilendi.
+    *Kazanç arttırıldı.
+    *Level sistemi eklendi.
+• Erişimi kolaylaştırmak için Telefon, "F5" tuşuna atandı.
+
+[09.03.2023]
+• Pizzacı Mesleği: sıralama eklendi.
+    *Sıralama eklendiği ve eskiden 3 günde max levele ulaşılabilindiği için pizzacı leveli sıfırlanmıştır.
+• Ölünce kas gitme sorunu düzeltildi.
+• Otobüs Mesleği: İETT 3. güzergah eklendi, 1. ve 2. güzergah düzeltildi.
+
+[02.03.2023]
+• Otobüs mesleğine Durak ve Kazanç sıralaması eklendi.
+• Meslek bonusu özelliği eklendi. Ne işe yarar;
+    - Özel günlerde, olaylarda mesleklere bonus ekler. 
+
+[01.03.2023]
+• Otobüs mesleği Atom Gaming için neux tarafından sıfırdan kodlanıp, Demongo ve YunusEmre'nin katkılarıyla sunucuya eklendi. Görev hakkında;
+    - Dolmuş, Şehir içi ve Şehirler arası olarak 3 bölümden oluşuyor.
+    - Magirus, IETT ve Lüks Artvin araçları kullanılıyor.
+    - Gidilen durak sayısına göre level artıyor.
+    - Rota seçme özelliği ile çok veya az duraklı rotaları kendi kişisel tercihinize göre seçebilirsiniz.
+    - Duraklara gerçekçi isimler eklendi.
+• Kamil Koç kaldırılıp, Lüks Artvin eklendi.
+• Blip düzenlemesi yapıldı. Ayrıntılar;
+  - Otobüs Mesleği: BS
+  - Kumarhane: Zar
+  - ATM: Dolar işareti
+  - Durak: D
+• Hastane level bugı düzeltildi.
+• F3(Görevler) paneline görevlerdeki kişi sayısını görme eklendi.
+    
+[25.02.2023]
+• Oyun içi sohbeti Discord sunucumuz üzerinden görme eklendi.
+• Turf ölümsüzlük bugı düzeltildi.
+
+[23.02.2023]
+• Yetki paneli düzenlendi.
+• Scoreboard para bugı düzeltildi.
+• İyileştirmeler yapıldı.
+
+[20.02.2023]
+• Süspansiyon(Air) sistemine ön ve arka seçeneği eklenmiştir.
+• VIP üyelikler artık aylık olarak satılacaktır. Fiyatlandırma;
+  - Diamond VIP: 50AC
+  - Gold VIP: 30AC
+  - Silver VIP: 25AC
+  - Bronz VIP: 20AC
+  
+[18.02.2023]
+• Pizza görevindeki teslimat sesini (kopernik) kontrol etme özelliği eklendi.
+• Taksi görevindeki hatalı teslimat noktası düzeltildi.
+
+[17.02.2023]
+• Vip paneli yenilendi.
+• Diamond Vip Eklendi. Özellikleri;
+    - Görevlerde %35 daha fazla kazanç.
+    - Araç satın alımında %20 indirim.
+    - 4 ev alma limiti.
+    - 5 araç çıkarma limiti.
+    - 35 araç satın alma limiti.
+    - Sohbette elmas renginde yazma.
+    - Ücretsiz silah alma ve yetenekleri doldurma.
+    - Ücretsiz can ve zırh alma.
+    - Araç için: Zıplama, Suda Yüzme, Uçma ve Sınırsız hız.
+    - Galeriden Diamond taglı araba çıkarma şansı.
+    - Saatlik 50.000₺ maaş.
+    - Her Cuma Şans Kutusu.
+
+[16.02.2023]
+• [Mazda] MX-5 eklenmiştir. Fiyat: 2.000.000₺
+• Güncelleme bilgi paneli eklenmiştir.
+
+[14.02.2023]
+• Ev sisteminde para gelmeme bugı düzeltilmiştir.
+
+[13.02.2023]
+• [VAZ] 2114 eklenmiştir. Fiyat: 750.000₺
+• Azerbaycan plakası eklenmiştir.
+
+[06.02.2023]
+• Taş-Kağıt-Makas modu eklenmiştir. Kullanım: /tas
+
+[26.12.2022]
+• Pizza teslimat bölgeleri arttırılmıştır.
+
+[24.12.2022]
+• Silahlardaki gereksiz sekmeme kaldırılmıştır.
+
+[23.12.2022]
+• Kumarhane yenilendi. Rulet ve BlackJack eklendi.
