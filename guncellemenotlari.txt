@@ -1,13 +1,13 @@
 [23.08.2023]
-- F7 (Galeri sistemi) yenilendi.
-- Panel, AtomLib ile yeniden tasarlandı.
-- Stok görme eklendi.
-- Tag'e göre sıralama eklendi.
-- Galeri yönetimi güncellendi.
-- Limitsiz araç alma düzeltildi.
-- Galeri kasasından para çekme karmaşası düzeltildi.
-- Panele rastgele basınca oluşan etkileşimler düzeltildi.
-- Araba aratıp paneli kapatıp açınca oluşan bug düzeltildi.
+• F7 (Galeri sistemi) yenilendi.
+  - Panel, AtomLib ile yeniden tasarlandı.
+  - Stok görme eklendi.
+  - Tag'e göre sıralama eklendi.
+  - Galeri yönetimi güncellendi.
+  - Limitsiz araç alma düzeltildi.
+  - Galeri kasasından para çekme karmaşası düzeltildi.
+  - Panele rastgele basınca oluşan etkileşimler düzeltildi.
+  - Araba aratıp paneli kapatıp açınca oluşan bug düzeltildi.
 
 [18.06.2023]
 - Sunucu MTA:SA 1.6 versiyonuna güncellendi.
