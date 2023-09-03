@@ -1,3 +1,18 @@
+[03.09.2023]
+• Banka sistemi yenilendi.
+  - Panel, AtomLib ile yeniden tasarlandı.
+  - Hesap hareketleri geçmişi eklendi.
+  - Para yatırma ve çekme bugı düzeltildi.
+  - ATM modeli değiştirildi.
+  - Banka modeli düzeltildi.
+• Benzin sistemi(Petrol) yenilendi.
+  - Panel, AtomLib ile yeniden tasarlandı.
+  - Petrol blipleri düzeltildi.
+  - Petrol ismi ve sahibi yazı olarak eklendi.
+  - Pompalara ikon eklendi.
+• Son 3 aydır girmeyenlerin evleri silindi.
+  - Toplam silinen ev sayısı: 68
+
 [23.08.2023]
 • F7 (Galeri sistemi) yenilendi.
   - Panel, AtomLib ile yeniden tasarlandı.
