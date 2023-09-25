@@ -1,3 +1,18 @@
+[26.09.2023]
+• Sahibinden sistemi eklendi!
+  - İlan ekleme, kaldırma, inceleme, detay görme ve satın alma işlevleri.
+  - İlanınıza Araç, AC, Animasyonlu Kaplama, Şans Kutusu, Araç İsim Değiştirici, Protokol Plaka ve Oyun parası koyabilirsiniz.
+  - Hem AC ile hem Oyun parası ile ilanlarınızı satılığa koyabilirsiniz.
+  - Oyunda yokken ilanınız satılırsa Oyun Parası bankanıza, AC hesabınıza eklenir.
+  - Oyunda yokken satın alınan ilanınız hakkında oyuna girince bilgi alırsınız.
+  - İlan araç ise güzel bir mekanda aracınız tabela ile sergilenir.
+  - En fazla 2 ilan koyabilirsiniz ama VIP üyeliğiniz varsa 5'e kadar ilan koyabilirsiniz.
+  - İlanınıza başlık ve not ekleyebilirsiniz.
+• Sahibinden uygulaması telefona eklendi.
+• AC Marketine 'İlan Limit Arttırıcı' eklendi.
+• 3 adet karakter eklendi.
+  - İlayda, Ezgi ve Elena.
+
 [03.09.2023]
 • Banka sistemi yenilendi.
   - Panel, AtomLib ile yeniden tasarlandı.
