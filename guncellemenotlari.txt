@@ -1,3 +1,16 @@
+[27.09.2023]
+• Sahibinden sistemi güncellendi!
+  - İlan Başlığına, içeriğine ya da sahibine göre arama yapma eklendi.
+  - İlanlar sıralandı.
+  - İlanlar renklendirildi.
+  - İlan limiti görme eklendi.
+  - Discord sunucumuza sahibinden log kanalı açıldı.
+• /ilanver kaldırıldı.
+• Şans kutusuna 'İlan Limit Arttırıcı' eklendi.
+• Los Santos bölgesine yeni evler açıldı.
+  - 54 adet 50m'den başlayan fiyatlarla...
+• Client taraflı CPU kullanım iyileştirmeleri yapıldı.
+
 [26.09.2023]
 • Sahibinden sistemi eklendi!
   - İlan ekleme, kaldırma, inceleme, detay görme ve satın alma işlevleri.
