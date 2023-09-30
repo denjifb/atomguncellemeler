@@ -1,3 +1,26 @@
+[30.09.2023]
+• [Tofaş] Şahin düzenlendi.
+  - 4 kapı düzeltildi.
+  - Col düzeltildi.
+  - Doğan SLX yazısı kaldırıldı.
+  - Kaplama desteği eklendi.
+  - Spoiler desteği eklendi.
+  - Sis ve far düzeltildi.
+  - Plaka desteği eklendi.
+  - Tampon düzenlendi.
+• [BMW] E90 düzenlendi.
+  - Angel far eklendi.
+  - Kaplama desteği eklendi.
+  - Sallanma sorunu düzeltildi.
+  - Spoiler desteği eklendi.
+• [BMW] E30 düzenlendi.
+  - Angel far eklendi.
+  - Boyut iyileştirmesi yapıldı.
+  - Col düzeltildi.
+  - Gereksiz parçalar kaldırıldı.
+  - Jant değiştirildi.
+  - Spoiler desteği eklendi.
+
 [27.09.2023]
 • Sahibinden sistemi güncellendi!
   - İlan Başlığına, içeriğine ya da sahibine göre arama yapma eklendi.
