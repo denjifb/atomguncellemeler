@@ -1,3 +1,27 @@
+[2.10.2023]
+• [BMW] M4 düzenlendi.
+  - Optimize edildi.
+  - Spoiler desteği eklendi.
+  - Far düzenlendi.
+  - Stop düzenlendi.
+  - Gereksiz parçalar kaldırıldı.
+  - Teker küçültüldü.
+  - Cam filmi saydamlaştırıldı.
+• [BMW] M5 F90 düzenlendi.
+  - Optimize edildi.
+  - Far düzenlendi.
+  - Stop düzenlendi.
+  - 4 kapı düzeltildi.
+  - Spoiler desteği eklendi.
+  - Cam filmi saydamlaştırıldı.
+• [Volkswagen] Scirocco düzenlendi.
+  - Optimize edildi.
+  - Far düzenlendi.
+  - Stop düzenlendi.
+  - Gereksiz parçalar kaldırıldı.
+• Drift sayacı optimize edildi.
+• Sanayi optimize edildi.
+
 [30.09.2023]
 • [Tofaş] Şahin düzenlendi.
   - 4 kapı düzeltildi.
