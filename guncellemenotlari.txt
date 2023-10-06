@@ -1,3 +1,11 @@
+[06.10.2023]
+• Usta ikonu eklendi.
+• Tab panel'e oyuncu durumu eklendi.
+• F7(Galeri sistemi) düzenlendi.
+  - Çıkarılan araçların adı yeşil yapıldı.
+  - Araç seçili değilken satma bug'ı düzeltildi.
+• Optimizasyon yapıldı.
+
 [04.10.2023]
 • [BMW] M4 2020 düzenlendi.
   - İsmi "[BMW] M4 G82" olarak değiştirildi.
