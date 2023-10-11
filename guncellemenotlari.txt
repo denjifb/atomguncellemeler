@@ -1,3 +1,19 @@
+[11.10.2023]
+• Login paneli sıfırdan yapıldı.
+  - Şifremi unuttum özelliği.
+  - Daha hızlı giriş.
+• [BMW] E60 far düzenlendi.
+• [TOYOTA] SUPRA düzenlendi.
+• [NISSAN] GTR R34 düzenlendi.
+• Ev sistemine yeni interior'lar eklendi.
+• Otobüs rotası düzeltildi.
+• Local chat spam koruması eklendi.
+• Görev sıralama paneli optimize edildi.
+• Kumar slot limiti yükseltildi ve x2, 1/2 işlevleri eklendi.
+• Sahibinden'e ilanı seçince bilgi görme eklendi.
+• Twitter; X'e güncellendi, hapishanede kapatıldı.
+• Kumardaki ATM düzeltildi.
+
 [06.10.2023]
 • Usta ikonu eklendi.
 • Tab panel'e oyuncu durumu eklendi.
