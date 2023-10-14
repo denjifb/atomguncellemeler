@@ -1,3 +1,13 @@
+[14.10.2023]
+• Ses sistemi yenilendi.
+  - Dönüştürücü gerektirmeden YouTube'dan şarkı açma!
+  - Çalma listesi oluşturma!
+  - Çalan şarkıdaki kalan süresi görme!
+• ESC(Ayarlar)'ye yeni ayarlar eklendi.
+  - İsim etiketi ikon gizleme.
+  - Diğer oyuncuların hoparlörünü susturma.
+• /epostadegis eklendi.
+
 [11.10.2023]
 • Login paneli sıfırdan yapıldı.
   - Şifremi unuttum özelliği.
