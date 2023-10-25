@@ -1,3 +1,23 @@
+[25.10.2023]
+• [LAMBORGHINI] düzenlendi.
+  - Far, stop ve F6 Lastik ayarı uyumu.
+• [NISSAN] Silvia S15 düzenlendi.
+  - Far, stop, spoiler desteği ve karbon kaput.
+• [NISSAN] GTR düzenlendi.
+  - Far, stop ve spoiler desteği.
+• [MERCEDES] E63 AMG düzenlendi.
+  - Far, stop ve iç ambiyans ışığı.
+• [FERRARI] 488 Pista düzenlendi.
+  - Far ve stop.
+• [TOFAŞ] Dogan SLX düzenlendi.
+  - Far ve stop.
+• [RENAULT] Megane düzenlendi.
+  - Far, stop ve spoiler desteği.
+• Ada turfları kaldırıldı.
+• Turf'daki ölümsüzlük bugı kaldırıldı.
+• Görev'deki driveby bugı kaldırıldı.
+• Kullanılmayan 2 bölge silindi.
+
 [14.10.2023]
 • Ses sistemi yenilendi.
   - Dönüştürücü gerektirmeden YouTube'dan şarkı açma!
