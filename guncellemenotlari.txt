@@ -1,3 +1,15 @@
+[31.10.2023]
+• [TOGG] T10X eklendi.
+• [RENAULT] Toros galeriye eklendi.
+• Galerilerin görünümü için taban ve duvar eklendi.
+• Galeri ped kaybolma bugı kaldırıldı.
+• Temel eşyalara Türk Bayrağı eklendi.
+• 100.Yıl özel logo ve giriş eklendi.
+• 100.Yıl özel üretim tag eklendi.
+• atomgaming.net düzenlendi.
+  - API yenilendi.
+  - Oyuncu durum ve ID görme eklendi.
+
 [25.10.2023]
 • [LAMBORGHINI] düzenlendi.
   - Far, stop ve F6 Lastik ayarı uyumu.
