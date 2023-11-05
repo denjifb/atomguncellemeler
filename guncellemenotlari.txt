@@ -1,3 +1,28 @@
+[05.11.2023]
+• Tuning sistemi eklendi.
+  - F6>Tuning menüsü altından erişebilirsiniz.
+  - Tuning uyumlu araçların parçalarını değiştirebilirsiniz.
+  - Her parçanın 250k ücreti vardır.
+• [BMW] M5 F90 yenilendi.
+  - Parlama sorunu düzeltildi.
+  • Tuning desteği eklendi.
+    - 7 tane Böbrek
+    - 5 tane Spoiler ve Difüzör
+    - 4 tane Ön tampon eki ve Kaput
+    - 3 tane Ön tampon, Yan etek, Tavan, Sağ ayna ve Sol ayna
+    - 2 tane Arka tampon, Amblem, Koltuk, Far ve Stop
+• [HONDA] S2000 yenilendi.
+  - Kaplama ve plaka desteği eklendi.
+  • Tuning desteği eklendi.
+    - 4 Ön tampon, Arka tampon ve Kaput
+    - 3 Spoiler
+    - 2 Yan etek
+    - 1 Tavan (Hardtop)
+• [NISSAN] SILVIA S13 eklendi.
+  • Tuning desteği.
+    - 3 Ön tampon, Arka tampon ve Yan etek
+    - 1 Spoiler
+
 [31.10.2023]
 • [TOGG] T10X eklendi.
 • [RENAULT] Toros galeriye eklendi.
