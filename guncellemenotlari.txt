@@ -1,3 +1,27 @@
+[06.11.2023]
+• [NISSAN] GTR R34 düzenlendi.
+  - Tuning desteği eklendi.
+    * 8 Ön tampon
+    * 7 Spoiler
+    * 6 Arka tampon ve Yan etek
+    * 5 Kaput
+    * 3 Ön çamurluk ve Stop
+    * 2 Difüzör, Amblem ve Arka çamurluk
+• [MERCEDES] G63 düzenlendi.
+  - Tuning desteği eklendi.
+    * 9 Izgara
+    * 8 Stepne
+    * 7 Ön tampon
+    * 6 Arka tampon ve Kaput
+    * 5 Tavan
+    * 4 Çamurluk, Amblem ve Spoiler
+    * 3 Far ve Yan etek
+    * 2 Stop
+    * 1 Boynuz
+  - İç aydınlatma eklendi.
+  - Optimizasyon yapıldı.
+• Yabancı bayraklar Türk Bayrağı yapıldı.
+
 [05.11.2023]
 • Tuning sistemi eklendi.
   - F6>Tuning menüsü altından erişebilirsiniz.
