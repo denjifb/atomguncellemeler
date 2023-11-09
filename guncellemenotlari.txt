@@ -1,3 +1,35 @@
+[09.11.2023]
+• [AUDI] RS4 yerine [AUDI] RS6 eklendi.
+  - Tuning desteği;
+    * 4 Kaput
+    * 3 Arka tampon, Yan etek, Far ve Ön tampon eki
+    * 2 Hava kanalı, Spoiler ve Stop
+    * 1 Panjur eki
+  - Fiyatı 2.000.000₺
+• [BMW] E60 düzenlendi.
+  - Tuning desteği;
+    * 6 Far
+    * 4 Spoiler
+    * 3 Izgara
+    * 2 Ön tampon, Ön tampon eki, Egzoz, Stop ve Kaput
+    * 1 Ön Tampon Rüzgarlık
+• [BMW] M3 E92 düzenlendi. 
+  - Tuning desteği;
+    * 5 Ön tampon ve Spoiler
+    * 4 Far
+    * 3 Arka tampon, Yan etek, Bagaj ve Kaput
+    * 2 Amblem, Tavan ve Ön çamurluk
+    * 1 Arka çamurluk ve Ön tampon eki
+• [NISSAN] SILVIA S15 düzenlendi.
+  - Tuning desteği;
+    * 10 Ön tampon
+    * 8 Kaput, Arka tampon, Spoiler ve Yan etek
+    * 6 Arka çamurluk, Ön çamurluk
+    * 4 Stop
+    * 3 Stop camı
+    * 2 Amblem ve Far
+    * 1 Far kaşı
+
 [06.11.2023]
 • [NISSAN] GTR R34 düzenlendi.
   - Tuning desteği eklendi.
