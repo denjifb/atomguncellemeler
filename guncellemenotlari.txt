@@ -1,8 +1,8 @@
 [09.11.2023]
 • [AUDI] RS4 yerine [AUDI] RS6 eklendi.
   - Tuning desteği;
-    * 4 Kaput
-    * 3 Arka tampon, Yan etek, Far ve Ön tampon eki
+    * 4 Kaput, Arka tampon
+    * 3 Yan etek, Far ve Ön tampon eki
     * 2 Hava kanalı, Spoiler ve Stop
     * 1 Panjur eki
   - Fiyatı 2.000.000₺
