@@ -1,3 +1,27 @@
+[12.11.2023]
+• [PORSCHE] 911 TURBO S eklendi.
+  - [ÖZEL] Spoiler animasyonu eklendi.
+    * 120 km/s'ye ulaşınca spoiler açılır.
+  - Fiyat: 8.000.000₺
+  - Tuning desteği;
+    * 3 Arka tampon, Ön tampon, Kaput ve Bagaj
+    * 2 Yan etek, Ön çamurluk, Arka çamurluk, Tavan spoiler ve Tavan
+• [NISSAN] GTR yenilendi.
+  - İsmi, [NISSAN] GTR R35 olarak değiştirildi.
+  - Fiyatı yükseltildi: 4.000.000₺
+  - Tuning desteği;
+    * 7 Ön tampon
+    * 6 Arka tampon ve Yan etek
+    * 3 Ön çamurluk ve Spoiler
+    * 2 Arka çamurluk, Stop ve Far
+    * 1 Kaput ve Difüzör
+• [FERRARI] 488 Pista yenilendi.
+  - İsmi, [FERRARI] 488 olarak değiştirildi.
+  - Fiyatı yükseltildi: 7.000.000₺
+  - Tuning desteği;
+    * 3 Arka tampon, Ön tampon, Kaput, Spoiler, Yan etek ve Tavan
+    * 2 Ön çamurluk, arka çamurluk ve Stop
+
 [09.11.2023]
 • [AUDI] RS4 yerine [AUDI] RS6 eklendi.
   - Tuning desteği;
