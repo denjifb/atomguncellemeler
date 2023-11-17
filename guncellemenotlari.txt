@@ -1,9 +1,9 @@
 [17.11.2023]
-- Sahibinden sistemi düzenlendi.
+• Sahibinden sistemi düzenlendi.
  - Tuning görme eklendi.
  - 4 renk görme eklendi.
  - İncelerken fare ekranda kalma düzeltildi.
-- Galeri sistemi düzenlendi.
+• Galeri sistemi düzenlendi.
  - Tamamen optimize edildi.
  - 4 renk kayıt etme eklendi.
  - Renkleri tam kayıt edememe düzeldi.
