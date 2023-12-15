@@ -1,3 +1,15 @@
+[15.12.2023]
+• 3 ay girmeyenlerin evleri satışa sunuldu.
+  - Ev sayısı: 38
+• F1 paneldeki araç god bugı düzeltildi.
+• Spawn bölgelerine '+' ikonu eklendi.
+• Sanayi fiyat tabelası yenilendi.
+• 22 yeni ATM eklendi.
+• 3 Yeni Banka açıldı.
+  - Köy Bankası
+  - Atom genel Bankası
+  - SF Yeni Bankası
+
 [17.11.2023]
 • Sahibinden sistemi düzenlendi.
  - Tuning görme eklendi.
