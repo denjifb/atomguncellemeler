@@ -1,3 +1,30 @@
+[22.12.2023]
+• [VOLKSWAGEN] PASSAT yenilendi.
+ - Fiyat: 2.000.000₺
+ - Tuning desteği;
+   * 2 Arka Tampon, Ön Tampon Eki, Yan Etek, Spoiler, Stop Camı
+   * 3 Ön Tampon
+   * 4 Far, Çakar, Cam Yazı, Tavan
+   * 6 Bagaj Logo
+   * 7 Panjur, Stop
+• [Dodge] Challenger SRT yenilendi.
+ - Fiyat: 3.500.000₺
+ - Tuning desteği;
+   * 3 Body Kit
+   * 2 Spoiler, Kaput
+• Kış temasına geçildi.
+• Galeriye 43 araç eklendi.
+ - 3 Görev aracı,
+ - 6 Helikopter,
+ - 9 Uçak,
+ - 3 Bisiklet,
+ - 3 Dorse,
+ - 8 Gemi ve daha fazlası!
+• Helikopter pervane öldürmesi kapatıldı.
+• %10 indirimli 3 Aylık VIP'ler eklendi.
+• Galeri Kasa Limit Arttırıcı eklendi.
+• AC Marketindeki 1 ay, 28 gün yerine 30 gün yapıldı. (+2 Gün)
+
 [15.12.2023]
 • 3 ay girmeyenlerin evleri satışa sunuldu.
   - Ev sayısı: 38
