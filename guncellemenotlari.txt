@@ -1,3 +1,35 @@
+[30.12.2023]
+• [HONDA] CİVİC VTEC yerine [HONDA] Civic Type-R eklendi.
+  - Plaka ve kaplama desteği.
+  - Tuning desteği;
+    * 2 Anten
+    * 3 Ön Tampon Rüzgarlık
+    * 6 Ön Tampon Splitter ve Spoiler
+    * 7 Egzoz
+    * 10 Tavan Rüzgarlığı
+• [MITSUBISHI] LANCER yenilendi.
+  - İsmi [MITSUBISHI] Lancer X olarak değiştirildi.
+  - Plaka ve kaplama desteği eklendi.
+  - 4 Kapı desteği eklendi.
+  - Tuning desteği;
+    * 2 Anten, Ön Tampon Eki
+    * 3 Arka Çamurluk, Ön Çamurluk ve Stop
+    * 5 Kaput ve Ön Tampon
+    * 6 Spoiler, Arka Tampon, Far ve Yan Etek
+• [Harley-Davidson] Road King yerine [Harley-Davidson] Fat Boy eklendi.
+  - Plaka ve kaplama desteği.
+  - 2 renk desteği eklendi.
+• [VAZ] 2114 yerine [VAZ] 2107 eklendi.
+  - Plaka ve kaplama desteği.
+  - Fiyatı: 1.000.000₺
+  - Tuning desteği;
+    * 1 Roll Cage
+    * 2 Kaput Eklenti, Bagaj ve Tavan
+    * 3 Izgara, Bagaj Logo, Kaput, Arka Çamurluk, Kaput Aynası ve Stop
+    * 4 Far Eklenti, Ön Tampon ve Arka Tampon
+    * 5 Ön Tampon Splitter, Ön Çamurluk ve Far
+    * 7 Spoiler
+
 [22.12.2023]
 • [VOLKSWAGEN] PASSAT yenilendi.
  - Fiyat: 2.000.000₺
