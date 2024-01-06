@@ -1,3 +1,23 @@
+[06.01.2024]
+• [VOLKSWAGEN] Polo yerine [VOLKSWAGEN] Golf Mk7 eklendi.
+  - Fiyat: 1.750.000₺
+  - Tuning desteği;
+    * 4 Ön Tampon
+    * 3 Arka Tampon
+    * 2 Yan Etek
+• [SUBARU] Impreza düzenlendi.
+  - Fiyat: 1.500.000₺
+  - 3 renk desteği. 
+    * Ana renk, döşeme rengi ve jant rengi.
+  - Tuning desteği;
+    * 9 Ön Tampon
+    * 8 Spoiler
+    * 5 Arka Tampon ve Ön Tampon Splitter
+    * 4 Kaput, Yan Etek ve Stop
+    * 3 Ön Çamurluk ve Far
+    * 2 Bagaj, Tavan
+    * 1 Arka Çamurluk
+
 [30.12.2023]
 • [HONDA] CİVİC VTEC yerine [HONDA] Civic Type-R eklendi.
   - Plaka ve kaplama desteği.
