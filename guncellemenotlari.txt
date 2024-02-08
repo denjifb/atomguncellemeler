@@ -1,3 +1,18 @@
+[08.02.2024 - Yayınlanmayan güncellemeler]
+• [VOLKSWAGEN] Golf Mk7 aracına ekstra tuning eklendi.
+• Hapishane sistemi kaldırıldı, cezalar ban olarak güncellendi.
+• Hesap açma limiti(2) eklendi.
+• Petrol ofisi objesi düzenlendi.
+  - OPET olarak değiştirildi.
+  - OPET Full Market eklendi.
+  - Optimizasyon yapıldı.
+• Klag logları temizlendi.
+• Klan listesindeki renk kodları gizlendi.
+• Sanayi bölgesi optimizasyon yapıldı.
+• Bir çok scriptte olan ciddi optimizasyon sorunları giderildi.
+• Hile koruma sistemine ekstra önlemler eklendi.
+• Kullanılmayan gereksiz veriler silindi.
+
 [06.01.2024]
 • [VOLKSWAGEN] Polo yerine [VOLKSWAGEN] Golf Mk7 eklendi.
   - Fiyat: 1.750.000₺
