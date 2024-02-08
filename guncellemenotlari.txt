@@ -6,7 +6,7 @@
   - OPET olarak değiştirildi.
   - OPET Full Market eklendi.
   - Optimizasyon yapıldı.
-• Klag logları temizlendi.
+• Klan logları temizlendi.
 • Klan listesindeki renk kodları gizlendi.
 • Sanayi bölgesi optimizasyon yapıldı.
 • Bir çok scriptte olan ciddi optimizasyon sorunları giderildi.
