@@ -1,3 +1,13 @@
+[09.02.2024]
+• AC Marketindeki "Oyun Parası" ürünleri değiştirildi.
+  - Oyun Parası 1 (20AC) -> 60.000.000₺
+  - Oyun Parası 2 (40AC) -> 120.000.000₺
+• AC satma limiti getirildi.
+  - 1AC en fazla 5.000.000₺'ye satılabilir.
+• Level atlama ödülleri arttırıldı.
+  - Miktar: (leveliniz * 20.000₺)
+  - Örnek: 100 level ödülü 2.000.000₺
+
 [08.02.2024 - Yayınlanmayan güncellemeler]
 • [VOLKSWAGEN] Golf Mk7 aracına ekstra tuning eklendi.
 • Hapishane sistemi kaldırıldı, cezalar ban olarak güncellendi.
