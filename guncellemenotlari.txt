@@ -1,3 +1,13 @@
+[06.03.2024]
+• Borsa sistemi yenilendi.
+  - Panel değiştirildi.
+  - Donma sorunu düzeltildi.
+  - %1 komisyon eklendi.
+  - BİST 100 ve Sterlin eklendi.
+  - Optimizasyon yapıldı.
+• Taksi mesleği kazancı 3 kat arttırıldı.
+• Pizza mesleği kazancı 2 kat arttırıldı.
+
 [09.02.2024]
 • AC Marketindeki "Oyun Parası" ürünleri değiştirildi.
   - Oyun Parası 1 (20AC) -> 60.000.000₺
