@@ -1,3 +1,16 @@
+[12.03.2024]
+• Mod yükleme sistemi değiştirildi.
+  - Daha optimize ram kullanımı.
+  - Sunucuya yaklaşık 3 kat daha hızlı giriş.
+  - Araç yüklenme süresi belirleme.
+  - Modern, sürüklenebilir mod indirilme göstergesi.
+  - Kullanıcı dostu panel.
+  - Kayıt özelliği.
+• Modlu kıyafet kapatma eklendi.
+• Sanayi bölgesi düzenlendi.
+• İftar sayacı eklendi.
+• Giriş paneli yenilendi.
+
 [06.03.2024]
 • Borsa sistemi yenilendi.
   - Panel değiştirildi.
