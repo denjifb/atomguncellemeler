@@ -1,3 +1,37 @@
+[14.03.2024]
+• [CHEVROLET] CORVETTE yerine [MCLAREN] 570S eklendi.
+  - Fiyat: 6.500.000₺.
+  - Stock jant renk ayarlama.
+  - Tuning desteği;
+    * 5 Spoiler ve Arka Tampon
+    * 4 Tavan
+    * 3 Egzoz, Ön Tampon ve Kaput
+    * 1 Yan Etek Eki
+• [AUDI] R8 düzenlendi.
+  - Stock jant renk ayarlama.
+  - Kaplama desteği.
+  - Tuning desteği;
+    * 14 Difüzor
+    * 12 Egzoz
+    * 11 Arka ve Ön Tampon
+    * 10 Ön Tampon Yan Splitter
+    * 9 Kaput ve Spoiler
+    * 4 Yan Etek
+    * 3 Arka ve Ön Çamurluk
+• [NISSAN] 370Z düzenlendi.
+  - Fiyatı: 1.250.000₺.
+  - Stock jant renk ayarlama.
+  - Tuning desteği;
+    * 10 Ön Tampon Splitter
+    * 9 Spoiler
+    * 6 Egzoz
+    * 5 Yan Etek ve Ön Tampon
+    * 4 Arka Tampon
+    * 3 Ön Çamurluk
+    * 2 Difüzör, Kaput
+• [SUBARU] Impreza çökmesi düzeltildi.
+• Son güncelleme sonrası bozulan tuning düzeltildi.
+
 [12.03.2024]
 • Mod yükleme sistemi değiştirildi.
   - Daha optimize ram kullanımı.
