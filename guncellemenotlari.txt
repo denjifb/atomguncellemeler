@@ -1,3 +1,15 @@
+[18.03.2024]
+• Animasyonlu Plaka eklendi.
+  - Font, hareket yönü, hız, bekleme, yazı boyutu, yazı rengi ve arkaplan rengi ayarlama seçeneği.
+  - Fiyat: 40AC
+• Şans kutusuna Animasyonlu Plaka eklendi.
+• Sanayi dükkanları düzenlendi.
+• Sanayi mesafe sorunu düzeltildi.
+• Araçtan sıkma kaldırıldı.
+• Ürün fiyat güncellemesi yapıldı.
+  - Animasyonlu Kaplama: 50AC
+  - Garaj: 200AC
+
 [14.03.2024]
 • [CHEVROLET] CORVETTE yerine [MCLAREN] 570S eklendi.
   - Fiyat: 6.500.000₺.
