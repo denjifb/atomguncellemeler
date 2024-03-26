@@ -1,3 +1,15 @@
+[26.03.2024]
+• Animasyonlu kaplama paneli düzenlendi.
+  - 74 adet yeni kaplama eklendi.
+  - Saydamlık düzeltildi.
+  - Kapatma butonu eklendi.
+  - Rastgele butonu eklendi.
+  - İyileştirmeler yapıldı.
+• 3 ay girmeyenlerin evleri silindi.
+  - Silinen ev sayısı: 33
+• Kafa döndürme özelliği eklendi.
+• Turf sistemi optimizasyonu yapıldı.
+
 [18.03.2024]
 • Animasyonlu Plaka eklendi.
   - Font, hareket yönü, hız, bekleme, yazı boyutu, yazı rengi ve arkaplan rengi ayarlama seçeneği.
