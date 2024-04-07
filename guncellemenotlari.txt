@@ -1,3 +1,22 @@
+[07.04.2024]
+• Klan paneli düzenlendi.
+  - İstatistik görüntüleme paneli kaldırıldı, üyeler kısmına eklendi.
+  - Üye durumu görme eklendi.
+  - Katılma tarihi eklendi.
+  - Turf maaşının nereye yatacağını ayarlama eklendi.(klan bankası/oyuncu)
+  - Görevlerde panel açılma eklendi.
+  - Klan sahipleri kısmı eklendi.
+  - Hatırlatma bugı düzeltildi.
+  - Klan maaşının yatacağı yer banka yapıldı.
+  - Klan üye kapasiteleri arttırıldı.
+  - Klan isim değiştirme yetkisi eklendi.
+  - Klan banka yatırma/çekme limiti arttırıldı.
+  - Detaylandırma yapıldı.
+• Banka düzenlendi.
+  - Hesap hareketleri kısmına kaydırma eklendi.
+  - İşlem yapılacak paraya okunabilirlik özelliği eklendi.
+• Hoca karakteri kaldırıldı.
+
 [26.03.2024]
 • Animasyonlu kaplama paneli düzenlendi.
   - 74 adet yeni kaplama eklendi.
