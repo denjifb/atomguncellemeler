@@ -1,3 +1,40 @@
+[14.04.2024]
+• F6 Modifiye Paneli düzenlendi.
+  - Panel tasarımı yenilendi.
+  - Handling kaldırıldı.
+  - Flaşör bugı düzeltildi.
+  - 6 yeni normal kaplama eklendi.
+  - Turbo ve egzoz patlatma bug düzeltildi.
+  - Passat, Limuzin, RS6, E60, M5 F90, Cadillac, Range Rover, Megane ve G63 araçlarına flaşör eklendi.
+  - Usta kontrollerine kısıtlama getirildi.
+    * Ustalar sadece sanayi bölgesinde ustalık kontrollerini kullanabilirler.
+  - Animasyonlu Kaplama, Animasyonlu Plaka ve Protokol Plaka silme koruması eklendi.
+    * Sadece araç sahibi silebilir/değiştirebilir.
+• Araç İsim Değiştirici düzenlendi.
+  - Envanterden kaldırılıp F6 panele eklendi.
+  - Karakter limiti arttırıldı(128).
+• Animasyonlu Kaplama düzenlendi.
+  - Envanterden kaldırılıp F6 panele eklendi.
+  - Deneme özelliği herkese açıldı.
+• Animasyonlu Plaka karakter limiti arttırıldı(64).
+  - Envanterden kaldırılıp F6 panele eklendi.
+  - Karakter limiti arttırıldı(128).
+  - Deneme özelliği herkese açıldı.
+  - Renk kodu girme eklendi.
+• Sanayi güvenli alan yapıldı.
+• Modifiye izni ayarı eklendi.
+  - Başkalarınızın aracınızı modifiye edip/edemeyeceği.
+  - Default olarak kapalı gelir.
+• F1 Işınlan bugı düzeltildi, durum eklendi.
+• F7 Galeri Sistemi düzenlendi.
+  - Araçtaki ekstraları(AK, AP, PP) görme eklendi.
+    * AK: Animasyonlu Kaplama
+    * AP: Animasyonlu Plaka
+    * PP: Protokol Plaka
+  - Satış panelindeki oyuncu arama bugı düzeltildi.
+  - Araba teklif gönderme/alma panellerine ayrıntı eklendi.
+  - Detaylandırmalar yapıldı.
+
 [07.04.2024]
 • Klan paneli düzenlendi.
   - İstatistik görüntüleme paneli kaldırıldı, üyeler kısmına eklendi.
