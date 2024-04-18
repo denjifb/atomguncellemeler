@@ -1,3 +1,42 @@
+[18.04.2024]
+• [MERCEDES] 190E eklendi.
+  - Fiyatı: 2.000.000₺
+  - Animasyon ve plaka desteği.
+  - Tuning desteği;
+   * 8 Egzoz
+   * 4 Arka Tampon, Bagaj Logo, Far Camı ve Stop
+   * 3 Far, Izgara, Ön Tampon ve Spoiler
+   * 2 Radyatör, Stop Camı, Tavan, Ön Tampon Splitter ve Kaput
+   * 1 Ön Led ve Yan Etek
+• [FORD] Transit eklendi.
+  - Fiyatı: 900.000₺
+  - Animasyon ve plaka desteği.
+  - Tuning desteği;
+   * 3 Egzoz, Çamurluk ve Çamurluk Led
+   * 2 Arka Tampon ve Ön Tampon
+   * 1 Izgara Süsü, Yan Etek ve Ön Tampon Splitter
+• [YAMAHA] R1 yerine [DUCATI] Desmosedici RR eklendi.
+  - Fiyatı: 600.000₺
+  - Animasyon ve plaka desteği.
+  - Tuning desteği;
+   * 1 Ayna ve Egzoz
+• [AUDI] A4 yerine [AUDI] A6 eklendi.
+  - Fiyatı: 5.000.000₺
+  - Animasyon ve plaka desteği.
+  - Tuning desteği; 
+   * 6 Kaput
+   * 5 Ön Tampon Splitter, Ön Tampon ve Difüzör
+   * 4 Arka Tampon ve Böbrek
+   * 3 Arka Çamurluk, Ön Çamurluk, Ön Tampon Rüzgarlık, Spoiler ve Yan Etek
+• [LIMUZIN] Makam Aracı düzenlendi.
+  - İsmi [MERCEDES] Maybach S650 olarak değiştirildi.
+  - Far ve Stop düzeltildi.
+  - Kaplama düzeltildi.
+  - Tuning desteği; 
+   * 2 Far, Kaput ve Ön Tampon
+• Klan sistemine üye susturma eklendi.
+• /ses YouTube düzeltildi.
+
 [14.04.2024]
 • F6 Modifiye Paneli düzenlendi.
   - Panel tasarımı yenilendi.
