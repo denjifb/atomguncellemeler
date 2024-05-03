@@ -1,3 +1,17 @@
+[03.05.2024]
+• F6/Lastik Ayarları yenilendi.
+  - Lastik büyüklüğünü ayarlama ön ve arka olarak ayrıldı.
+  - Jant tipini ayarlama ön ve arka olarak ayrıldı.
+  - Jant boyama özelliği eklendi.
+  - Bazı tekerlerin gri gözükmesi düzeltildi.
+  - Jantlara daha gerçekçi parlama eklendi.
+• F3/Meslekler paneli yenilendi.
+  - Günlük bonuslu görev sistemi eklendi.
+   * Her gün sistem tarafından 2 para ve 1 klan xp bonuslu görev sistem tarafından belirlenir.
+  - Görev yapan oyuncuları görme eklendi.
+• Scoreboard(tab)'a oyuncu ID'leri eklendi.
+• Genel optimizasyon yapıldı.
+
 [18.04.2024]
 • [MERCEDES] 190E eklendi.
   - Fiyatı: 2.000.000₺
