@@ -1,3 +1,37 @@
+[19.06.2024]
+• [BMW] E38 yerine [BMW] E36 eklendi.
+  - Fiyatı: 1.500.000₺
+  - Animasyon ve plaka desteği.
+  - Tuning desteği;
+    * 5 Spoiler
+    * 4 Böbrek
+    * 3 Stop Camı, Ön Cam Etiket, Tavan, Far
+    * 2 Arka Çamurluk, Arka Tampon, Ön Çamurluk, Ön Tampon, Kaput, Stop
+    * 1 Yan Cam Etiket, Ön Tampon Süs, Far Kaşı, RollCage, Splitter
+• [Tesla] Model S yerine [BUGATTI] Chiron eklendi.
+  - Fiyatı: 15.000.000₺
+  - Animasyon ve plaka desteği.
+  - Tuning desteği;
+    * 4 Kaput
+    * 3 Arka Tampon, Arka Tampon Ek, Kapı Eklenti, Motor Blok, Ön Tampon, Panjur, Tavan
+    * 2 Yan Etek, Spoiler
+• [MERCEDES] C32 yerine [MERCEDES] S500 eklendi.
+  - Fiyatı: 8.500.000₺
+  - Animasyon ve plaka desteği.
+  - Tuning desteği;
+    * 5 Ön Tampon
+    * 4 Arka Tampon, Bagaj Logo
+    * 2 Far, Kaput
+    * 1 Yan Etek, Arka Cam Rüzgarlık
+• [AUDI] RS5 yerine [AUDI] RS7 eklendi.
+  - Fiyatı: 7.000.000₺
+  - Animasyon ve plaka desteği.
+  - Tuning desteği;
+    * 3 Tavan
+    * 2 Arka Tampon, Ön Tampon, Yan Etek, Spoiler
+    * 1 Ön Panjur Ek, Çamurluk Ek
+• Kafa çevirme özelliğine kapatma eklendi.
+
 [03.05.2024]
 • F6/Lastik Ayarları yenilendi.
   - Lastik büyüklüğünü ayarlama ön ve arka olarak ayrıldı.
