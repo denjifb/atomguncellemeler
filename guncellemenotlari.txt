@@ -1,3 +1,30 @@
+[23.06.2024]
+• Sahibinden sistemi güncellendi.
+  - Sıralama özelliği eklendi.
+    * Yeniden Eskiye
+    * Eskiden Yeniye
+    * En Düşük Fiyat
+    * En Yüksek Fiyat
+  - Filtreleme özelliği eklendi.
+    * Fiyat Tipi
+    *  Fiyat Aralığı
+    * İlan Tipi
+    * İlan Sahibi
+    * Araç
+    * Araç İsim Etiketi
+    * Araç Tag
+    * Araç Kaplama
+    * Araç Plaka
+    * Araç ID Aralığı
+  - Yetkililer için İlan'a el koyma özelliği eklendi.
+  - Fare bugı düzeltildi.
+  - Discord logları detaylandırıldı.
+• Telefon düzenlendi.
+  - Görünüm Iphone 15 Max Pro olarak değiştirildi.
+  - İkonlar güncellendi.
+  - Getir yazı bugı düzeltildi.
+  - Binance kaldırıldı.
+
 [19.06.2024]
 • [BMW] E38 yerine [BMW] E36 eklendi.
   - Fiyatı: 1.500.000₺
