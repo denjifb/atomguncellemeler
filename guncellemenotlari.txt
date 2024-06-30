@@ -1,3 +1,54 @@
+[30.06.2024]
+• [ROLLS-ROYCE] Cullinan, [ROLLS-ROYCE] Dawn yerine eklendi.
+  - Fiyatı: 30.000.000₺
+  - Kaplama ve plaka desteği.
+  - Tuning desteği;
+    * 4 Arka Tampon, Ön Tampon
+    * 3 Amblem
+    * 2 Bagaj Çita, Çamurluk, Izgara, Kaput, Yan Etek
+    * 1 Çakar, Spoiler, Tavan Bagaj
+• [CHEVROLET] Corvette, [ASTONMARTIN] V12 yerine eklendi.
+  - Fiyatı: 7.000.000₺
+  - Kaplama ve plaka desteği.
+  - Tuning desteği;
+    * 7 Yan Etek
+    * 6 Spoiler, Egzoz
+    * 5 Arka Tampon, Ön Tampon, Ön Çamurluk
+    * 4 Arka Çamurluk, Difüzör, Kaput
+    * 1 Tavan
+• [MERCEDES] AMG GT3 düzenlendi.
+  - Fiyatı: 4.000.000₺
+  - Kaplama desteği.
+  - Tuning desteği;
+    * 6 Spoiler
+    * 5 Ön Tampon
+    * 4 Arka Tampon, Ön Çamurluk, Tavan, Splitter
+    * 3 Arka Çamurluk, Kaput, Ön Çamurluk, 
+    * 2 Yan Etek
+• [TOYOTA] Supra düzenlendi.
+  - Fiyatı: 2.000.000₺
+  - Tuning desteği;
+    * 20 Ön Tampon
+    * 12 Kaput
+    * 11 Arka Tampon, Spoiler
+    * 9 Egzoz
+    * 8 Yan Etek
+    * 5 Stop
+    * 4 Bagaj
+    * 3 Splitter, Ayna, Koltuk, Etiket
+    * 2 Difüzör, Far, Direksiyon
+    * 1 Tavan, Radyatör, Ön Çamurluk, Arka Çamurluk, Roll cage
+• [FORD] F150 Raptor düzenlendi.
+  - Fiyatı: 3.000.000₺
+  - Tuning desteği;
+    * 8 Egzoz
+    * 5 Kaput
+    * 4 Arka Çamurluk, Ön Çamurluk, Ön Tampon, Panjur, Tepe Lamba, Yan Etek
+    * 3 Arka Tampon, Spoiler
+    * 1 Bagaj Eklenti
+• [VOLKSWAGEN] Scirocco düzenlendi
+ - Plaka desteği.
+
 [23.06.2024]
 • Sahibinden sistemi güncellendi.
   - Sıralama özelliği eklendi.
@@ -7,7 +58,7 @@
     * En Yüksek Fiyat
   - Filtreleme özelliği eklendi.
     * Fiyat Tipi
-    *  Fiyat Aralığı
+    * Fiyat Aralığı
     * İlan Tipi
     * İlan Sahibi
     * Araç
