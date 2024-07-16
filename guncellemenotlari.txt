@@ -1,3 +1,20 @@
+[16.07.2024]
+• Temizlikçi görevi yenilendi.
+  - Level sistemi eklendi.
+  - Sıralama sistemi eklendi.
+  - Aşamalar eklendi.
+    * 1. Sokak Temizleme (20 KlanXP, 15 XP, Mesafe başına 15₺)
+    * 2. Çöp Toplama (40 KlanXP, 30 XP, Mesafe başına 20₺)
+  - Parası iyileştirildi.
+  - Yeni noktalar eklendi.
+• [GTA] Sweeper yenilendi.
+  - Renk değiştirme eklendi.
+  - Tuning desteği;
+    * 3 Kaput, Koltuk, Direksiyon
+    * 2 Arka Tampon, Ön Tampon, Bagaj, Egzoz, Far
+    * 1 Siren, Yer Silme, Nitro, Far Kaşı, Basamak
+• ATOM AC sistemine ekstra korumalar eklendi.
+
 [30.06.2024]
 • [ROLLS-ROYCE] Cullinan, [ROLLS-ROYCE] Dawn yerine eklendi.
   - Fiyatı: 30.000.000₺
