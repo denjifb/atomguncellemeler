@@ -1,3 +1,17 @@
+[22.07.2024]
+• Ayarlar paneli yenilendi.
+  - Panel AtomLib ile yeniden tasarlandı.
+  - Yeni seçenekler eklendi;
+    * Sohbet altı mesajları, Kill mesajları ve X yapışma kapatıp/açma eklendi.
+    * İsim etiketi, HUD ve bilgi mesajları seçeneklendirildi.
+    * Alan Derinliği, Kenar Yumuşatma ve Konstrast grafik ayarları eklendi.
+  - Kar modu değiştirildi (Artık kar yağıyor).
+• Can düzenlemesi yapıldı.
+  - Diamond VIP: 150 Can
+  - Gold VIP: 125 Can
+  - Silver VIP, Bronz VIP, VIP'siz: 100 Can
+• Birçok sisteme optimizasyon ve iyileştirme yapıldı.
+
 [16.07.2024]
 • Temizlikçi görevi yenilendi.
   - Level sistemi eklendi.
