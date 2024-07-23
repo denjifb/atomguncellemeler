@@ -1,3 +1,13 @@
+[24.07.2024]
+• Klan sistemi düzenlendi.
+  - Maaş sistemi değiştirildi;
+    * 00:00 yerine Min Klan XP toplandığı anda gelecek.
+    * Günde bir kez ve sınırsız olmak üzere seçenek eklendi.
+  - İyileştirmeler yapıldı.
+• Turf'dan gelen Klan XP arttırıldı.
+  - 15 dakikada bir gelen XP miktarı 1.6k yerine 12.8k olarak değiştirildi.
+• Ayarlar'a yeni bir gösterge (GTI) eklendi.
+
 [22.07.2024]
 • Ayarlar paneli yenilendi.
   - Panel AtomLib ile yeniden tasarlandı.
