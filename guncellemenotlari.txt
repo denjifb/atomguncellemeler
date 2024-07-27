@@ -1,3 +1,10 @@
+[27.07.2024]
+• Plakalık sistemi eklendi.
+  - Çeşit sayısı: 119
+  - Fiyatı: 30AC
+• Şans kutusuna Plakalık eklendi.
+• F6 panel optimize edildi.
+
 [24.07.2024]
 • Klan sistemi düzenlendi.
   - Maaş sistemi değiştirildi;
