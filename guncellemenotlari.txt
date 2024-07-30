@@ -1,3 +1,12 @@
+[30.07.2024]
+• Cam Filmi sistemi eklendi.
+  - Ön, yan ve arka ayrı ayarlanabilir.
+  - Saydamlık ayarlanabilir.
+  - Sadece ustalar kullanabilir.
+  - Ücreti: 300.000₺
+• F6 teker bugı düzeltildi.
+• Birçok script optimize edildi.
+
 [27.07.2024]
 • Plakalık sistemi eklendi.
   - Çeşit sayısı: 119
