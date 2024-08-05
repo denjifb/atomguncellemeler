@@ -1,3 +1,23 @@
+[05.08.2024]
+• F6/Lastik Ayarları düzenlendi;
+  - Lastik yükseklik ayarlama eklendi.
+  - Lastik aralığı ayarlama detaylandırıldı.
+  - Ön-Arka bağlantı seçeneği eklendi.
+  - CPU kullanımı %50 azaltıldı.
+• F6/Cam Filmi düzenlendi;
+  - Düşük saydamlıklı camlarda far kapalıyken gözükmeme düzeltildi.
+• 48 araca düzenleme yapıldı;
+  - Cam Filmi Düzeltilenler; E60, F90, Cullinan, McLaren, M3 E92, R34, 190E, Passat, Corvette, M4 G82, S2000, Dodge, Bugatti, MX5, S15, S13, Ferrari 488, Panamera, S650, A6, Cadillac, Mustang, 370Z, Clio, Kartal, Scirocco, Mini Cooper, G63, 370Z, Mini Cooper
+  - Cam Filmi eklenenler; E30, Tofaş, Range, C63, M4, E90, Megane, 911, Doğan, Toros, R35, Togg, Civic, Fiorino, Connect
+  - Far Stop düzeltilenler; Range, Clio, MX5, Cadillac, Mustang, Escalade, Fiorino, Connect, Panamera, Mini Cooper
+  - Gelişmiş Plakalık eklenenler; RS6, Cullinan, McLaren, M3 E92, 190E, E30, Range, M4, Corvette, E90, Megane, 911, Dodge, Tofaş, Clio, Kartal, Bugatti, MX5, Fiat 126, Doğan, Toros, R35, S15, S13, Ferrari 488, Panamera, S650, A6, Cadillac, Mustang, 370Z, Escalade, Fiorino, Connect, M4 G82
+  - Kaplama Desteği eklenenler; Range, Clio, Kartal, Civic, Doğan, Toros, Mustang, Escalade, Fiorino, Connect
+  - Col düzeltilenler; Tofaş, Range, Dodge, MX5, Doğan, Fiorino, Connect
+  - Ön Plaka eklenenler; E60, M4, 911, Cadillac, Mustang, Scirocco, Lancer
+  - Çakar desteği eklenenler; S500, E63, Cullinan, C63, M4 G82
+• ATOM AC sistemine ekstra korumalar eklendi.
+• Genel optimizasyon yapıldı.
+
 [30.07.2024]
 • Cam Filmi sistemi eklendi.
   - Ön, yan ve arka ayrı ayarlanabilir.
