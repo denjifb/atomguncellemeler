@@ -1,3 +1,20 @@
+[11.08.2024]
+• F6/Lastik Ayarları düzenlendi;
+  - 31 yeni jant eklendi.
+    * 11 BMW
+    * 6 Mercedes
+    * 3 Porsche
+    * 2 Vossen
+    * 2 BBS
+    * 1 Volkswagen
+    * 1 Brabus
+    * 1 Teneke
+    * 1 Asanti
+    * 1 Hamann
+    * 1 Vorsteiner
+    * 1 ADV
+  - Parlama optimize edildi.
+
 [05.08.2024]
 • F6/Lastik Ayarları düzenlendi;
   - Lastik yükseklik ayarlama eklendi.
