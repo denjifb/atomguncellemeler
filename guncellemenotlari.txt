@@ -1,3 +1,11 @@
+[13.08.2024]
+- Düello sistemi düzenlendi:
+  - Düello durumunu gösteren panel, ekranın üst kısmına eklendi.
+  - Ekstra can avantajı kaldırıldı; herkes artık 100 cana sahip.
+- Diamond VIP'li oyuncular doğduğunda otomatik zırh verme eklendi.
+- Görev araçlarına çarpma kapatıldı.
+- Birkaç script optimize edildi (+5 FPS yaklaşık).
+
 [11.08.2024]
 • F6/Lastik Ayarları düzenlendi;
   - 31 yeni jant eklendi.
