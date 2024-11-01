@@ -1,10 +1,63 @@
+[11.09.2024]
+• 100 saat Bronz VIP otomatikleştirildi.
+• VIP panel;
+  - Can ve zırh bugı düzeltildi.
+  - Araç zıplama kapanmama düzeltildi.
+  - Diamond maaş 100k yapıldı.
+  - Diamond VIP'e araç disko renk eklendi.
+  - Silah almaya çift tıklama özelliği eklendi.
+  - Silver VIP chat rengi kaldırıldı.
+  - Göreve girince Araç Uçma Ve Araç yüzme kapatılma eklendi.
+  - Hile koruması eklendi.
+• AC Marketi;
+  - Sınırsız ürün olunca ürünlerim gözükmeme düzeltildi.
+  - Diamond VIP 100AC'ye yükseltildi.
+• Garaj 700AC'ye yükseltildi.
+• Nametag alt basınca level görme yerine id görme eklendi.
+• F7 Araç ismindeki renk kodları kaldırıldı.
+• Petrol pompa patlama öldürmesi kapatıldı.
+• Dumper gibi büyük araçlar için petrol eklendi. Konum: Bone County
+
+[09.09.2024]
+• F6 İsim Değiştirici;
+  - Önizleme eklendi.
+  - Metin girme yeri büyütüldü.
+  - Karakter limiti 128'den 256'ya yükseltildi.
+• F6 AC'li ürünleri uygulamak ve kaldırmak için 3 kere basma şartı eklendi.
+• F6 Spam koruma eklendi.
+• Animasyonlu Kaplama, Animasyonlu Plaka ve Plakalık hile koruması eklendi.
+• F6 Lastik ayarları donma düzeltildi.
+• F6 Performans iyileştirildi.
+• F6 Klan Plaka düzeltildi.
+• F7 Stok geçmişse uyarı verme eklendi.
+• Galeri otomatik satma açık olunca olan bir hata düzeltildi.
+• F7 araç satma Tag renk kodu kaldırıldı.
+• F7 iyileştirildi.
+• F2 soluk renk değiştirildi.
+
+[05.09.2024]
+• F7 Sıralamaya, KM ve çıkarılan araç seçeneği eklendi.
+• F7 Stok fiyat kısaltıldı.
+• Araç satarken tag renk gözükmeme düzeltildi.
+
+[04.09.2024]
+• F7 sıralama eklendi, panel görünümü iyileştirildi.
+• Sarısite ilan sayısı görme eklendi.
+• Sarısite plakalık filtresi eklendi.
+• Galeri sıradan tag otomatik sat seçeneği eklendi.
+• Galeri arama sonrası araç alınca kayıtlı kalmama sorunu düzeltildi.
+• Çıkmış aracı getirmeye çalışınca limit hatası düzeltildi.
+• Galeri sistemi açıkları kapatıldı.
+• Günlük ödül açığı kapatıldı.
+• HGS kartını geri satma kaldırıldı.
+
 [13.08.2024]
-- Düello sistemi düzenlendi:
+• Düello sistemi düzenlendi:
   - Düello durumunu gösteren panel, ekranın üst kısmına eklendi.
   - Ekstra can avantajı kaldırıldı; herkes artık 100 cana sahip.
-- Diamond VIP'li oyuncular doğduğunda otomatik zırh verme eklendi.
-- Görev araçlarına çarpma kapatıldı.
-- Birkaç script optimize edildi (+5 FPS yaklaşık).
+• Diamond VIP'li oyuncular doğduğunda otomatik zırh verme eklendi.
+• Görev araçlarına çarpma kapatıldı.
+• Birkaç script optimize edildi (+5 FPS yaklaşık).
 
 [11.08.2024]
 • F6/Lastik Ayarları düzenlendi;
@@ -152,7 +205,7 @@
  - Plaka desteği.
 
 [23.06.2024]
-• Sahibinden sistemi güncellendi.
+• Sarısite sistemi güncellendi.
   - Sıralama özelliği eklendi.
     * Yeniden Eskiye
     * Eskiden Yeniye
@@ -519,7 +572,7 @@
   - SF Yeni Bankası
 
 [17.11.2023]
-• Sahibinden sistemi düzenlendi.
+• Sarısite sistemi düzenlendi.
  - Tuning görme eklendi.
  - 4 renk görme eklendi.
  - İncelerken fare ekranda kalma düzeltildi.
@@ -687,7 +740,7 @@
 • Local chat spam koruması eklendi.
 • Görev sıralama paneli optimize edildi.
 • Kumar slot limiti yükseltildi ve x2, 1/2 işlevleri eklendi.
-• Sahibinden'e ilanı seçince bilgi görme eklendi.
+• Sarısite'e ilanı seçince bilgi görme eklendi.
 • Twitter; X'e güncellendi, hapishanede kapatıldı.
 • Kumardaki ATM düzeltildi.
 
@@ -777,12 +830,12 @@
   - Spoiler desteği eklendi.
 
 [27.09.2023]
-• Sahibinden sistemi güncellendi!
+• Sarısite sistemi güncellendi!
   - İlan Başlığına, içeriğine ya da sahibine göre arama yapma eklendi.
   - İlanlar sıralandı.
   - İlanlar renklendirildi.
   - İlan limiti görme eklendi.
-  - Discord sunucumuza sahibinden log kanalı açıldı.
+  - Discord sunucumuza Sarısite log kanalı açıldı.
 • /ilanver kaldırıldı.
 • Şans kutusuna 'İlan Limit Arttırıcı' eklendi.
 • Los Santos bölgesine yeni evler açıldı.
@@ -790,7 +843,7 @@
 • Client taraflı CPU kullanım iyileştirmeleri yapıldı.
 
 [26.09.2023]
-• Sahibinden sistemi eklendi!
+• Sarısite sistemi eklendi!
   - İlan ekleme, kaldırma, inceleme, detay görme ve satın alma işlevleri.
   - İlanınıza Araç, AC, Animasyonlu Kaplama, Şans Kutusu, Araç İsim Değiştirici, Protokol Plaka ve Oyun parası koyabilirsiniz.
   - Hem AC ile hem Oyun parası ile ilanlarınızı satılığa koyabilirsiniz.
@@ -799,7 +852,7 @@
   - İlan araç ise güzel bir mekanda aracınız tabela ile sergilenir.
   - En fazla 2 ilan koyabilirsiniz ama VIP üyeliğiniz varsa 5'e kadar ilan koyabilirsiniz.
   - İlanınıza başlık ve not ekleyebilirsiniz.
-• Sahibinden uygulaması telefona eklendi.
+• Sarısite uygulaması telefona eklendi.
 • AC Marketine 'İlan Limit Arttırıcı' eklendi.
 • 3 adet karakter eklendi.
   - İlayda, Ezgi ve Elena.
