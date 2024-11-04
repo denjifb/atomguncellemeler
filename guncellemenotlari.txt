@@ -1,3 +1,12 @@
+[04.11.2024]
+• [BMW] F30 eklendi.
+  - Fiyatı: 3.000.000₺
+  - Tuning desteği;
+    * 4 Böbrek, Ön Tampon
+    * 3 Stop Camı, Spoiler, Ön Cam Etiket, Bagaj Logo
+    * 2 Kaput, Tavan, Balık Sırtı, Far, Stop, Arka Tampon
+    * 1 Sunroof, Ön Tampon Süsü, Yan Etek
+
 [01.11.2024]
 • Sarısite düzenlendi;
   - İlanı öne çıkarma özelliği eklendi.
