@@ -1,3 +1,8 @@
+[09.11.2024]
+• Araç bilgi(ALT tuşu) ekranı yeniden tasarlandı.
+• Kalan mute süresini görmek için /mutebilgi eklendi.
+• Yetkili paneli düzenlendi.
+
 [04.11.2024]
 • [BMW] F30 eklendi.
   - Fiyatı: 3.000.000₺
