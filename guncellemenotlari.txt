@@ -1,3 +1,11 @@
+[15.11.2024]
+• Toplist(sıralama) paneli eklendi.
+  - Sıralama türleri: Oynama Süresi, Klan, Level, Öldürme ve K/D
+  - İlk 100'ü listeler.
+  - Her 30 dakikada bir güncellenir.
+• Galeri sistemine araç satarken 3 kere sorma eklendi.
+• Genel optimizasyon yapıldı.
+
 [09.11.2024]
 • Araç bilgi(ALT tuşu) ekranı yeniden tasarlandı.
 • Kalan mute süresini görmek için /mutebilgi eklendi.
