@@ -1,3 +1,12 @@
+[16.11.2024]
+• Toplist paneline drift sıralaması eklendi.
+• GTI Hud'a Level ilerleme görme eklendi.
+• Sanayi düzenlendi;
+  - Kasis eklendi.
+  - Dükkanlara tamir işareti eklendi
+  - Değiştirilebilir duvar kaplaması özelliği eklendi. (Garaj alırken ekstra AC ile yaptırılabilecek.)
+  - Orta petrol kaldırıldı ve yerine 2 yeni garaj eklendi.
+
 [15.11.2024]
 • Toplist(sıralama) paneli eklendi.
   - Sıralama türleri: Oynama Süresi, Klan, Level, Öldürme ve K/D
