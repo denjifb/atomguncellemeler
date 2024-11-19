@@ -1,5 +1,5 @@
 [19.11.2024]
-• Kamera tuş karmaşası giderildi.  
+• /kamera tuş (Envanter ve VIP panel) karmaşası giderildi.  
 • F12 ekran görüntüsü çekme efekti eklendi.  
 • F1 Araç hayalet özelliği düzenlendi:  
   - Sürücüyseniz hiçbir araca veya oyuncuya çarpamayacak ve çarpılamayacaksınız.  
@@ -13,7 +13,8 @@
 • Sanayi Garajı düzenlendi:  
   - Kapılar siyah kaplamayla değiştirildi.  
   - Duvarlar, ön duvar ve zemin için ayrı düzenleme imkânı (AC ile alınan özellik) eklendi.  
-• Sunucuya girince, ölene kadar isim etiketi ikonlarının görünmeme sorunu düzeltildi.   
+• Sunucuya girince, ölene kadar isim etiketi ikonlarının görünmeme sorunu düzeltildi.
+• /animpanel 5 tuşuna atandı.
 
 [16.11.2024]
 • Toplist paneline drift sıralaması eklendi.
