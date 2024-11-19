@@ -1,3 +1,20 @@
+[19.11.2024]
+• Kamera tuş karmaşası giderildi.  
+• F12 ekran görüntüsü çekme efekti eklendi.  
+• F1 Araç hayalet özelliği düzenlendi:  
+  - Sürücüyseniz hiçbir araca veya oyuncuya çarpamayacak ve çarpılamayacaksınız.  
+  - Yayaysanız hiçbir araç size çarpamayacak.  
+• Ayarlardaki "Gerçek Zaman" seçeneği "Özel Zaman" olarak değiştirildi:  
+  - Kapalı olduğunda, GTA:SA'daki gibi zaman işler.  
+  - Gerçek Hayat seçili olduğunda zaman, bilgisayar saatine göre değişir.  
+  - Sabit seçili olduğunda, `/st` komutu ile belirlenen zaman hiç değişmez.  
+• Helikopter mesleği bitince ışınlanmama sorunu düzeltildi.  
+• Maden mesleği sırasında yere düşme sorunu giderildi.  
+• Sanayi Garajı düzenlendi:  
+  - Kapılar siyah kaplamayla değiştirildi.  
+  - Duvarlar, ön duvar ve zemin için ayrı düzenleme imkânı (AC ile alınan özellik) eklendi.  
+• Sunucuya girince, ölene kadar isim etiketi ikonlarının görünmeme sorunu düzeltildi.   
+
 [16.11.2024]
 • Toplist paneline drift sıralaması eklendi.
 • GTI Hud'a Level ilerleme görme eklendi.
