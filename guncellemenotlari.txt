@@ -8,7 +8,7 @@
 • Ayarlardaki "Gerçek Zaman" seçeneği "Özel Zaman" olarak değiştirildi:  
   - Kapalı olduğunda, GTA:SA'daki gibi zaman işler.  
   - Gerçek Hayat seçili olduğunda zaman, bilgisayar saatine göre değişir.  
-  - Sabit seçili olduğunda, `/st` komutu ile belirlenen zaman hiç değişmez.  
+  - Sabit seçili olduğunda, /st komutu ile belirlenen zaman hiç değişmez.  
 • Helikopter mesleği bitince ışınlanmama sorunu düzeltildi.  
 • Maden mesleği sırasında yere düşme sorunu giderildi.  
 • Sanayi Garajı düzenlendi:  
