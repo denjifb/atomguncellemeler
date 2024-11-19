@@ -1,5 +1,5 @@
 [19.11.2024]
-• Uçak ve helikopterler için göstergesi eklendi.
+• Uçak ve helikopterler için kokpit göstergesi eklendi.
 • /kamera tuş (Envanter ve VIP panel) karmaşası giderildi.  
 • F12 ekran görüntüsü çekme efekti eklendi.  
 • F1 Araç hayalet özelliği düzenlendi:  
