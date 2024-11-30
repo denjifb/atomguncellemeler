@@ -1,3 +1,17 @@
+[30.11.2024]
+• Günlük görev sistemi eklendi.
+  - Her gün rastgele 3 görev sistem tarafından belirlenir.
+  - Örnek görevler: 60 Sokak Temizle 60M kazan, 200 Taksi Yolcusu Taşı 15AC kazan, 10 Pizza Götür 5M kazan.
+  - Günlük görevleri görmek için tab basılı tutmanız gerekir.
+  - Görev tamamlanınca ödül otomatik olarak verilir.
+• F9/Toplist düzenlendi;
+  - Günlük Görev listesi eklendi.
+  - Tasarımı iyileştirildi.
+• Egzoz patlatma HD efekt eklendi.
+• Scoreboard tasarımı düzenlendi.
+• Admin panel'e 2 yeni özellik eklendi.
+• Sunucu özellikleri yükseltildi.
+
 [19.11.2024]
 • Uçak ve helikopterler için kokpit göstergesi eklendi.
 • /kamera tuş (Envanter ve VIP panel) karmaşası giderildi.  
