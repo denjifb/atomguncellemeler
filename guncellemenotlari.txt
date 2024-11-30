@@ -5,7 +5,7 @@
   - Günlük görevleri görmek için tab basılı tutmanız gerekir.
   - Görev tamamlanınca ödül otomatik olarak verilir.
 • F9/Toplist düzenlendi;
-  - Günlük Görev listesi eklendi.
+  - Günlük Görev sıralaması eklendi.
   - Tasarımı iyileştirildi.
 • Egzoz patlatma HD efekt eklendi.
 • Scoreboard tasarımı düzenlendi.
