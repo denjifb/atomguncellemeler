@@ -1,3 +1,12 @@
+[03.12.2024]
+• Pilot mesleği, helikopter mesleğinin yerine eklendi.
+  - Helikopter ve uçak olmak üzere iki bölüm eklendi:
+    * Helikopter: 4 farklı helikopter ve 4 farklı zorluk derecesine sahip çok hedefli rota seçeneği.
+    * Uçak: 4 farklı uçak ve 4 farklı hedef seçeneği.
+  - Seviye sistemi (level sistemi) eklendi.
+  - Sıralama sistemi eklendi.
+  - Özel harita eklendi.
+
 [30.11.2024]
 • Günlük görev sistemi eklendi.
   - Her gün rastgele 3 görev sistem tarafından belirlenir.
