@@ -1,5 +1,5 @@
 [25.12.2024]
-• Klan Sistemi Güncellemesi:
+• Klan sistemi güncellendi:
   - Klan Devretme özelliği eklendi.
   - Klan Sahipliği özelliği eklendi:
     * Klan sahipleri, klanı silebilir veya devredebilir.
