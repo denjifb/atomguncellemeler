@@ -1,3 +1,20 @@
+[25.12.2024]
+• Klan Sistemi Güncellemesi:
+  - Klan Devretme özelliği eklendi.
+  - Klan Sahipliği özelliği eklendi:
+    * Klan sahipleri, klanı silebilir veya devredebilir.
+  - Klan Kurma Şartları:
+    * Klan kurma ücreti 5M olarak güncellendi.
+    * Klan kurmak için minimum 100 saat oynama süresi şartı eklendi.
+  - Yetki Düzenleme Güncellemeleri:
+    * Düzenleyen kişi, üst yetkilinin yetkisini değiştiremez.
+    * Düzenleyen kişi, üst yetkilisinin yetkisini düzenleyemez.
+    * Yetki düzenleme sırasında, düzenleyenin sahip olmadığı yetkiler eklenemez/kaldırılamaz.
+  - Hata Düzeltmeleri:
+    * Klan silindiğinde, tabda görünümün değişmemesi hatası giderildi.
+    * Yetki düzenleme sırasında oluşan hata düzeltildi.
+  - 3 aydır aktif olmayan 279 klan silindi.
+
 [21.12.2024]
 • Otobüs Şoförü mesleği için Otobüs Terminali eklendi.
 • İsim etiketine(nametag) klan tagı eklendi.
