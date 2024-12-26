@@ -11,7 +11,7 @@
     * Düzenleyen kişi, üst yetkilisinin yetkisini düzenleyemez.
     * Yetki düzenleme sırasında, düzenleyenin sahip olmadığı yetkiler eklenemez/kaldırılamaz.
   - Hata Düzeltmeleri:
-    * Klan silindiğinde, tabda görünümün değişmemesi hatası giderildi.
+    * Klan silindiğinde, tabda klanın silinmeme hatası düzeltildi.
     * Yetki düzenleme sırasında oluşan hata düzeltildi.
   - 3 aydır aktif olmayan 279 klan silindi.
 
