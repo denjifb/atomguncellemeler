@@ -1,3 +1,39 @@
+[14.01.2025]
+• Kombin kaydetme eklendi;
+  - F1>Kıyafetler>Kayıt Edilen Kombinler.
+  - Kombinler hesabınıza kayıt olur.
+  - En fazla 5 kombin ekleyebilirsiniz.
+• Tuning düzenlendi;
+  - Parçayı seçince otomatik kamera açısı değişme eklendi.
+  - Mekan düzenlendi.
+  - Araç ekstra parlak yapıldı.
+  - Zoom özelliği eklendi.
+• Starbucks değiştirildi;
+  - Kahve Dünyası olarak değiştirildi.
+  - İçecek içme işlevi eklendi.
+  - 2 adet satıcı eklendi.
+  - Otopark eklendi.
+  - Modele FPS optimizasyon yapıldı.
+  - F1>Mekanlara eklendi.
+• /ses düzenlendi;
+  - Araçta açılan sesi uzaktan değiştirme eklendi.
+  - Hoparlör objesi kalma bugı düzeltildi.
+  - Bozuk radyolar kaldırıldı.
+  - 7 yeni radyo eklendi.
+• Blipler değiştirildi;
+  - Kahve Dünyası -> İçecek işareti
+  - Soyulabilir banka -> Mavi Alarm
+  - Tren İstasyonu -> MC
+  - Atom Temizlik -> C
+• Nargile space bugı düzeltildi ve koruma eklendi.
+• Boş isim yasağı eklendi.
+• Muteliyken araç local kullanamama eklendi.
+• Pavyon'a ekstra içecekler eklendi ve marker düzeltildi.
+• Dönme dolap çalışır hale getiririldi ve oturma eklendi.
+• Bozuk araç radyoları kaldırıldı, 2 radyo eklendi.
+• F11 sağ tarafa blip'lerin isimleri eklendi.
+• LZD Motors galeri eklendi.
+
 [25.12.2024]
 • Klan sistemi güncellendi:
   - Klan Devretme özelliği eklendi.
