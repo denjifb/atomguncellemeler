@@ -1,3 +1,25 @@
+[16.01.2025]
+• 11 dövme, 5 kolye ve 1 t-shirt yenileri ile değişirildi.
+• Karakterler düzenlendi;
+  - Spiderman yenisi ile değiştirildi.
+  - Puma yerine Walter eklendi.
+  - Billie Eilish yerine Emma eklendi.
+  - Pelin yerine Krystal eklendi.
+  - Maskeli Gamer yerine Patrick Bateman eklendi.
+  - Konsol Oyun, Claude (GTA III), Tommy (GTA VC), Niko (GTA IV), Trevor (GTA V) ve Franklin (GTA V) eklendi.
+• F1 panel düzenlendi;
+  - Kıyafetler paneli düzenlendi;
+    * Yenilenmiş kıyafetler belirtildi.
+    * Kıyafetler ve kategoriler türkçeleştirildi.
+    * Kombin giyince seçili kıyafetler güncellenmeme düzeltildi.
+  - "x" basınca kapanmama düzeltildi.
+  - Yürüyüş stili uygula butonu düzeltildi.
+  - Kıyafetler, Karakterler ve Mekanlar paneli büyütüldü.
+  - Mekanlar ve Karakterler kategorize edildi.
+  - Genel iyileştirme yapıldı.
+• [Volkswagen] Golf Mk7 Ön ve Arka tampon sökme eklendi.
+• 5/Anim panel küçültüldü.
+
 [14.01.2025]
 • Kombin kaydetme eklendi;
   - F1>Kıyafetler>Kayıt Edilen Kombinler.
