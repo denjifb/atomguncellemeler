@@ -1,3 +1,12 @@
+[17.01.2025]
+• B/Handling paneli düzenlendi;
+  - 10 adet hazır hand eklendi.
+  - Kayıt edilen ayarı silme eklendi.
+  - Yeni sürüme geçildi.
+• Kill streak sistemi eklendi.
+• Kar teması kapatıldı.
+• Whatsapp'a mesaj saati görme eklendi.
+
 [16.01.2025]
 • 11 dövme, 5 kolye ve 1 t-shirt yenileri ile değişirildi.
 • Karakterler düzenlendi;
