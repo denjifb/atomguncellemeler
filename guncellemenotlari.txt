@@ -1,3 +1,13 @@
+[18.01.2025]
+• /ses düzenlendi;
+  - Hoparlör modeli değiştirildi.
+  - RGB ve Bass olmak üzere 2 adet efekt eklendi;
+    * RGB: Hoparlör çevresinde RGB ışık ekler.
+    * Bass: Hoparlör açılan şarkının Bass frekansını analiz ederek efekt uygular.
+• ESC/Grafik menüsüne "Hoparlör Efektleri" ayarı eklendi.
+• Kill streak sıfırlanma süresi 10 saniyeden 30'a yükseltildi.
+• Pavyon ve Kahve Dünyası içecek fiyatları düzenlendi.
+
 [17.01.2025]
 • B/Handling paneli düzenlendi;
   - 10 adet hazır hand eklendi.
