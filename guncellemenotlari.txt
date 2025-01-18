@@ -3,7 +3,7 @@
   - Hoparlör modeli değiştirildi.
   - RGB ve Bass olmak üzere 2 adet efekt eklendi;
     * RGB: Hoparlör çevresinde RGB ışık ekler.
-    * Bass: Hoparlör açılan şarkının Bass frekansını analiz ederek efekt uygular.
+    * Bass: Çalan sesin Bass frekansını analiz ederek efekt uygular.
 • ESC/Grafik menüsüne "Hoparlör Efektleri" ayarı eklendi.
 • Kill streak sıfırlanma süresi 10 saniyeden 30'a yükseltildi.
 • Pavyon ve Kahve Dünyası içecek fiyatları düzenlendi.
