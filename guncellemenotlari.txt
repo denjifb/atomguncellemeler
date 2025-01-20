@@ -1,3 +1,35 @@
+[20.01.2025]
+• [BMW] M4 G82 düzenlendi;
+  - Tuning desteği;
+    * 1 Arka Çamurluk, Ön Çamurluk, Sunroof
+    * 2 Difüzör, Kaput, Stop, Stop Camı, Tavan, Ön Tampon
+    * 3 Yan etek
+    * 4 Splitter
+    * 5 Far
+    * 10 Spoiler
+  - Full destek.
+• [Lamborghini] Huracan, Aventador yerine eklendi;
+  - Tuning desteği;
+    * 1 Arka Çamurluk, Splitter, Tavan, Ön Çamurluk
+    * 2 Far
+    * 3 Bagaj
+    * 4 Arka Tampon, Kapı Etiketi, Ön Tampon
+    * 5 Yan Etek
+    * 7 Spoiler
+  - Full destek.
+• [BMW] M4 G82 düzenlendi;
+  - Tuning'e kırmızı far seçeneği eklendi
+  - F1>Spoiler desteği eklendi.
+• [VAZ] 2107 düzenlendi;
+  - Tuning düzenlendi;
+    - Paçalık eklendi.
+    - Azerbaycan bayrağı ve X dikiz aynası aksesuarı eklendi.
+  - Gelişmiş plakalık sistemi eklendi.
+• [HONDA] S2000 düzenlendi;
+  - Tuning düzenlendi;
+    - Redline Garage ve Civic Sport ön cam yazısı eklendi.
+  - F1>Spoiler desteği eklendi.
+
 [18.01.2025]
 • /ses düzenlendi;
   - Hoparlör modeli değiştirildi.
