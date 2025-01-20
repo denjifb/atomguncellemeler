@@ -17,7 +17,7 @@
     * 5 Yan Etek
     * 7 Spoiler
   - Full destek.
-• [BMW] M4 G82 düzenlendi;
+• [BMW] F30 düzenlendi;
   - Tuning'e kırmızı far seçeneği eklendi
   - F1>Spoiler desteği eklendi.
 • [VAZ] 2107 düzenlendi;
