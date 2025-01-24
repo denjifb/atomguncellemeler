@@ -1,3 +1,30 @@
+[24.01.2025]
+• F6/Aksesuar paneli düzenlendi;
+  - Aksesuar ayarlarını değiştirme daha kolay hale getirildi.
+  - Aksesuar boyut ve rotasyon ayarlama özelliği eklendi.
+  - Araca kayıt olma özelliği eklendi.
+  - Aksesuarlar tamamen değiştirildi;
+    * Hoparlörler: Pioneer Kabin, For-x Kabin, 2'li JBL Kabin, Pioneer Pandizot ve Pioneer 3x5 Kabin
+    * Bayraklar: Türkiye, Azerbaycan ve Göktürk İmparatorluğu
+    * Tepe Lambası: Polis, Mavi ve Kırmızı
+• Ses paneli düzenlendi;
+  - Açık olan sesi kaldırmadan değiştirme eklendi.
+  - Efektler araç aksesuarları (Hoparlör) için aktifleştirildi.
+  - Optimizasyon yapıldı.
+• F6/Modifiye paneli düzenlendi;
+  - Aksesuar paneli usta kontrolleri bölümüne taşındı.
+  - Fiyatlar değiştirildi.
+• Ayarlar paneline yeni ayarlar eklendi;
+  - Araç Kaplamaları ve Araç Plakaları: Hepsi-Normal-Animasyonlu-Kapalı
+  - Araç Plakalıkları, Araç Aksesuarları, Araç Cam Filmleri, Araç Modlu Jantları, Modlu Korna Sesleri ve HD Yol: Açık-Kapalı
+• F7/Galeri sistemi düzenlendi;
+  - Listeden araca çift tıklayınca getir/gizle eklendi.
+  - Galeri kasasına "Tümünü Çek" seçeneği eklendi.
+  - Galeri kasasında gözüken sahip ismi, kullanıcı adı yerine [ID] İsim yapıldı.
+• F11 kendi işaretinize yanıp sönme eklendi.
+• Sanayi fiyat tabelası yenilendi.
+• Idlewood dolambaçlı yol düz yapıldı.
+
 [20.01.2025]
 • [BMW] M4 G82 düzenlendi;
   - Tuning desteği;
