@@ -1,3 +1,20 @@
+[27.01.2025]
+• Aksesuar paneline Neon eklendi;
+  - 6 adet neon çeşidi eklendi.
+  - Neon için 2 slot eklendi.
+• Animasyonlu Plaka düzenlendi;
+  - 8 yeni özel font eklendi.
+  - Deneme özelliği eklendi.
+  - Rastgele butonu eklendi.
+• Animasyonlu kaplama deneme özelliği düzeltildi.
+• 5 Yeni plakalık eklendi.
+• F6 ve tüm alt panellerine shift basılı tutarak ekranı döndürme eklendi.
+• Son güncelleme ile gelen bazen anim gözükmeme sorunu düzeltildi.
+• Matematik soru sistemi güncellendi;
+  - Genel kültür soruları eklendi.
+  - Parası biraz arttırıldı.
+• Gereksiz bölgeler silindi.
+
 [24.01.2025]
 • F6/Aksesuar paneli düzenlendi;
   - Aksesuar ayarlarını değiştirme daha kolay hale getirildi.
