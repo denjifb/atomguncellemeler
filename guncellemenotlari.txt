@@ -1,3 +1,19 @@
+[01.02.2025]
+• F1 > Animasyonlar paneline Sık Kullanılanlar bölümü eklendi.
+• Dönme dolaba ışık efekti eklendi.
+• Temizlik görevi düzenlendi;
+  - Markerler büyültüldü.
+  - Çöp toplama aşamasına kutu çıkma şansı (%20 bonuslu kazanç) eklendi.
+  - Ban sorunu düzeltildi.
+• Günlük görev sistemine 18 yeni pizza görevi eklendi.
+• F5/Telefon animasyonu eklendi.
+• Soru sistemine 143 yeni soru eklendi, mevcut hatalar düzeltildi.
+• Modlu silah sesleri, düello gibi farklı boyutlarda düzgün çalışacak şekilde düzeltildi.
+• Neon ekleyince bass ve RGB efekti gitme sorunu düzeltildi.
+• Neon takınca çevreye yayılan ışık sorunu giderildi.
+• Superman kick sorunu düzeltildi.
+• Nargile sistemindeki gereksiz yazılar kaldırıldı.
+
 [27.01.2025]
 • Aksesuar paneline Neon eklendi;
   - 6 adet neon çeşidi eklendi.
