@@ -1,3 +1,30 @@
+[06.02.2025]
+• İtfaiye mesleği yenilendi;
+  - Araç ve Ev olmak üzere iki aşama eklendi;
+    * [1 Lvl] Araç Söndürme: 37 farklı hedef. Metre başı 5k para, 20 Klan XP ve 15 XP.
+    * [3 Lvl] Ev Söndürme: 19 farklı hedef. Metre başı 10k para, 40 Klan XP ve 30 XP.
+  - Ev yangını gerçekçi hale getirildi.
+  - Seviye sistemi eklendi.
+  - Sıralama sistemi eklendi.
+  - LS şehrine taşındı.
+  - Hataları düzeltildi.
+• Araç radyosu yenilendi;
+  - Arayüzü GTA 5 radyosu gibidir.
+  - R tuşuna basarak panel açılır/kapanır.
+  - Fare tekerleği ile radyolar arası geçiş yapılabilir.
+  - Panel açıkken NumLock + ve - tuşları ya da fare tekerleği ile ses artırılıp/kısılabilir.
+• F3/Meslekler paneli yenilendi;
+  - Meslekte olanların meslek seviyesini ve xp'sini görme eklendi.
+  - Meslekte olanlar listesinde meslekler kümeye alındı.
+• Meslek sıralama paneli yenilendi;
+  - Kendi ilerlemeni listede olmasan bile görme eklendi.
+  - Görünümü iyileştirildi.
+• Sanayi bölgesi radar'a eklendi.
+• F1/Mekanlar paneline Savaş Alanları ve Lunapark eklendi.
+• İsim etiketine meslek ismi görme eklendi.
+• Mesleklerde F1, F2 ve F3 panelleri kullanıma açıldı.
+• Bisiklet sürerken gelen araba sesi kaldırıldı.
+
 [01.02.2025]
 • F1 > Animasyonlar paneline Sık Kullanılanlar bölümü eklendi.
 • Dönme dolaba ışık efekti eklendi.
