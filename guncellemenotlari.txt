@@ -3,6 +3,7 @@
   - Araç ve Ev olmak üzere iki aşama eklendi;
     * [1 Lvl] Araç Söndürme: 37 farklı hedef. Metre başı 15k para, 20 Klan XP ve 15 XP.
     * [3 Lvl] Ev Söndürme: 19 farklı hedef. Metre başı 20k para, 40 Klan XP ve 30 XP.
+  - Her üst seviyede daha hızlı yangın söndürme eklendi.
   - Ev yangını gerçekçi hale getirildi.
   - Seviye sistemi eklendi.
   - Sıralama sistemi eklendi.
