@@ -1,3 +1,32 @@
+[09.02.2025]
+• Araç radyosu düzenlendi;
+  - Ekranın sol altına çalan radyoyu ve şarkıyı isteğe bağlı olarak görme eklendi.
+  - Radyolar arası geçiş efekti eklendi.
+  - Araçtan inince radyo panelinin ekranda kalma hatası düzeltildi.
+• Taksi mesleği düzenlendi;
+  - Taksi durağı yeri ve modeli değiştirildi.
+  - Müşteri cinsiyeti ve isimleri eklendi.
+  - Durum paneli eklendi.
+  - Hedefin bölge adını görme eklendi.
+• Ayarlar panelindeki HD Yol, HD Kaplama olarak düzenlendi;
+  - Definitive Edition HD kaplamaları eklendi.
+  - Anlık donma olmaması için süreli yüklenme eklendi.
+• Ayarlar paneline Modlu Araç Radyosu kapatma eklendi.
+• İtfaiye mesleği düzenlendi;
+  - İtfaiye binası içi düzenlendi ve ışıklar eklendi.
+  - Turf bölgelerine denk gelen araçlar kaldırıldı.
+• Temizlik hedef markerine bölge ismi eklendi.
+• Tır mesleğindeki "Güven tekstil", "Aşkar Profil" olarak değiştirildi.
+• GTA 5 stili ölme ekranı eklendi.
+• F3 Meslek panelinde oyuncuların ne zamandır meslekte olduklarını görme eklendi.
+• /Ses panelindeki efektin ekrandan taşması düzeltildi.
+• Turf bölgelerinde F3, F4, F9 gibi paneller kullanıma açıldı.
+• F1 Haritadan ışınlanınca F1'i otomatik kapatma eklendi.
+• F1 Yarış pistinin içine giren gemi kaldırıldı.
+• 2 yeni petrol eklendi.
+• Optimizasyon çalışmaları yapıldı.
+• Ekstra korumalar eklendi.
+
 [06.02.2025]
 • İtfaiye mesleği yenilendi;
   - Araç ve Ev olmak üzere iki aşama eklendi;
