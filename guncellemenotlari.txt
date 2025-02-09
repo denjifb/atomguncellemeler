@@ -8,8 +8,8 @@
   - Müşteri cinsiyeti ve isimleri eklendi.
   - Durum paneli eklendi.
   - Hedefin bölge adını görme eklendi.
-• Ayarlar panelindeki HD Yol, HD Kaplama olarak düzenlendi;
-  - Definitive Edition HD kaplamaları eklendi.
+• Ayarlar panelindeki HD Yol, HD Yol/Kaldırım olarak düzenlendi;
+  - Definitive Edition HD Yol/Kaldırım eklendi.
   - Anlık donma olmaması için süreli yüklenme eklendi.
 • Ayarlar paneline Modlu Araç Radyosu kapatma eklendi.
 • İtfaiye mesleği düzenlendi;
