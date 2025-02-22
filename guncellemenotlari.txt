@@ -36,7 +36,7 @@
   - F11 açınca isim etiketi açık kalma düzeltildi.
   - Sadece arabalar için driveby sistemi eklendi.
 • ESC>Grafik Islaklık efekti eklendi.
-• Çarfıfelek eklendi, kazanma/kaybetme efekti eklendi ve slot limit sorunu düzeltildi.
+• Çarkıfelek eklendi, kazanma/kaybetme efekti eklendi ve slot limit sorunu düzeltildi.
 • F9 Sıralama paneline para sıralaması eklendi.
 • Yeni köprü yeniden yapıldı ve HGS eklendi.
 • Siyah kan sorunu düzeltildi.
