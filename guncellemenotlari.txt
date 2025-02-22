@@ -1,3 +1,51 @@
+[22.02.2025]
+• Taksi mesleği düzenlendi;
+  - Uber yerine Martı TAG eklendi.
+  - Müşterilere ruh hali durumu eklendi.
+  - AFK kalınca meslekten çıkma kapatıldı.
+  - Müşteri binince olan iletişim sürerken de eklendi.
+  - Bilinen hatalar düzeltildi.
+• GTI göstergesi düzenlendi;
+  - Hız sabıtleme durumu eklendi.
+  - Benzin uyarı eklendi.
+• Klan sistemi düzenlendi;
+  - Yetki sırası değiştirme düzeltildi.
+  - Üye listesinde aktif olmayanlara karartma eklendi.
+  - Üye listesinde o yetkide kaç kişi ve kaç aktif olduğunu görme eklendi.
+• /ses düzenlendi;
+  - 2 yeni phonk radyosu eklendi.
+  - tubidy.cool ile dönüştürülen linklerde şarkı ismi gözükme eklendi.
+  - Interior'da kutu gözükmeme sorunu düzeltildi.
+  - Panel tasarımı iyileştirildi.
+• F2 düzenlendi;
+  - Temel eşyalar eklendi.
+  - Tek silah silme eklendi.
+  - Lazer sistemi kaldırıldı.
+• F1 düzenlendi;
+  - Temel eşyalar yerine Hava/Saat eklendi.
+  - Karakterlere GTA:SA karakterleri eklendi.
+  - Harita düzenlendi;
+    - Evler ve yeni köprü eklendi.
+    - Turf, güvenli alan gibi alanları görme eklendi.
+    - Oyuncu isimlerini renkli görme eklendi.
+    - Klan bölgelerine çerçeve ve klan tagı eklendi.
+    - Sadece aynı klandakileri görme ve Alanları gizleme seçeneği eklendi.
+• F11 düzenlendi;
+  - Klan bölgelerine çerçeve ve klan tagı eklendi.
+  - Nerede olduğunuzu gösteren işaret daha dikkat çekici yapıldı.
+  - F11 açınca isim etiketi açık kalma düzeltildi.
+  - Sadece arabalar için driveby sistemi eklendi.
+• ESC>Grafik Islaklık efekti eklendi.
+• Çarfıfelek eklendi, kazanma/kaybetme efekti eklendi ve slot limit sorunu düzeltildi.
+• F9 Sıralama paneline para sıralaması eklendi.
+• Yeni köprü yeniden yapıldı ve HGS eklendi.
+• Siyah kan sorunu düzeltildi.
+• Hız sabitleme sorunu düzeltildi.
+• Bilinen açıklar kapalıldı.
+• Turf ve Düello'da ölünca ölme efekti azaltıldı.
+• Definitive Edition HD kaplaması iyileştirildi.
+• SF Garage yenilendi.
+
 [09.02.2025]
 • Araç radyosu düzenlendi;
   - Ekranın sol altına çalan radyoyu ve şarkıyı isteğe bağlı olarak görme eklendi.
