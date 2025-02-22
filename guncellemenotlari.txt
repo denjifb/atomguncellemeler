@@ -43,6 +43,7 @@
 • Hız sabitleme sorunu düzeltildi.
 • Bilinen açıklar kapalıldı.
 • Turf ve Düello'da ölünca ölme efekti azaltıldı.
+• Tır mesleği bitince oyuncu sıkışması düzeltildi.
 • Definitive Edition HD kaplaması iyileştirildi.
 • SF Garage yenilendi.
 
