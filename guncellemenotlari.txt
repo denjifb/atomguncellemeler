@@ -1,3 +1,28 @@
+[09.03.2025]
+• [BMW] M4 F82 düzenlendi;
+  - Tuning desteği;
+    * 1 Arka Cam Rüzgarlık, Ön Plaka, Arka Plaka, Sunroof, Tavan Anten, Tavan Süs, Böbrek Süs
+    * 2 Arka Çamurluk, Ön Çamurluk, Koltuk, Stop Camı, Far Camı
+    * 3 Yan Etek, Tavan, Stop, Bagaj Logo
+    * 4 Ön Şasi Takviyesi
+    * 5 Kaput, Yakıt Kapağı, Spoiler, Böbrek İçi, Böbrek Çerçeve
+    * 6 Difüzör, Ön Tampon, Ön Tampon
+    * 7 Egzoz
+    * 11 Ön Tampon Eki
+    * 14 Far
+  - Full destek.
+• Yeni köprü radara eklendi.
+• İftar sayacı düzenlendi;
+  - Ülke ve bölge seçme eklendi.
+  - Sayaç ve panel tasarımı yenilendi.
+  - Sunucu taraflı işlemler kaldırıldı.
+• /ses paneli düzenlendi;
+  - Sistem radyoları 3 kategoriye ayrıldı;
+    * Türkçe Radyoları
+    * Yabancı Radyoları
+    * Sanatçı Radyoları
+  - 20'den fazla yeni sistem radyosu eklendi.
+
 [22.02.2025]
 • Taksi mesleği düzenlendi;
   - Uber yerine Martı TAG eklendi.
