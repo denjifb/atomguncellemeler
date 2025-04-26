@@ -1,3 +1,26 @@
+[26.04.2025]
+• 'Dorse 1' yerine '[BRUTE] Brandalı Dorse' eklendi;
+  - Tuning desteği;
+    * 14 Arka Resim
+    * 11 Branda
+    * 8 Paspas
+    * 2 Arka Kapı Kilit
+  - Full destek.
+• 'Dorse 3' yerine '[BRUTE] Pilot Dorse' eklendi;
+  - Tuning desteği;
+    * 8 Paspas
+    * 5 Yük
+  - Full destek.
+• Tırcılık mesleği düzenlendi;
+  - Taşınan yük türüne uygun görünüme sahip dorseler eklendi.
+  - Bazı fabrika isimleri değiştirildi.
+• Tırla dorse ışıkları senkronize oldu; birlikte açılıp kapanıyorlar.
+• Ev paneline; alım tarihi, ev sahibinin kullanıcı adı yerine hesap ID’si ve en son oyun içi ismi eklendi.
+• Son 3 aydır girmeyenlerin evleri(72 adet) silindi.
+• F1'deki 'Araç Hayalet' özelliği, dorseyle uyumlu olacak şekilde düzenlendi.
+• Deniz Feneri önüne fotoğraf çekmek için özel bir alan eklendi.
+• Discord botu geliştirildi.
+
 [09.03.2025]
 • [BMW] M4 F82 düzenlendi;
   - Tuning desteği;
