@@ -1,3 +1,28 @@
+[06.05.2025]
+• [KENWORTH] W900 düzenlendi;
+  - Tuning desteği;
+    * 5 Kabin Arkası Sticker
+    * 4 Paspas
+    * 3 Arka Çamurluk, Kapı Cam Sticker
+    * 2 Arka Tampon, Ayna, Egzoz, Kabin Arkası Işık, Logo, Yan Sticker, Ön Cam Yazı, Ön Koruma, Ön Tampon
+    * 1 Filtre Lamba, Kaput Ayna, Kaput Ek, Kaput Etiket, Kaput Rüzgarlık, Tepe Ek Lamba, Ön Tampon Ek Işık, Ön Tampon Süs
+  - Full destek.
+• [YAMAHA] MT-09 düzenlendi;
+  - Tuning desteği;
+    * 8 Sele Altı Sticker
+    * 3 Egzoz, Ayna ve Gösterge Arka
+    * 2 Arka Sinyal, Radyatör, Arka Tutucu, Arka Çamurluk ve Ön Çamurluk
+    * 1 Gaz Tank Logo
+  - Full destek.
+• Ses panel düzenlendi;
+  - Sesi elde taşıma özelliği eklendi.
+  - Sunucuya girmeden önce açılan sesleri görememe sorunu düzeltildi.
+  - Ses kapatıp açınca seviye sıfırlanma sorunu düzeltildi.
+• F9 Sıralama paneli düzenlendi;
+  - Soru bilme kategorisi eklendi.
+  - KD bugı düzeltildi.
+• Suya düşünce yola atma motorlar için de aktif edildi.
+
 [26.04.2025]
 • 'Dorse 1' yerine '[BRUTE] Brandalı Dorse' eklendi;
   - Tuning desteği;
