@@ -1,3 +1,32 @@
+[02.06.2025]
+• [BMW] E30 düzenlendi;
+  - Tuning desteği;
+    * 16 Far
+    * 11 Egzoz
+    * 9 Spoiler
+    * 8 Ön Tampon
+    * 7 Splitter, Stop
+    * 6 Ön Cam Etiket
+    * 5 Arka Tampon, Böbrek Çerçeve, Böbrek İçi, Yan Etek
+    * 4 Arka Cam Etiket, Difüzör, Kaput
+    * 3 Anten, Arka Çamurluk, Ayna, Far Kaşı, Ön Çamurluk
+    * 2 Arka Logo, Direksiyon, Izgara Süs, Koltuk, Ön Plaka
+    * 1 Arka Cam Panjur, Far Silecek, Sunroof, Tavan Süs, Ön Tampon Süs
+  - Full destek.
+• Galeri düzenlendi;
+  - Bazı araçların fiyatları düzenlendi
+  - 16 yeni GTA aracı eklendi.
+  - 6 aracın ismi düzenlendi.
+• İsim etiketi düzenlendi;
+  - Oyunu alta alınca 'AFK' ikonu eklendi.
+  - Muteliyken 'Mute' ikonu eklendi.
+  - Ayarlarda yazıyor ikonunuz kapalıysa karşıdaki oyuncu artık sizin yazıyor ikonunuzu görmeyecek.
+• Las Venturas Evler bölgesi düzenlendi;
+  - Evlerin ilk fiyatı piyasaya göre ayarlandı.
+  - 24 yeni ev açıldı.
+• /ses paneline kaplama desteği eklendi.
+• 150 yeni soru eklendi.
+
 [06.05.2025]
 • [KENWORTH] W900 düzenlendi;
   - Tuning desteği;
