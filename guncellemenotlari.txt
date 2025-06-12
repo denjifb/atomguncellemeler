@@ -1,3 +1,18 @@
+[12.06.2025]
+• [MERCEDES] C63 düzenlendi;
+  - Tuning desteği;
+    * 8 Egzoz
+    * 6 Arka Tampon, Izgara, Spoiler
+    * 5 Arka Cam Etiket, Tavan, Arka Tampon
+    * 4 Bagaj Logo, Far, Stop Camı, Yan Etek
+    * 3 Ayna, Kaput, Tavan Anten, Çamurluk Logo, Ön Cam Etiket
+    * 2 Arka Plaka, Arka Çamurluk, Far Camı, Koltuk, Stop, Yan Şerit, Ön Plaka, Ön Çamurluk
+    * 1 Rollcage, Tavan Süs, Ön Tampon Eki
+  - Full destek.
+• Atatürk Park eklendi.
+• Giriş konumu ayarlama eklendi.
+  - Son konum ve Atatürk Park olmak üzere 2 seçenek.
+
 [02.06.2025]
 • [BMW] E30 düzenlendi;
   - Tuning desteği;
