@@ -1,3 +1,20 @@
+[04.07.2025]
+• [BMW] F10 eklendi;
+  - Tuning desteği;
+    * 8 Egzoz, Far
+    * 7 Böbrek İçi
+    * 6 Difüzör, Logo, Spoiler, Stop, Yan Etek
+    * 5 Arka Cam Etiket, Bagaj Logo, Böbrek Çerçeve, Kaput, Ön Tampon, Ön Şası Takviyesi
+    * 4 Far Kaşı, Splitter, Tavan, Çamurluk Logo, Ön Cam Etiket
+    * 3 Ayna, Tavan Anten, Yakıt Kapağı
+    * 2 Arka Tampon, Bagaj, Far Cam, Far Çerçeve, Koltuk, Stop Cam, Yan, Ön Plaka, Ön Tampon Sis
+    * 1 Arma Cam Rüzgarlık, Arka Plaka, Böbrek Logo, Böbrek İçi Işık, Roll Cage, Tavan Süs, Çamurluk, Ön Tampon Sis
+  - Full destek.
+• [BMW] 525 TDS TAKSİ sunucudan kaldırıldı.
+    - Bu araca sahip olan oyuncuların araçları sistemden kaldırıldı ve araç bedeli banka hesaplarına aktarıldı.
+• Taksici mesleğinin ilk aracı [TOFAŞ] Şahin olarak değiştirildi.    
+• Soru sistemine 'İlk yazan kazanır' soruları da eklendi.
+
 [12.06.2025]
 • [MERCEDES] C63 düzenlendi;
   - Tuning desteği;
