@@ -1,3 +1,30 @@
+[09.07.2025]
+• Yeni AC ürünleri eklendi;
+  - Araç Kapı Kiti (30AC);
+    * Aracın kapı açılma animasyonunu değiştirir.
+    * F6 Modifiye Paneli'nden kullanılır.
+  - Araç Depo Arttırıcı (30AC);
+    * Aracın yakıt kapasitesini +250L artırır.
+    * Takılacak araçtayken envanterden kullanılır.
+  - K/D Sıfırlayıcı (100AC);
+    * Hesabın ölme/öldürme istatistiklerini sıfırlar.
+    * Envanterden kullanılır.
+• Sarısite ilan süresi limitleri eklendi;
+  - İlan süresi bitince sahibine geri iade edilir.
+  - Normal ilan süresi: 1 Hafta.
+  - Öne çıkarılmış ilan süresi: 1 Ay. 
+• Envanter yenilendi;
+  - 3D görsellerle görünüm iyileştirildi.
+  - Miktar yazısı eklendi.
+• ALT tuşu bilgi panelindeki Diamond ve Efsanevi taglarına efekt eklendi.
+• AC Marketindeki "Ürünlerim" kısmına aktif/kullanılabilir kategorisi eklendi.
+• Galeriye limiti olmayan araçları gizleme seçeneği eklendi.
+• Galeri showroom mekanı yenilendi.
+• Big'e araçla giriş engellendi.
+• Petrol sahipleri oyunda yokken kazanç, doğrudan bankaya aktarılacak şekilde ayarlandı.
+• AC ve ürünler anlık kayıt sistemine geçirildi.
+• Araç verileri optimize edilerek, RAM kullanımı yaklaşık %50 oranında düşürüldü.
+
 [04.07.2025]
 • [BMW] F10 eklendi;
   - Tuning desteği;
