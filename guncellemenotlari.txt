@@ -1,3 +1,14 @@
+[22.07.2025]
+• F7 Araç Paneli tamamen yenilendi:
+  - Araçlar için detaylı filtreleme eklendi.
+  - Seçili araç hakkında detaylı bilgi gösteren detay penceresi eklendi.
+• UNO kart oyunu eklendi;
+  - 2 ile 8 kişi arasında oynanabilen, rekabet dolu UNO odaları kurabilirsiniz.
+  - Oynamak için: /uno komutunu yazmanız yeterli.
+• Modları Yönet menüsüne arama, filtreleme ve sıralama özellikleri eklendi.
+• 2 adet yeni plakalık oyuna eklendi: Redline ve Trabzonspor tasarımları artık kullanılabilir!
+• Deniz Feneri alanı kaldırılarak yerine oturma ve sosyalleşme mekanı eklendi.
+
 [09.07.2025]
 • Yeni AC ürünleri eklendi;
   - Araç Kapı Kiti (30AC);
