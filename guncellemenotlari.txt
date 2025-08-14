@@ -1,3 +1,50 @@
+[10.08.2025]
+• Mobilya limit arttırıcı eklendi;
+  - Evinizin mobilya koyma limitini 100 arttırır.
+• Mobilya sistemine yeni mobilyalar eklendi;
+  - 33 adet yeni modern mobilya.
+  - 572 adet SA-MP mobilyaları.
+• Saat mobilyaları çalışır hale getirildi.
+• Ev paneline interior değiştirme özelliği eklendi.
+
+[04.08.2025]
+• Mobilya sistemi geliştirildi;
+  - Daha gerçekçi texture uygulamak için gölgelendirme seçeneği eklendi.
+  - RGB texture için hız, renk ve gölgelendirme ayarları eklenerek özelleştirme artırıldı.
+  - Klima ve fan mobilyalara etkileşim eklendi:
+    * Açma / kapama
+    * Hız ayarlama
+    * Duman efekti
+    * Gerçekçi hareket animasyonları
+• Mobilya sistemine 94 adet yeni modern mobilya eklendi;
+
+[31.07.2025]
+• Ev sistemi yenilendi;
+  - Yönetim Özellikleri;
+    * Ev ismini değiştirme
+    * Giriş/çıkış sesi ayarlama
+    * Mobilya yerleştirme izinleri
+    * Ev giriş kuralları belirleme
+    * Ölümsüzlük modu
+    * Evi başka bir oyuncuya devretme
+    * GTA’nın varsayılan mobilyalarını kapatma
+  - 3 ay girmeyenlerin evlerini silme eklendi.
+  - Ve daha birçok özellik...
+• Mobilya sistemi eklendi:
+  - Evinize binlerce farklı mobilya yerleştirebilirsiniz.
+  - Mobilyaları taşıma, döndürme, ölçeklendirme ve hassas konumlandırma imkânı. 
+  - Texture / kaplama değiştirme desteği: renk, desen, parlaklık, scale, offset, rotation ayarları yapılabilir.
+  - Yüksek optimizasyon sayesinde düşük FPS etkisi.
+  - /mmateryal komutu ile evin duvar ve zemin materyallerini değiştirebilirsiniz.
+  - Mobilyalarla etkileşime girme desteği;
+    * YouTube materyali ekleyerek YouTube videosu oynatabilme
+    * Hoparlör ile bass ve nota efektli şarkı çalabilme
+  - Ve daha birçok özellik...
+• Emlak paneli yenilendi;
+  - Arama çubuğu eklendi.
+  - Haritada gösterme seçeneği eklendi.
+  - Sahip olduğun ve diğer evler listeye eklendi.
+
 [22.07.2025]
 • F7 Araç Paneli tamamen yenilendi:
   - Araçlar için detaylı filtreleme eklendi.
