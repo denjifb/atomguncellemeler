@@ -1,3 +1,72 @@
+[02.10.2025]
+• Düello sistemi yenilendi;
+  - Düello izleme özelliği eklendi.
+  - Headshot ve Zırh seçeneği eklendi.
+  - Silah paketi seçme eklendi.
+  - Köprü arenası eklendi.
+  - Görsel iyileştirmeler yapıldı.
+• Galeri sistemi düzenlendi;
+  - Kategorilendirme eklendi: istediğiniz kategoriyi oluşturabilir ve araçlarınızı kolayca bu kategorilere ekleyebilirsiniz.
+  - Optimizasyon yapıldı; veri senkronizasyonu ve listeleme daha hızlı.
+  - 2 saniye bekleme süresi 1 saniyeye düşürüldü.
+
+[29.09.2025]
+• [SUBARU] BRZ eklendi;
+  - Tuning desteği;
+    * 9 Egzoz, Spoiler, Yan Etek, Ön Tampon
+    * 8 Kaput
+    * 6 Arka Tampon, Difüzör, Stop
+    * 5 Far
+    * 4 Arka Çamurluk, Splitter, Tavan Anten, Ön Çamurluk
+    * 2 Direksiyon, Koltuk
+    * 1 Arka Plaka, Bagaj Logo, Rollcage
+  - Full destek.
+• [MAZDA] MX-5 sunucudan kaldırıldı;
+  - 10.000 ID üzerindeki araçlar sistemden tamamen silinmiş ve bedelleri oyuncuların banka hesaplarına aktarılmıştır. (250 tane)
+  - 10.000 ID altındaki araçlar ise sıradan [SUBARU] BRZ aracına çevrilmiş ve üzerlerindeki tag paraları oyuncuların banka hesaplarına aktarılmıştır. (45 tane)
+
+[28.09.2025]
+• [BMW] M8 eklendi;
+  - Tuning desteği;
+    * 5 Far
+    * 4 Böbrek İçi, Egzoz, Kaput, Logo, Yan Etek, Ön Tampon, Ön Şasi Takviyesi
+    * 3 Arka Tampon, Böbrek Çerçeve, Spoiler, Tavan
+    * 2 Stop
+    * 1 Arka Plaka, Balık Sırtı, Böbrek Logo, Sunroof, Ön Cam Etiketi, Ön Plaka, Ön Çamurluk Çita, Şerit
+  - Full destek.
+• [CADILLAC] CTS-V sunucudan kaldırıldı;
+  - 10.000 ID üzerindeki araçlar sistemden tamamen silinmiş ve bedelleri oyuncuların banka hesaplarına aktarılmıştır. (302 tane)
+  - 10.000 ID altındaki araçlar ise sıradan [BMW] M8 aracına çevrilmiş ve üzerlerindeki tag paraları oyuncuların banka hesaplarına aktarılmıştır. (22 tane)
+
+[27.09.2025]
+• Galeri sistemi düzenlendi;
+  - Araçlara satın alım bilgileri eklendi: Alış Tarihi, Alış Fiyatı, Eski Sahibi
+  - Alış Tarihine göre sıralama eklendi.
+  - Detay penceresi varsayılan olarak açık hale getirildi.
+• Araç isim değiştirici düzenlendi;
+  - Maksimum karakter sınırı 256’dan 512’ye yükseltildi.
+  - Yeni fiyat: 300 AC
+• Whatsapp'dan gelen mesajı telefona girmeden görme eklendi. (30 karaktere kadar)
+
+[26.09.2025]
+• Pilot mesleği düzenlendi(gelen istekler/bildirimler üzerine);
+  - ALT hızlanma tekrardan eklendi.
+  - Sevilmeyen EGM noktası konumu değiştirildi.
+  - Helikoptere 2 yeni tek hedefli rota eklendi.
+• Düellodaki oyuncuların kill mesajlarına düello bilgisi eklendi.
+• Helikopter ve Uçak'tan kaldırılan alt tuşu hızlanma(VIP özelliği) tekrar eklendi.
+• Sunucudan çıkınca dövüş stili kayıt olma eklendi.
+• F1 panele dövüş stilleri eklendi.
+• Düello geçmişi eklendi.
+
+[25.09.2025]
+• Klan Sistemine /klanduyuru özelliği eklendi.
+• 4 yeni kadın karakteri eklendi. (uWu ve Sarah kaldırıldı.)
+• Sağ üst Turf eklendi.
+• Şans kutusuna "Araç Kapı Kiti" ve "Araç Depo Arttırıcı" eklendi.
+• Soru sistemine 66 yeni soru daha eklendi.
+• Sunucudan çıkınca yürüyüş stili kayıt olma eklendi.
+
 [10.08.2025]
 • Mobilya limit arttırıcı eklendi;
   - Evinizin mobilya koyma limitini 100 arttırır.
