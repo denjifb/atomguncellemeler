@@ -1,3 +1,13 @@
+[10.10.2025]
+• Sanayi bölgesi düzenlendi;
+  - 24 adet yeni garaj
+  - Yeni özel giriş kapıları
+  - FPS optimizasyonu
+• İkinci el oto pazarı eklendi;
+  - 99b'ye kadar araç satış
+  - 35 satış alanı
+  - Özel map
+
 [02.10.2025]
 • Düello sistemi yenilendi;
   - Düello izleme özelliği eklendi.
