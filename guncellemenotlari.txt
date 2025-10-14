@@ -1,3 +1,12 @@
+[14.10.2025]
+• Araç Özel Skin ürünü eklendi;
+  - Fiyat: 80AC
+  - Araca Özel Skin eklemeye yarar.
+  - F6 Modifiye panelinden kullanılır. 
+• [SUBARU] BRZ için 15 adet Özel Skin eklendi.
+• [NISSAN] SILVIA S15 için 12 adet Özel Skin eklendi.
+• Turbolu araçlarda vites değişimi sırasında çıkan "Stutu" sesi eklendi.
+
 [10.10.2025]
 • Sanayi bölgesi düzenlendi;
   - 24 adet yeni garaj
