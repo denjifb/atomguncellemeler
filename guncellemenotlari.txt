@@ -1,3 +1,19 @@
+[16.10.2025]
+• [SUBARU] BRZ için 3 adet Özel Skin eklendi;
+  - KenColle Amatsukaze Itasha
+  - Lightning McQueen
+  - Blue Archive Kenzaki Tsurugi
+• [NISSAN] SILVIA S15 için 3 adet Özel Skin eklendi;
+  - Tribal Sokak Sanatı
+  - RBG Performance Kronos
+  - Honkai: Star Rail
+• [NISSAN] GTR R34 için 2 adet özel skin eklendi;
+  - 2Fast 2Furious
+  - Sakura Itasha
+• Aksesuar paneline kadın manken eklendi.
+• Özel skin, plakalık ve kapı kiti koruması eklendi:
+  - Artık yalnızca araç sahibi bu eklentileri silebilir.
+
 [14.10.2025]
 • Araç Özel Skin ürünü eklendi;
   - Fiyat: 80AC
