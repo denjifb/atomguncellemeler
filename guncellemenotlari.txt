@@ -1,3 +1,23 @@
+[23.10.2025]
+• [NISSAN] S13 modu değiştirildi;
+  - Tuning desteği;
+    * 9 Spoiler
+    * 7 Kaput, Ön Tampon
+    * 6 Far, Yan Etek
+    * 5 Arka Tampon, Ön Çamurluk
+    * 4 Izgara, Stop, Stop Cam
+    * 3 Arka Çamurluk, Kaput, Splitter
+    * 2 Arka Cam Rüzgarlık, Difüzör, Direksiyon, Roll Cage, Scoop
+    * 1 Koruyucu, Paspas
+  - 12 adet özel skin.
+  - Full destek.
+• [TOYOTA] Supra düzenlendi;
+  - 4 adet özel skin eklendi.
+  - 1 Far, Stop (send nudes) ve Bagaj etiket (is that a supra) eklendi.
+• [HONDA] S2000 3 adet skin eklendi.
+• [NISSAN] GTR R35 2 adet skin eklendi.
+• Meep Meep kornası eklendi.
+
 [19.10.2025]
 • [NISSAN] GTR R35 için 17 adet Özel Skin eklendi.
 • [NISSAN] GTR R34 için 11 adet Özel Skin eklendi.
