@@ -1,3 +1,12 @@
+[24.10.2025]
+• [TOYOTA] Supra 7 adet özel skin eklendi.
+• Özel Skin sistemine “Otomatik Deneme” özelliği eklendi.
+• Özel Skin sistemine hesaba özel "Özel Skin" özelliği eklendi;
+  - Özel skin destekli araçlara size özel tasarım seçeneği.
+  - İlerleyen dönemlerde satışa sunulacaktır.
+• Plaka sistemi artık daha stabil, RAM sızıntısı tamamen giderildi.
+• Plakalık boyutları 2 kat küçültüldü, performans arttı.
+
 [23.10.2025]
 • [NISSAN] S13 modu değiştirildi;
   - Tuning desteği;
