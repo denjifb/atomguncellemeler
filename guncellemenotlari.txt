@@ -1,3 +1,32 @@
+[02.11.2025]
+• [HONDA] Civic EK9 5 adet özel skin eklendi.
+• Oyun parasında olduğu gibi, AC için de bilgilendirme eklendi.
+• Klan sistemi düzenlendi;
+  - Kara Liste eklendi;
+    * Kara Listeye eklenen üyeler klana davet edilemeyecek.
+  - Klan bankasına para dağıt özelliği eklendi;
+    * Girilen para miktarı aktif üyelere bölüştürülür.
+  - Klan Discord sistemi eklendi;
+    * Komutlar: /klandiscord [link] ve /klandiscord sil.
+    * Klan Discord f4 bilgilerden kopyalanabilir.
+  - Yeni istatistikler eklendi;
+    * Toplam turf eklendi.
+    * Günlük Klan XP lideri eklendi.
+    * Günlük Toplam Klan XP eklendi.
+    * Toplam Klan XP eklendi.
+    * Aktif üye sayısı eklendi.
+  - Klan panelindeki kullanıcı adları kaldırıldı.
+  - Yetki değiştirme panelinde yetkilerin renk kodları kaldırıldı.
+  - Klan Haberleri düzenlendi.
+  - Kayıtları görüntüleme yetkisi bugı düzeltildi.
+  - Yetki ekle panelindeki izinleri kopyala bugı düzeltildi.
+  - Turf para oyunculara ayarlanınca kayıtlarda gözükmeme bugı düzeltildi.
+  - Klan yazıları kısa ve belirgin olacak şekilde yeniden düzenlendi.
+• Turf sistemi düzenlendi;
+  - Turf göstergesi yenilendi.
+  - Turf bölgelerine isim verildi.
+  - Turf bilgilendirmesine turfa saldıran klan ismi eklendi.
+
 [30.10.2025]
 • /ses paneli düzenlendi;
   - 'Şarkı Ara' özelliği eklendi: 6 site arasından size en uygun olanı seçebilirsiniz.
