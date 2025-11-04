@@ -1,3 +1,22 @@
+[04.11.2025]
+• Ev sistemine interior önizleme eklendi.
+• Galeri sistemi düzenlendi;
+  - Aracı çıkarmadan oyuncuya satma eklendi.
+  - Sunucuya satma, Oyuncuya satma ve Satış Teklifi panelleri yenilendi;
+    * Araç ekstraları ve oyuncu id eklendi.
+    * Tag yazısı renklendirildi.
+  - Çoklu işlem desteği eklendi;
+    * Ctrl tuşuna basılı tutarak birden fazla araç seçilebilir.
+    * Seçilen araçlar için şu işlemler yapılabilir: Sunucuya satma, kategori ekleme/çıkarma, ve kategori silme.
+  - Arama sistemi geliştirildi; artık kategori içinde geçen araçlar da arama sonuçlarına yansıyor.
+• Login paneli yenilendi;
+  - Güncellemeler kısmı tarihlere ayrıldı ve okunabilirliği arttırıldı.
+  - Aktif oyuncu sayısı eklendi.
+  - Kayıt kısmına toplam kayıtlı hesap sayısı eklendi.
+  - Rastgele girilen e-maillere karşı koruma eklendi.
+  - Optimizasyon yapıldı.
+• Ev sisteminde saatlerin mesafe nedeniyle durması sorunu düzeltildi.
+
 [02.11.2025]
 • [HONDA] Civic EK9 5 adet özel skin eklendi.
 • Oyun parasında olduğu gibi, AC için de bilgilendirme eklendi.
