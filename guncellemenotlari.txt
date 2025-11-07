@@ -1,3 +1,27 @@
+[08.11.2025]
+• Takas sistemi eklendi;
+  - Kullanım: Telefon > Takas Sistemi
+  - Araç, Ev, Ürün, Para ve AC ekleme 
+  - Animasyonlu modern tasarım
+  - ve daha fazlası...
+• VIP Sistemi yenilendi;
+  - Araç Drift Kamerası eklendi;
+    * Drift yaparken NFS tarzı kamera açıları
+    * Yükseklik, Titreme, Bakış v.b ayarlama seçeneği
+    * Sadece Diamond VIP üyeleri kullanabilir
+  - Araç Disko Renk ayarlama eklendi;
+    * Renk değişim hızı ve Renk paketi ayarlama
+  - Kayıt sistemi eklendi;
+    * Sunucudan çıkıp tekrar girdiğinizde, aktif ettiğiniz özellikler otomatik olarak hatırlanır
+  - Silah kısmı düzenlendi;
+    * 250 Mermi 1.000 mermiye yükseltidi.
+    * Liste alfabetik sıralandırıldı.
+• /araçtanat [oyuncu-ismi] eklendi;
+  - Belirttiğiniz oyuncuyu aracınızdan atar.
+• Takas isteklerini kapatma ayarı eklendi.
+• Bazen oyuna girince FPS’in 10-20 civarında takılı kalma sorunu çözüldü.
+• Eve ve Interiorlara araçla girme bugı düzeltildi.
+
 [04.11.2025]
 • Ev sistemine interior önizleme eklendi.
 • Galeri sistemi düzenlendi;
