@@ -1,3 +1,29 @@
+[13.11.2025]
+• Klan paneli yenilendi;
+  - Panel AtomLib ile yeniden tasarlandı.
+  - Filtreleme özelliği eklendi;
+    * Oyuncu İsmi, Yetki, Durum, Klan XP aralığı ve Günlük Klan XP aralığı seçenekleri
+  - Üyeler kısmında yetki renkleri aktif edildi.
+  - Kayıtlara çift tıklayınca sohbette gözükmesi eklendi.
+  - Sıralama düzenlendi;
+    * Seviye gereksinimi kaldırıldı.
+    * Son 24 Saat Klan XP (şu anlık sadece meslekten gelen xp) eklendi.
+  - Klan tag kapatılmama bugı düzeltildi.
+  - ve daha fazlası...
+• İsim Etiketi(Nametag) güncellendi;
+  - Turf’ta isimler artık klan renginde görüntüleniyor.
+  - Turf’ta klan tag’ları ikon olarak eklendi, diğer ikonlar kaldırıldı.
+  - Ayarlardan ikon görünürlüğü kapatıldığında artık “muteli” ve “yazıyor” ikonları da görünmüyor.
+  - Performans optimize edildi.
+• Takas sistemi güncellendi;
+  - Araç ve Ev için arama özelliği eklendi.
+  - 5 saniye olan uyarı süresi, 100 saat üstü oyuncular için 1 saniyeye düşürüldü.  
+• Galeri sistemi düzenlendi;
+  - Araç satış isteği panelindeki Tag rengi düzeltildi.
+  - Nadiren olan araç satış isteğinin başka oyuncuya gitmesi düzeltildi.
+  - Satış isteği gönderme, Satın alma ve Araç gizleme optimize edildi.
+• F1'deki Kıyafet ve Stiller panelinin tasarım yenilendi.
+
 [08.11.2025]
 • Takas sistemi eklendi;
   - Kullanım: Telefon > Takas Sistemi
