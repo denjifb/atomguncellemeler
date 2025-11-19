@@ -1,3 +1,33 @@
+[19.11.2025]
+• [Mazda] RX-7 eklendi;
+  - Fiyat: 3.000.000₺
+  - Özel Skin;
+    * Domicin Toretto's RX7
+    * Han's RX7
+  - Tuning desteği;
+    * 9 Ön Tampon, Arka Tampon, Yan Etek, Spoiler, Egzoz
+    * 8 Kaput
+    - 7 Stop
+    * 4 Arka Çamurluk, Ön Çamurluk, Far
+    * 2 Bagaj, Kapı
+  - Full destek.
+• Araç parça kontrol sistemi eklendi;
+  - Henüz her araçta yok ama belirli araçlara destekler eklenecek
+  - Egzoz titreme
+  - Pop-up far aktifleştirme
+  - Bagaj, kaput açma
+• [NISSAN] SILVIA S15 düzenlendi;
+  - Egzoz titremesi eklendi
+  - Kaput & bagaj açılabilir hale getirildi
+  - Araç ve egzoz parlama efektleri eklendi
+  - Egzoz parçaları tampondan ayrıldı
+• [NISSAN] SILVIA S13 düzenlendi;
+  - Egzoz titremesi eklendi
+  - Kaput & bagaj açılabilir hale getirildi
+  - Egzoz parçaları tampondan ayrıldı
+  - Pop-up far aktif edildi
+  - Kapı korumasının havada kalma sorunu giderildi
+
 [13.11.2025]
 • Klan paneli yenilendi;
   - Panel AtomLib ile yeniden tasarlandı.
