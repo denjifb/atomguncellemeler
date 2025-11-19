@@ -7,7 +7,7 @@
   - Tuning desteği;
     * 9 Ön Tampon, Arka Tampon, Yan Etek, Spoiler, Egzoz
     * 8 Kaput
-    - 7 Stop
+    * 7 Stop
     * 4 Arka Çamurluk, Ön Çamurluk, Far
     * 2 Bagaj, Kapı
   - Full destek.
