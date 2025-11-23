@@ -1,3 +1,34 @@
+[23.11.2025]
+• Ev sistemi düzenlendi;
+  - NPC ekleme özelliği eklendi;
+    * Animasyon belirleme
+    * Silah verme
+    * İsim ayarlama
+  - Portal ekleme özelliği eklendi;
+    * Hedef portal seçme (Birden fazla portal aynı portala gidebilir)
+    * Ev sahibine özel ayarlama
+    * İsim ayarlama
+• Tırcılık mesleğine güvenli alan eklendi.    
+• [Mazda] RX-7 1 adet özel skin(Orange Julius) eklendi.
+• [SUBARU] BRZ düzenlendi;
+  - Egzoz titremesi eklendi
+  - Kaput & bagaj açılabilir hale getirildi
+• [NISSAN] GTR R35 ve [NISSAN] GTR R34 düzenlendi;
+  - Egzoz titremesi eklendi
+  - Kaput & bagaj açılabilir hale getirildi
+  - Egzoz parçaları tampondan ayrıldı
+• [HONDA] Civic EK9 düzenlendi;
+  - Egzoz ve Kaput Boru titremesi eklendi
+  - Kaput & bagaj açılabilir hale getirildi
+  - Aynaların havada kalma sorunu düzeltildi
+  - Kaput boru parçası kaputtan ayrıldı
+• [VAZ] 2107 düzenlendi;
+  - Egzoz ve Motor titremesi eklendi
+  - Kaput & bagaj açılabilir hale getirildi
+  - Yan camların havada kalma sorunu düzeltildi
+  - Stoplar sağ ve sol olarak ayrıldı
+  - Spoiler 4, Tavan spoiler olarak ayrıldı
+
 [19.11.2025]
 • [Mazda] RX-7 eklendi;
   - Fiyat: 3.000.000₺
