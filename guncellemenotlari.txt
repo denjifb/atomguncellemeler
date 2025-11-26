@@ -1,3 +1,27 @@
+[26.11.2025]
+• Turf XP puanı, önce 300’den 150’ye düşürülmüşken şimdi 220’ye yükseltildi.
+• Animasyon paneli (5) düzenlendi; 
+  - 50'den fazla yeni animasyon eklendi.
+  - Panel sağa taşındı.
+• [BMW] E30, [NISSAN] 370Z, [TOYOTA] SUPRA ve [MUTSIBISHI] Lancer X düzenlendi;
+  - Egzoz titremesi eklendi.
+  - Kaput ve bagaj açılabilir hale getirildi.
+  - 370Z, Supra: Ön/arka tampon ve kaput sökme eklendi.
+  - Lancer X: Egzozlar tampondan ayrıldı, Stop 2 parçaya ayrıldı.
+  - Supra: Motor titremesi eklendi, ayna havada kalma sorunu düzeltildi.
+  - E30: 1 adet özel skin (Drift King) eklendi, motor titremesi eklendi ve ayna havada kalma sorunu düzeltildi.
+• [Mazda] RX-7 1 adet özel skin (Mamimi Tanaka) eklendi.
+• Can ve zırh alma süreleri arttırıldı;
+  - Market: 15sn -> 30sn
+  - VIP: 10sn -> 20sn
+• Ev sistemindeki portal düzenlendi;
+  - Portala girince otomatik ışınlanma kaldırıldı, artık E tuşuyla ışınlanıyor.
+  - Taşındıktan sonra çalışmama hatası düzeltildi.
+  - Algılama alanı küçültüldü.
+• F1 kısıtlı moddayken sarısite girme eklendi.
+• Taksi mesleğindeki Tofaş aracının sürüşü düzeltildi.
+• MTA güncellemesi ile gelen özel skin gözükmeme ve animasyonlu kaplama uygulanamama sorunu düzeltilmiştir.
+
 [23.11.2025]
 • Ev sistemi düzenlendi;
   - NPC ekleme özelliği eklendi;
