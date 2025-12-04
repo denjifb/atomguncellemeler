@@ -1,3 +1,14 @@
+[04.12.2025]
+• [BMW] E30 aracına 9 adet özel skin eklendi.
+• Sarısite düzenlendi;
+  - Araç özel skin filtresi eklendi.
+  - Araç kaplama filtresi düzeltildi.
+  - İlan koyma panelindeki araç fiyat kısmına okunabilir fiyat eklendi.
+• Pazar sistemi düzenlendi;
+  - 3 olan araç koyma limiti Diamond VIP'ler için 4'e yükseltildi.
+  - Güvenli alan eklendi.
+• Düello geçmişi görme limiti 100'den 200'e çıkarıldı.
+
 [26.11.2025]
 • Turf XP puanı, önce 300’den 150’ye düşürülmüşken şimdi 220’ye yükseltildi.
 • Animasyon paneli (5) düzenlendi; 
