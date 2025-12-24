@@ -1,3 +1,19 @@
+[24.12.2025]
+• Ev sistemindeki NPC animasyonlarına yeni animasyonlar eklendi.
+• Makinist mesleğindeki 10 hız limiti 30'a çıkarıldı.
+• Günlük görev sistemine Makinist görevleri eklendi.
+• Blackjack masa bahisleri 1-5-10m'den 15m'ye yükseltildi.
+• Slot en fazla bahis 50k'dan 300k'ya yükseltildi.
+• Rulet en fazla bahis 50m'den 75m'ye yükseltildi.
+• Tır mesleği dorselerine yapışma(x) engellendi.
+• Tır mesleğindeki NPC'nin rastgele konumlara ışınlanma bugı düzeltildi.
+• Pazar sistemindeki araç koyma paneline okunabilir fiyat eklendi.
+• Kumar gibi interiorlar için /interiorçık eklendi.
+• Bilinen bir Turf ölümsüzlük bug’ı düzeltildi.
+• Ev sistemi düzenlendi;
+  - Bozuk texture'lar için Gmod'daki klasik texture eklendi.
+  - Son MTA güncellemesi sonrası bozulan /mmateryal düzeltildi.
+
 [04.12.2025]
 • [BMW] E30 aracına 9 adet özel skin eklendi.
 • Sarısite düzenlendi;
