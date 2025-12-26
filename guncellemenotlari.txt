@@ -1,3 +1,17 @@
+[26.12.2025]
+• [BMW] M4 F82 düzenlendi;
+  - 5 adet özel skin eklendi.
+  - Egzoz titremesi eklendi.
+• Sex sistemi güncellendi;
+  - Yeni pozisyonlar eklendi.
+  - Public sex seçeneği eklendi.
+  - Rastgele tarafı eklendi.
+  - Kalan süreyi görme eklendi.
+  - ve daha fazlası...
+• CJ kıyafetlerine Yılbaşı Şapkası eklendi.
+• F7 panelinde nadiren yaşanan font ve KM sıralama hataları giderildi.
+• Gizlilik nedeniyle Discord kayıt sistemi, serial yerine tek kullanımlık kod kullanacak şekilde güncellendi.
+
 [24.12.2025]
 • Ev sistemindeki NPC animasyonlarına yeni animasyonlar eklendi.
 • Makinist mesleğindeki 10 hız limiti 30'a çıkarıldı.
