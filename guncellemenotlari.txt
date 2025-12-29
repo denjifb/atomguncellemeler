@@ -1,3 +1,14 @@
+[29.12.2025]
+• [BMW] M4 F82 aracına 6 adet özel skin eklendi.
+• Ghost Rider plakalık eklendi.
+• Galeri sistemi düzenlendi;
+  - Araç satın alırken önizlemeyi kapatma seçeneği eklendi.
+  - Kasa ve satış sorumlusu tasarımları yenilendi.
+  - Galeri içinde CPU kullanımı optimize edilerek FPS artırıldı.
+  - Aybaşı yetkili müdahelesi gerektirmeden limit sıfırlama eklendi.
+• Yeni yıla giriş için havai fişek efektli kutlama ve ödül ekranı eklendi.
+• Nadiren olan tuning parçalarının üst üste binme sorunu düzeltildi.
+
 [26.12.2025]
 • [BMW] M4 F82 düzenlendi;
   - 5 adet özel skin eklendi.
