@@ -1,3 +1,12 @@
+[31.12.2025]
+• Araç isim değiştirici paneli düzenlendi;
+  - Renkli isim oluşturucu eklendi.
+  - Şekilli isim oluşturucu eklendi.
+  - Özel karakterler eklendi.
+• Günlük görev sistemine Otobüs görevleri eklendi.
+• Plakalık paneline otomatik deneme özelliği eklendi.
+• Özel skin denerken ve özel skinli araçlar görüldüğünde yaşanan kasma sorunu optimize edildi.
+
 [29.12.2025]
 • [BMW] M4 F82 aracına 6 adet özel skin eklendi.
 • Ghost Rider plakalık eklendi.
