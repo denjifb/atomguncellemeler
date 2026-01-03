@@ -1,3 +1,32 @@
+[03.01.2026]
+- Tuning sistemi yenilendi; 
+  - Arka plan radyosu eklendi.
+  - Karşılaştırma özelliği eklendi.
+  - Kamera animasyonları iyileştirildi.
+  - Bilinen hatalar giderildi.
+  - ve daha fazlası...
+- [BMW] M3 E46 eklendi;
+  - Fiyat: 2.000.000₺
+  - Özel Skin;
+    * Razor
+  - Tuning desteği;
+    * 58 Yan Etek
+    * 24 Ön Tampon Splitter
+    * 20 Arka Tampon
+    * 15 Ön Tampon
+    * 14 Egzoz
+    * 13 Difüzör
+    * 9 Spoiler
+    * 8 Ön Çamurluk
+    * 7 Arka Çamurluk
+    * 6 Arka Tampon Eki
+    * 5 Böbrek İçi
+    * 4 Far
+    * 3 Kaput, Böbrek Çerçeve, Aynalar
+    * 2 Bagaj, Tavan, Plakalar, Far Cam
+    * 1 Motor, Roll Cage, Anten, Tavan Spoiler, Stop Grubu ve Logolar
+  - Full destek.
+
 [31.12.2025]
 • Araç isim değiştirici paneli düzenlendi;
   - Renkli isim oluşturucu eklendi.
