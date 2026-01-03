@@ -1,11 +1,11 @@
 [03.01.2026]
-- Tuning sistemi yenilendi; 
+• Tuning sistemi yenilendi; 
   - Arka plan radyosu eklendi.
   - Karşılaştırma özelliği eklendi.
   - Kamera animasyonları iyileştirildi.
   - Bilinen hatalar giderildi.
   - ve daha fazlası...
-- [BMW] M3 E46 eklendi;
+• [BMW] M3 E46 eklendi;
   - Fiyat: 2.000.000₺
   - Özel Skin;
     * Razor
