@@ -12,7 +12,7 @@
   - Toplu kod aktifeştirme eklendi.
   - ve daha fazlası!
 • Benzin sistemi (Petrol) yenilendi;
-  - /çekicicağır özelliği eklendi;
+  - /çekiciçağır özelliği eklendi;
     * En yakın boş olan pompaya ışınlanırsınız.
     * Ücret: 500.000₺
   - Litre fiyatı 100₺'den 200₺'ye yükseltildi.
