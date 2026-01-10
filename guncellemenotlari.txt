@@ -1,3 +1,27 @@
+[10.01.2026]
+• AC Marketi yenilendi;
+  - Panel tasarımı tamamen değiştirildi.
+  - Kategori ve sıralama seçenekleri eklendi.
+  - Satın alım ve kod aktifleştirme geçmişi eklendi.
+  - İstatistikler eklendi:
+    * Bu ay en çok satanlar
+    * Son satın alımlar
+    * Son aktifleştirilen kodlar
+  - Kampanyalı ürün sistemi eklendi (2 al 1 öde, %10 indirim vb.).
+  - Promosyon kodu sistemi eklendi.
+  - Toplu kod aktifeştirme eklendi.
+  - ve daha fazlası!
+• Benzin sistemi (Petrol) yenilendi;
+  - /çekicicağır özelliği eklendi;
+    * En yakın boş olan pompaya ışınlanırsınız.
+    * Ücret: 500.000₺
+  - Litre fiyatı 100₺'den 200₺'ye yükseltildi.
+  - Panel tasarımı yenilendi.
+  - Işınlanınca benzin bitme hatası giderildi.
+  - FPS optimizasyonu yapıldı.
+• [BMW] M3 E46 aracına 3 adet özel skin eklendi.
+• Işınlanınca KM artma hatası giderildi.
+
 [03.01.2026]
 • Tuning sistemi yenilendi; 
   - Arka plan radyosu eklendi.
