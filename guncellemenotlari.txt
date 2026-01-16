@@ -1,3 +1,19 @@
+[16.01.2026]
+• Şikayet sistemi eklendi.
+  - Kullanım: /şikayet [id] [sebep]
+  - Ekran görüntüsü ve ilgili kişinin son mesajları şikayet-oto kanalına otomatik gönderilir.
+• Discord sunucumuza turf durumu eklendi;
+  - Hangi turfun kimde olduğunu gösteren harita görseli paylaşılır.
+  - Harita 10 dakikada bir otomatik olarak güncellenir.
+• Handling paneli (b) yenilendi;    
+  - Hızlı işlemler sekmesi eklendi.
+  - Hand değiştirirken bazı ayarları koruma özelliği eklendi.
+  - Kullanıcı deneyimi ve panel tasarımı iyileştirildi.
+• Pilot mesleği düzenlendi;
+  - Kullanımı zor olan iki helikopter kaldırıldı.
+  - Diğer helikopterlerin seviye şartları 1 ve 2’ye düşürüldü.
+• Atom Discord botu, sıfırdan geliştirilerek daha stabil ve hatasız hale getirildi.
+
 [10.01.2026]
 • AC Marketi yenilendi;
   - Panel tasarımı tamamen değiştirildi.
