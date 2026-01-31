@@ -1,3 +1,29 @@
+[31.01.2026]
+• F7 / Galeri sistemi düzenlendi.
+  - Aynı bilgisayardan ayda yalnızca 1 hesap ile araç satın alma kısıtlaması eklendi.
+  - Galeri paneline Detay penceresi eklendi:
+    * Seçili aracın piyasa adedi ve tag istatistikleri görüntülenebiliyor.
+  - Galeri paneline Ayarlar / Filtreler eklendi:
+    * Sıralama: Fiyat, piyasa adedi, Diamond sayısı vb.
+    * Filtreler: GTA araçlarını gizleme, araç türüne göre filtreleme vb.
+    * Ayarlar; panel kapatılsa ya da sunucudan çıkılıp girilse bile kayıtlı kalır.
+  - Panelin genel görünümü iyileştirildi.
+  - Galeri ve Araç panelinde ok tuşu desteği eklendi.
+  - Bilinen tüm hatalar giderildi.
+  - Performans optimizasyonları yapıldı.
+  - Ve daha fazlası…
+• [MERCEDES] C63 düzenlendi;
+  - 5 adet özel skin eklendi.
+  - Egzoz titremesi eklendi.
+  - Kaput & bagaj açılabilir hale getirildi.
+  - Aynaların havada kalma sorunu düzeltildi.
+• Gelişmiş Özel Nişangah Sistemi eklendi.
+  - F2’deki eski nişangah kaldırıldı, sistem tamamen yenilendi.
+  - Nişangah ayarları ESC → Nişangah üzerinden yapılabiliyor.
+  - Boyut, kalınlık, boşluk, renk, opaklık, merkez nokta gibi tüm detaylar özelleştirilebilir.
+  - Valorant nişangah kodlarıyla tam uyumlu, içe/dışa aktarma destekli.
+  - Hem özel ayarlamalı hem de önceki nişangah seçenekleri mevcut.
+
 [16.01.2026]
 • Şikayet sistemi eklendi.
   - Kullanım: /şikayet [id] [sebep]
