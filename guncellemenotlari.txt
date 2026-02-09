@@ -1,3 +1,17 @@
+[09.02.2026]
+• F2/Market güncellendi;
+  - Kill bonusu eklendi;
+    * Her aldığınız kill, can ve zırh süresini 5 saniye azaltır.
+    * Diamond VIP oyuncular için kill başına toplam 10 saniye can ve zırh süresi azalır.
+  - Panel görünümü iyileştirildi.
+• Araç bilgi (ALT tuşu) ekranı yenilendi;
+  - 2024’te kullanılan tasarım güncellenerek daha modern hale getirildi.
+  - 6 ve üzeri ekstraya sahip araçlar için özel efekt eklendi. (ÖS yoksa 5 ve üzeri)
+  - Araç ekstraları sisteme eklendi.
+  - Performans optimizasyonları yapıldı.
+• Kill mesajlarına silinme efekti eklendi ve optimize edildi.
+• Nametag, üst duyuru, HUD ve araç sesleri scriptleri optimize edilerek işlemci (CPU) kullanımı düşürüldü.
+
 [31.01.2026]
 • F7 / Galeri sistemi düzenlendi.
   - Aynı bilgisayardan ayda yalnızca 1 hesap ile araç satın alma kısıtlaması eklendi.
