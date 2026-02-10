@@ -1,3 +1,21 @@
+[10.02.2026]
+• [MERCEDES] CLS 63 eklendi;
+  - Fiyat: 6.000.000₺
+  - Sedan ve Shooting Brake özel dönüşüm
+  - Özel Skin;
+    * AMG, Bloody, LHDK Customs, Yıldız
+  - Tuning desteği;
+    * 9 Izgara
+    * 8 Bagaj Logo
+    * 6 Arka Sağ/Sol Kapı Çita, Bagaj Çita, Üst Çita
+    * 4 Egzoz, Ön Tampon
+    * 3 Arka Tampon, Difüzör, Kaput, Spoiler, Stop, Yan Etek, Çamurluk Logo, Ön Sağ/Sol Kapı Çita
+    * 2 Arka Çamurluk, Bagaj, Far, Ön Tampon Splitter, Ön Çamurluk
+  - Full destek.
+• [RENAULT] TOROS sunucudan kaldırıldı;
+  - 10.000 ID üzerindeki araçlar sistemden tamamen silinmiş ve bedelleri oyuncuların banka hesaplarına aktarılmıştır. (202 tane)
+  - 10.000 ID altındaki araçlar ise sıradan yeni [MERCEDES] CLS 63 aracına çevrilmiş ve bedelleri oyuncuların banka hesaplarına aktarılmıştır. (3 tane)
+
 [09.02.2026]
 • F2/Market güncellendi;
   - Kill bonusu eklendi;
