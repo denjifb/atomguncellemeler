@@ -1,3 +1,25 @@
+[14.02.2026]
+• [Range Rover] SVA eklendi;
+  - Fiyat: 10.000.000₺
+  - Tuning desteği;
+    * 3 Tavan Anten
+    * 2 Arka Tampon, Ön Tampon Egzoz, Izgara, Kapı Sağ/Sol, Spoiler, Tavan, Ön Çamurluk
+    * 1 Tavan Süs, Yan Etek
+  - Full destek.
+• [MERCEDES] CLS 63 aracına 4 adet daha özel skin eklendi.
+• F7/Araçlarım paneli güncellendi;
+  - Listeden ismi okunamayan araçlara basınca isim önizlemesi eklendi.
+  - Arama sistemi güncellendi;
+    * Özel isimli araçlar orijinal ismiyle de aranabilir. (örn. BMW, S13 vb.)
+    * Gelişmiş filtreleme id, marka, tag, km ve çıkarılmış alanları için geçerlidir.
+    * Gelişmiş filtrelerde 1–500 arası veya >, <, >=, <= işaretleriyle km/id araması yapılabilir.
+    * Gelişmiş filtrelerde başına ! koyarak istemediğiniz sonuçları gizleyebilirsiniz.
+    * Örnek kullanım: id:>500 marka:bmw tag:!Diamond cikarilmis:evet
+• [RANGE] ROVER sunucudan kaldırıldı;
+  - 10.000 ID üzerindeki araçlar sistemden tamamen silinmiş ve bedelleri oyuncuların banka hesaplarına aktarılmıştır. (599 tane)
+  - 10.000 ID altındaki araçlar ise sıradan yeni [Range Rover] SVA aracına çevrilmiş ve bedelleri oyuncuların banka hesaplarına aktarılmıştır. (150 tane)
+• /ses panelindeki mp3tur sitesi düzeltildi ve 5 adet yeni site eklendi.
+
 [10.02.2026]
 • [MERCEDES] CLS 63 eklendi;
   - Fiyat: 6.000.000₺
