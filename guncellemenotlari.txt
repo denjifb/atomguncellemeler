@@ -1,3 +1,31 @@
+[23.02.2026]
+• Tag sistemi tamamen yenilendi;
+  - Özel Tag sistemi eklendi:
+    * Oyuncular kendi tagını yazıp kullanabilir hale getirildi.
+    * Tag, sohbette ve isteğe bağlı olarak karakter üstünde gösterilebilir.
+    * Tek satın alım ile sınırsız kullanım ve haftada 1 değiştirme hakkı eklendi.
+    * Özel Tag ürün fiyatı: 2.000 AC
+  - Şartlı Tag sistemi eklendi:
+    * Kill, drift, oynama süresi ve para gibi kategorilere bağlı taglar eklendi.
+    * Gerekli şartı sağlayan oyuncular, istedikleri tagı aktif edebilir.
+    * Şartlar sunucuya her girişte otomatik hesaplanır.
+  - Seçilen tag artık oyundan çıkışta sıfırlanmaz, kayıtlı olarak korunur.
+• Görev sistemi düzenlendi;
+  - Görev levellerini panelden görüntüleme eklendi.
+  - Özel gün ve hafta sonu bonusları otomatik hale getirildi.
+  - Görev hile koruması daha akıllı hale getirilerek güvenlik artırıldı.
+  - Optimizasyon yapılarak performans arttırıldı.
+• Genel sohbet filtresi güncellendi; dini ve milli filtreler eklendi.
+• X(yapışma) sisteminin tüm açıkları kapatıldı.
+• F7 / Araçlarım paneli mesleklerde, Turf’ta vb. durumlarda açılabilmesi sağlandı.
+• HGS düzenlendi (çoklu kart alma eklendi, üstten atlama açığı kapatıldı, kapanma sorunu düzeltildi).
+• Taş-Kağıt-Makas güncellendi (animasyon/tasarım iyileştirildi, hatalar giderildi).
+• Banka soygunu düzenlendi (soygun süresi, sıkma ve yazma eklendi, hatalar giderildi).
+• Giriş yapmadan yazma kapatıldı.
+• Atom City ve 4 anim paneli kaldırıldı.
+• Haritadaki gereksiz objeler kaldırıldı.
+• Birçok sistem optimize edilip açıklar kapatıldı.
+
 [19.02.2026]
 • F1/Kıyafetler paneli güncellendi;
   - Kombin paylaşma özelliği eklendi.
