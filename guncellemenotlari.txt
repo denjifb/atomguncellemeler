@@ -10,10 +10,10 @@
     * Gerekli şartı sağlayan oyuncular, istedikleri tagı aktif edebilir.
     * Şartlar sunucuya her girişte otomatik hesaplanır.
   - Seçilen tag artık oyundan çıkışta sıfırlanmaz, kayıtlı olarak korunur.
-• Görev sistemi düzenlendi;
-  - Görev levellerini panelden görüntüleme eklendi.
+• Meslek sistemi düzenlendi;
+  - Meslek levellerini panelden görüntüleme eklendi.
   - Özel gün ve hafta sonu bonusları otomatik hale getirildi.
-  - Görev hile koruması daha akıllı hale getirilerek güvenlik artırıldı.
+  - Meslek hile koruması daha akıllı hale getirilerek güvenlik artırıldı.
   - Optimizasyon yapılarak performans arttırıldı.
 • Genel sohbet filtresi güncellendi; dini ve milli filtreler eklendi.
 • X(yapışma) sisteminin tüm açıkları kapatıldı.
