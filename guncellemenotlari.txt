@@ -1,3 +1,23 @@
+[25.02.2026]
+• [MERCEDES] CLS 63 aracına 1 adet daha özel skin eklendi.
+• Animasyon paneli güncellendi;
+  - 9 Motor Akrobasi animasyonu eklendi.
+  - Motorlarda fare tekerleği (favoriler) aktifleştirildi, Space ile durdurma sadece motorlarda kapatıldı.
+• Meslek sistemi düzenlendi;
+  - Son meslek yapılma süresi eklendi.
+  - Meslek ilerleme yüzdesi panele eklendi.
+  - Meslek detay paneli eklendi.
+  - Performans iyileştirmeleri ve optimizasyon çalışmaları yapıldı.
+• F1 paneli yenilendi;
+  - Ölümsüzlük sistemi düzenlendi (5 sn gecikmeli kapanma + ilerleme göstergesi).
+  - Araç oluşturma kaldırıldı.
+  - Işınlanmaya 3 sn koruma eklendi.
+  - Panel tasarımı iyileştirildi.
+  - Performans ve optimizasyon çalışmaları yapıldı.
+  - Güvenlik açıkları kapatıldı.
+• /motorayat bindi eklendi.
+• Genel sohbet filtresine 2 dakikalık uyarı susturma eklendi.
+
 [23.02.2026]
 • Tag sistemi tamamen yenilendi;
   - Özel Tag sistemi eklendi:
