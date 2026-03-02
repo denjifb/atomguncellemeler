@@ -1,3 +1,32 @@
+[02.03.2026]
+• Sarısite yenilendi;
+  - Teklif özelliği eklendi;
+    * Gelen ve giden teklifler görülebilir.
+    * İlanın teklif özelliği açılıp kapatılabilir.
+    * İlan fiyatının minimum %50’sine teklif verilebilir.
+  - RGB özelliği eklendi;
+    * İlan başlığı listede RGB olarak gösterilir.
+    * Ücreti: 5 AC
+  - Oto Chat Reklam özelliği eklendi;
+    * İlan, her 10 dakikada bir genel sohbete otomatik reklam gönderir.
+    * Ücreti: 10 AC
+  - İşlem geçmişi görme özelliği eklendi;
+    * İlanlarınıza ait tüm işlemleri görebilirsiniz.
+  - Favorileme özelliği eklendi.
+  - Yukarı/Aşağı ok tuşları ile ilan listesinde gezinme özelliği eklendi.
+  - Panel açıkken ilan listesi yenileme özelliği eklendi.
+  - İlan listesinde aktif oyuncuların adı yeşil yapıldı.
+  - Tasarım tamamen yenilendi.
+  - Oto detay aç seçeneği eklendi.
+  - Araç ekstraları filtresi eklendi.
+  - Discord MTA Sarısite logları iyileştirildi.
+  - İlan açıklama ve başlık karakter sınırı artırıldı.
+  - Araç ilanı incelerken Alt Bilgi görme özelliği eklendi.
+  - Araç detay paneline ekstraları görme özelliği eklendi.
+  - Güvenlik açıkları kapatıldı ve sistem optimize edildi.
+• Araç bilgilerini Alt tuşuna basmadan görmek için /alt komutu eklendi.
+• Tab paneldeki Para, Rütbe ve Zaman sıralamaları düzeltildi ve genel görünüm iyileştirildi.
+
 [25.02.2026]
 • [MERCEDES] CLS 63 aracına 1 adet daha özel skin eklendi.
 • Animasyon paneli güncellendi;
