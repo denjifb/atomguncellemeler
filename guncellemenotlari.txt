@@ -1,3 +1,26 @@
+[12.03.2026]
+• Giriş paneli düzenlendi;
+  - Kayıt sırasında kuralları okuma zorunluluğu eklendi.
+  - Okunmamış güncellemeler özelliği eklendi.
+  - Şifremi unuttum sistemine e-posta doğrulama aşaması eklendi.
+  - /şifredeğiş ve /epostadeğiş görünümleri yenilendi.
+  - Altyapı baştan yazılarak kritik güvenlik açıkları kapatıldı.
+  - Görünüm ve kullanıcı deneyimi iyileştirildi.
+• Günlük görev sistemi düzenlendi;
+  - Görev tamamlama süresi eklendi.
+  - İlerleme bildirimi eklendi.
+  - Tarih ve sıfırlanma geri sayımı eklendi.
+  - Görünüm iyileştirildi.
+  - Sistem optimize edildi.
+• Marker efekti düzenlendi;
+  - Ayarlar paneline kapatıp/açma eklendi.
+  - Görünümü düzenlendi.
+  - Optimize edildi.
+• /güncellemeler ve /kurallar panelleri eklendi.
+• Sunucudaki tüm drift bugları kapatıldı ve F9 drift sıralaması sıfırlandı.
+• Fare hareketiyle artan CPU kullanımı sorunu giderildi.
+• Bazı araçlarda (CLS, EK9 vb.) texture yüklenmeme sorunu giderildi.
+
 [06.03.2026]
 • Pizzacı mesleği güncellendi:
   - Kazanç biraz artırıldı.
