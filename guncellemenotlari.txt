@@ -1,3 +1,25 @@
+[06.03.2026]
+• Pizzacı mesleği güncellendi:
+  - Kazanç biraz artırıldı.
+  - Pişirme sonrası paketlemeye otomatik geçiş eklendi.
+  - Tüm teslimatlar bitince aracı geri bırakma zorunluluğu kaldırıldı.
+  - Meslek baştan yazılarak güvenlik açıkları kapatıldı.
+  - Optimizasyon çalışmaları yapıldı.
+  - Görsel iyileştirmeler yapıldı.
+• Mod yükleme sistemi güncellendi;
+  - Bozuk MTA sürümü ile çöken artmalar için geçici fix eklendi.
+  - Maksimum araç sayısı kısıtlaması seçeneği eklendi.
+  - Sadece kendi aracımın modunu yükle seçeneği eklendi.
+  - Panel tasarımı yenilendi.
+• Araç suya düşünce yola atma sistemi seçenekli hale getirildi ve optimize edildi.
+• Araç görünce oluşan kasma bir miktar azaltıldı.
+• Birçok sistem ve araç modu optimize edildi.
+• Sunucu giriş boyutu 323MB → 272MB düşürüldü.
+• Harita indirme boyutu 3.9MB → 2.5MB düşürüldü.
+• Sarısite FPS sorunu düzeltildi.
+• Ustalık ve VIP aldıktan sonra reconnect gereksinimi kaldırıldı.
+• KM sıfırlama tekrardan aktif hale getirildi.
+
 [02.03.2026]
 • Sarısite yenilendi;
   - Teklif özelliği eklendi;
