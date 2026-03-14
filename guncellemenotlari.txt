@@ -1,15 +1,15 @@
 [14.03.2026]
-- Madenci Mesleği Güncellendi:
+• Madenci Mesleği Güncellendi:
   - 8 farklı maden cevheri:
-    - 2.000₺ – 50.000₺ arası kazanç
-    - 10 – 30 arası Klan XP
-    - Her cevhere özel görsel efektler
+    * 2.000₺ – 50.000₺ arası kazanç
+    * 10 – 30 arası Klan XP
+    * Her cevhere özel görsel efektler
   - 2 farklı kazı bölgesi:
-    - Normal Bölge: 5 çeşit maden
-    - Usta Bölge: 8 çeşit maden
+    * Normal Bölge: 5 çeşit maden
+    * Usta Bölge: 8 çeşit maden
   - 7 farklı kazma:
-    - 2 – 8 güç aralığı
-    - Kazma türüne göre özel görsel efektler
+    * 2 – 8 güç aralığı
+    * Kazma türüne göre özel görsel efektler
   - Her seviyede +%5 para bonusu
   - Meslek sistemi baştan yazıldı, güvenlik açıkları kapatıldı.
   - Performans ve optimizasyon iyileştirmeleri yapıldı.
