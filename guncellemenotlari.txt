@@ -1,3 +1,30 @@
+[19.03.2026]
+• Telefon yenilendi;
+  - Ayarlar eklendi;
+    * Duvar kağıdı (galeri / internet, blur, karartma, hizalama, ekrana sığdır & siyah-beyaz)
+    * Görünüm & tema (cihaz ismi, çerçeve, yazı rengi, uygulama ikon parlaklığı, widget & font)
+    * Ses ayarları (WhatsApp sesi kapatma & seviye ayarı)
+    * Uçak modu (WhatsApp mesajlarını durdurma)
+    * Uygulama Ayarları (gizleme)
+    * Uygulamaları düzenle (yerlerini değiştirme)
+  - WhatsApp yenilendi;
+    * Tasarım iyileştirildi
+    * Okundu & yazıyor bilgisi eklendi
+    * Son 50 mesaj görüntüleme
+  - Yeni uygulamalar;
+    * YouTube (tam ekran, mini mod, alta alma)
+    * Not defteri
+    * Kamera (selfie & fotoğraf çekme)
+    * Galeri (çekilen fotoğrafları görüntüleme)
+  - Diğer yenilikler;
+    * Büyük saat widget'i eklendi.
+    * Hesap makinesi, para gönderme & market yenilendi
+    * Mayın Tarlası eklendi
+    * Flappy Bird kolaylaştırıldı
+    * Uygulama ikonları iyileştirildi
+    * Performans & kullanıcı deneyimi artırıldı, hatalar giderildi
+  - ve daha fazlası...
+
 [14.03.2026]
 • Madenci Mesleği Güncellendi:
   - 8 farklı maden cevheri:
