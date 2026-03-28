@@ -1,5 +1,16 @@
 [24.03.2026]
 • Modifiye Paneli / F6 güncellendi;
+  - Animasyonlu plaka:
+    * Yeni stiller eklendi: Nabız, Glitch, RGB (farklı varyasyonlarla)
+    * 2 adet düzenleme hakkı eklendi.
+    * Yazı, font, stil ve hareket dışındaki tüm ayarlar düzenlenebilir.
+    * AP’li araçlarda panel açıldığında ayarlar otomatik yükleniyor.
+    * Canlı önizleme ve panel sıfırlama eklendi.
+  - Animasyonlu kaplama:
+    * 2 adet düzenleme hakkı eklendi.
+    * Stil dışındaki tüm ayarlar düzenlenebilir hale getirildi.
+    * AK’li araçlarda panel açıldığında ayarlar otomatik yükleniyor.
+    * Canlı önizleme ve panel sıfırlama eklendi.
   - Teker ayarları: Parlaklık ayarlama eklendi, ön-arka bağlantı iyileştirildi.
   - Süspansiyon: Daha basit ve kullanıcı dostu hale getirildi.
   - Parça yönetimi: Kapı sök/tak ve aç/kapat işlemleri tek panelde toplandı.
@@ -8,17 +19,6 @@
   - Plaka: Önizleme eklendi.
   - Cam filmi: Deneme sonrası eski haline dönmeme sorunu giderildi.
   - Korna: Deneme eklendi.
-  - Animasyonlu kaplama:
-    * 2 adet düzenleme hakkı eklendi.
-    * Stil dışındaki tüm ayarlar düzenlenebilir hale getirildi.
-    * AK’li araçlarda panel açıldığında ayarlar otomatik yükleniyor.
-    * Canlı önizleme ve panel sıfırlama eklendi.
-  - Animasyonlu plaka:
-    * Yeni stiller eklendi: Nabız, Glitch, RGB (farklı varyasyonlarla)
-    * 2 adet düzenleme hakkı eklendi.
-    * Yazı, font, stil ve hareket dışındaki tüm ayarlar düzenlenebilir.
-    * AP’li araçlarda panel açıldığında ayarlar otomatik yükleniyor.
-    * Canlı önizleme ve panel sıfırlama eklendi.
   - Plakalık: Panel önizlemesi geliştirildi.
   - Kapı kiti: Açılma / kapanma hızı dengelendi (yavaşlatıldı).
   - Depo arttırıcı: Envanterden modifiye paneline entegre edildi.
