@@ -1,3 +1,38 @@
+[24.03.2026]
+• Modifiye Paneli / F6 güncellendi;
+  - Teker ayarları: Parlaklık ayarlama eklendi, ön-arka bağlantı iyileştirildi.
+  - Süspansiyon: Daha basit ve kullanıcı dostu hale getirildi.
+  - Parça yönetimi: Kapı sök/tak ve aç/kapat işlemleri tek panelde toplandı.
+  - Boya: F1 paneldeki boya. Favoriye ekleme özellikli ve modern panel.
+  - GTA Modifiye: F1 paneldeki modifiye sistemi. (Spoiler / Jantlar / Süspansiyon)
+  - Plaka: Önizleme eklendi.
+  - Cam filmi: Deneme sonrası eski haline dönmeme sorunu giderildi.
+  - Korna: Deneme eklendi.
+  - Animasyonlu kaplama:
+    * 2 adet düzenleme hakkı eklendi.
+    * Stil dışındaki tüm ayarlar düzenlenebilir hale getirildi.
+    * AK’li araçlarda panel açıldığında ayarlar otomatik yükleniyor.
+    * Canlı önizleme ve panel sıfırlama eklendi.
+  - Animasyonlu plaka:
+    * Yeni stiller eklendi: Nabız, Glitch, RGB (farklı varyasyonlarla)
+    * 2 adet düzenleme hakkı eklendi.
+    * Yazı, font, stil ve hareket dışındaki tüm ayarlar düzenlenebilir.
+    * AP’li araçlarda panel açıldığında ayarlar otomatik yükleniyor.
+    * Canlı önizleme ve panel sıfırlama eklendi.
+  - Plakalık: Panel önizlemesi geliştirildi.
+  - Kapı kiti: Açılma / kapanma hızı dengelendi (yavaşlatıldı).
+  - Depo arttırıcı: Envanterden modifiye paneline entegre edildi.
+  - Panel tasarımı genel olarak iyileştirildi.
+  - Maksimum seviyede hile koruması ve optimizasyon yapıldı.
+• Ayarlar(ESC) paneli düzenlendi;
+  - Panelden blur efekti kaldırıldı.
+  - Hile koruması eklendi.
+  - Optimizasyon yapıldı.
+• F1 paneldeki Modifiye ve Araç Boya F6'ya taşındı.
+• Sarısite aksesuar önizleme hatası düzeltildi.
+• Panelleri taşırken olan takılma sorunu giderildi.
+• ATOM AC: data koruması eklendi.
+
 [19.03.2026]
 • Telefon yenilendi;
   - Ayarlar eklendi;
