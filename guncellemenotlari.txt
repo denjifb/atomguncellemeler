@@ -5,7 +5,7 @@
   - Lastik, Disk, Kapak, Kaliper deseni değiştirme.
   - Yanak genişliği, kaliper rotasyonu, disk boyutu, kaliper boyutu değiştirme.
   - Ana, Detay, Bijon, Kaliper, Kaliper Logo, Detay 2 rengi değiştirme.
-  - Krom efekti ayarlama
+  - Krom efekti ayarlama.
   - Kapak sabitleme.
   - [JK] etiketi olanlar için Jant Kiti gereklidir.
   - ve daha fazlası...
