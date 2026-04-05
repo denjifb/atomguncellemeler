@@ -1,3 +1,25 @@
+[05.04.2026]
+• F6 Teker ayarı tamamen yenilendi;
+  - 68 kaliteli yeni jant.
+  - Disk ısınması özelliği.
+  - Lastik, Disk, Kapak, Kaliper deseni değiştirme.
+  - Yanak genişliği, kaliper rotasyonu, disk boyutu, kaliper boyutu değiştirme.
+  - Ana, Detay, Bijon, Kaliper, Kaliper Logo, Detay 2 rengi değiştirme.
+  - Krom efekti ayarlama
+  - Kapak sabitleme.
+  - [JK] etiketi olanlar için Jant Kiti gereklidir.
+  - ve daha fazlası...
+• Jant Kiti ürünü eklendi;
+  - Kaliper ayarları ve teker desenleri gibi gelişmiş Teker Ayarı özelliklerini kullanabilirsiniz.
+  - F6 Modifiye Panelinden kullanılır.
+  - Fiyat: 50AC
+• F6 Boya paneline hazır renkler eklendi.
+• Ayarlar paneline 'Araç Disk Isınması' ayarı eklendi.
+• Araç bilgi (ALT tuşu) partikül efekti şartı 6'dan 7'ye çıkartıldı.
+• Sunucudaki tüm eski/kalitesiz jantlar kaldırıldı.
+• Görev araçlarında korna çalmama hatası düzeltildi.
+• Boya panelindeki tıklama hatası düzeltildi.
+
 [24.03.2026]
 • Modifiye Paneli / F6 güncellendi;
   - Animasyonlu plaka:
