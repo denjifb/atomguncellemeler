@@ -1,3 +1,27 @@
+[11.04.2026]
+• [TOYOTA] AE86 eklendi;
+  - Fiyat: 1.500.000₺
+  - Trueno ve Levin özel dönüşüm
+  - Özel Skin;
+    * Panda, Initial D: Fujiwara Tofu, Initial D: Project D
+  - Tuning desteği;
+    * 8 Kaput, Stop
+    * 6 Ön Tampon, Splitter
+    * 5 Izgara, Yan Etek
+    * 4 Arka Tampon, Far
+    * 3 Arka Çamurluk, Ayna, Ön Çamurluk Ek, Spoiler
+    * 2 Bagaj, Bagaj Logo, Dönüşüm, Egzoz, Koltuk, Ön Çamurluk, Roll Cage, Ön Plaka
+    * 1 Arka Cam Süs, Bagaj Ek, Ön Kapı Çita, Çita, Ön Tampon Işık, Çeki Demiri
+  - Full destek.
+• 3 yeni jant daha eklendi;
+  - DUB BIG CHIPS
+  - DUB PRESIDENTIAL
+  - Mercedes AMG Multi Spoke
+• Araç Jant Kiti artık satılabilir ve takaslanabilir.
+• [MINI] Cooper s sunucudan kaldırıldı;
+  - 10.000 ID üzerindeki araçlar sistemden tamamen silinmiş ve bedelleri oyuncuların banka hesaplarına aktarılmıştır. (243 tane)
+  - 10.000 ID altındaki araçlar ise sıradan yeni [TOYOTA] AE86 aracına çevrilmiş ve bedelleri oyuncuların banka hesaplarına aktarılmıştır. (39 tane)
+
 [05.04.2026]
 • F6 Teker ayarı tamamen yenilendi;
   - 68 kaliteli yeni jant.
