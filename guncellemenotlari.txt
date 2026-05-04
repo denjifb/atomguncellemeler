@@ -1,3 +1,10 @@
+[05.05.2026]
+• [TOYOTA] AE86 aracına 8 adet özel skin eklendi.
+• ALT basınca oyuncunun ölümsüzlük durumunu görme eklendi.
+• F6 araç boya sorunu tamamen düzeltildi.
+• Hava araçlarının HGS tetikleme sorunu düzeltildi.
+• MTA güncellemesi ile bozulan "Şarkı Ara" düzeltildi.
+
 [11.04.2026]
 • [TOYOTA] AE86 eklendi;
   - Fiyat: 1.500.000₺
