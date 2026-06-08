@@ -1,3 +1,13 @@
+[08.06.2026]
+- [NISSAN] SILVIA S13 aracına 2 yeni özel skin eklendi: Side Of Japan, Mania.
+- Şans kutusuna Araç Jant Kiti eklendi.
+- AF YOK plakalık eklendi.
+- Ev Limit Arttırıcı 40AC’den 200AC’ye yükseltildi.
+- Şans kutusundan Ev Limit Arttırıcı kaldırıldı.
+- Düello sistemine, dolandırıcılığı önlemek amacıyla yüksek bahis uyarısı eklendi.
+- MTA güncellemesi ile bozulan giriş ekranı düzeltildi.
+- Evde F1 animasyon kullanamama hatası giderildi.
+
 [05.05.2026]
 • [TOYOTA] AE86 aracına 8 adet özel skin eklendi.
 • ALT basınca oyuncunun ölümsüzlük durumunu görme eklendi.
