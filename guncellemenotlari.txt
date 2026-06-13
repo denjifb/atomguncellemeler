@@ -1,12 +1,27 @@
+[13.06.2026]
+• Klan sistemi geliştirildi;
+  - Sezon sistemi eklendi;
+    * Her klan sezonu 3 ay (90 gün).
+    * Sezon sonunda dereceye giren ilk 10 klan ve ilk 10 oyuncu için büyük ödüller.
+    * Sezon sıralamalarında hem klanlar hem de oyuncular için ayrı sıralama.
+    * Sezona özel XP, Turf (Bölge) XP, Meslek XP, Öldürme ve Ölüm istatistikleri.
+    * Geçmiş sezonlardaki ilk 50 klanı ve ilk 100 oyuncuyu görüntüleme.
+  - Sıralama listesinde tek tık ile klan bilgileri görme eklendi.
+  - İstatistikler bölümüne sezonluk ve son 24 saatlik XP verilerini görüntüleme özelliği eklendi.
+  - Klan üyeleri için bireysel Sezon XP sıralama listesi aktif edildi.
+  - Son 24 saatlik meslek ve turf XP görebilme imkanı eklendi.
+  - Yeni kurulan klanlarda nadiren yaşanan üye listesinin görünmeme sorunu giderildi.
+  - ve daha fazlası...
+
 [08.06.2026]
-- [NISSAN] SILVIA S13 aracına 2 yeni özel skin eklendi: Side Of Japan, Mania.
-- Şans kutusuna Araç Jant Kiti eklendi.
-- AF YOK plakalık eklendi.
-- Ev Limit Arttırıcı 40AC’den 200AC’ye yükseltildi.
-- Şans kutusundan Ev Limit Arttırıcı kaldırıldı.
-- Düello sistemine, dolandırıcılığı önlemek amacıyla yüksek bahis uyarısı eklendi.
-- MTA güncellemesi ile bozulan giriş ekranı düzeltildi.
-- Evde F1 animasyon kullanamama hatası giderildi.
+• [NISSAN] SILVIA S13 aracına 2 yeni özel skin eklendi: Side Of Japan, Mania.
+• Şans kutusuna Araç Jant Kiti eklendi.
+• AF YOK plakalık eklendi.
+• Ev Limit Arttırıcı 40AC’den 200AC’ye yükseltildi.
+• Şans kutusundan Ev Limit Arttırıcı kaldırıldı.
+• Düello sistemine, dolandırıcılığı önlemek amacıyla yüksek bahis uyarısı eklendi.
+• MTA güncellemesi ile bozulan giriş ekranı düzeltildi.
+• Evde F1 animasyon kullanamama hatası giderildi.
 
 [05.05.2026]
 • [TOYOTA] AE86 aracına 8 adet özel skin eklendi.
