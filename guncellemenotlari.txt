@@ -1,6 +1,6 @@
 [19.06.2026]
 • [BMW] M4 G82 düzenlendi;
-  - Özel Skinler eklendi: CLR, M3 Racing, Tevhid, Tevhid Siyah
+  - Özel Skinler eklendi: CLR, GT3 Racing, Tevhid, Tevhid Siyah
   - Hatalı tuningler düzeltildi, birkaç yeni parça eklendi.
   - Bagaj açılma desteği eklendi.
 • Akide Şekeri Kavuncu karakteri eklendi.
