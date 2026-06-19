@@ -1,3 +1,11 @@
+[19.06.2026]
+• [BMW] M4 G82 düzenlendi;
+  - Özel Skinler eklendi: CLR, M3 Racing, Tevhid, Tevhid Siyah
+  - Hatalı tuningler düzeltildi, birkaç yeni parça eklendi.
+  - Bagaj açılma desteği eklendi.
+• Akide Şekeri Kavuncu karakteri eklendi.
+• [VOLKSWAGEN] SCIROCCO jant değişmeme sorunu düzeltildi.
+
 [13.06.2026]
 • Klan sistemi geliştirildi;
   - Sezon sistemi eklendi;
