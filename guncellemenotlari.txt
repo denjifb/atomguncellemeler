@@ -1,3 +1,18 @@
+[22.06.2026]
+• [MERCEDES] E63 eklendi;
+  - Fiyat: 4.000.000₺
+  - Tuning desteği;
+    * 6 Difüzör, Egzoz
+    * 5 Bagaj Logo
+    * 4 Izgara
+    * 3 Arka Tampon, Kaput, Yan Etek, Çamurluk Logo, Ön Tampon, Ön Tampon Eki
+    * 2 Ayna, Bagaj Çita, Far, Stop, Stop Camı, Spoiler, Tavan, Tavan Anten
+  - Full destek.
+• [BMW] G82 aracına 8 yeni özel skin eklendi: Andale, Joker, Pokemen, Black Redbull, 50. Jahre Edition, Marlboro, M Power & Redbull
+• [MERCEDES] E63 AMG sunucudan kaldırıldı;
+  - 10.000 ID üzerindeki araçlar sistemden tamamen silinmiş ve bedelleri oyuncuların banka hesaplarına aktarılmıştır. (895 tane)
+  - 10.000 ID altındaki araçlar ise sıradan yeni [MERCEDES] E63 aracına çevrilmiş ve bedelleri oyuncuların banka hesaplarına aktarılmıştır. (129 tane)
+
 [19.06.2026]
 • [BMW] M4 G82 düzenlendi;
   - Özel Skinler eklendi: CLR, GT3 Racing, Tevhid, Tevhid Siyah
