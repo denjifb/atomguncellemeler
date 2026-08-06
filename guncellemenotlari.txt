@@ -1,3 +1,13 @@
+[20.07.2026]
+• Evde sesli konuşma özelliği eklendi;
+  - Discord sesli sohbet kalitesinde netlik.
+  - Z tuşuna basılıp konuşulabilir.
+  - Ev panelinden açılıp/kapanabilir.
+• Ev Sesli Sohbet Aktifleştiricisi ürünü eklendi;
+  - Aktifleştirilen evde sesli konuşma özelliğini kullanabilmenizi sağlar.
+  - EV panelinden kullanılır.
+  - Fiyat: 500AC
+
 [16.07.2026]
 • GPS (Navigasyon) eklendi;
   - F1 Haritalar üzerinden kullanılabilir.
