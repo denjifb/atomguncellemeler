@@ -1,3 +1,20 @@
+[13.08.2026]
+• Araç Kapı Altı Logo eklendi;
+  - Bir aracınız ön kapı altlarına özel logo ışığı takmanızı sağlar.
+  - Özelleştirilebilir bir çok seçenek.
+  - F6 Modifiye Panelinden kullanılır.
+  - Takaslanabilir ve satılabilir.
+  - Fiyat: 50AC
+• [BMW] M3 E46 aracına 3 adet özel skin eklendi.
+• Ses sistemi düzenlendi;
+  - Son çalınanlar listesi eklendi.
+  - Şarkı ara kısmına navigasyon butonları eklendi.
+  - Bozuk siteler düzeltildi.
+  - Paneli binde atayınca kapanmama sorunu düzeltildi.
+• Ayarlar paneline 'Araç Kapı Altı Logo' ayarı eklendi.
+• Araç bilgi (ALT tuşu) partikül efekti şartı 7'den 8'e çıkartıldı.
+• Düello sistemi izleyici ve avantajlı ölüm bugı fixlendi.
+
 [20.07.2026]
 • Evde sesli konuşma özelliği eklendi;
   - Discord sesli sohbet kalitesinde netlik.
