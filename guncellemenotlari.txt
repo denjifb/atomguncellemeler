@@ -1,3 +1,42 @@
+[30.08.2026]
+• Araç Sticker Sistemi eklendi;
+  - 4 Farklı kaplama hedefi: Gövde, Ön Cam, Yan Camlar ve Arka Cam
+  - 8 Farklı kategoride 1000'den fazla zengin sticker kütüphanesi
+  - Hassas düzenleme araçları:
+    * Taşıma, boyutlandırma ve döndürme
+    * Kırpma, bükme ve maskeleme efektleri
+    * Gelişmiş renk ve şeffaflık ayarları
+    * Hızlı simetri için yatay/dikey aynalama ve doğrudan Karşı Tarafa aktarma desteği
+  - Gelişmiş Katman & Klasörleme yönetimi:
+    * Katmanları gruplama ve iç içe klasörleme
+    * Katman kopyalama, kilitleme ve gizleme
+    * Katman sıralamasını değiştirme
+    * Geri Al / İleri Al geçmiş desteği
+  - F6 Modifiye panelinden kullanılır
+  - ve çok daha fazlası...  
+• Araç Kapı Altı Logo güncellendi;
+  - 31 yeni logo eklendi.
+  - İleri/geri mesafe ayarlama eklendi.
+  - Rotasyon ayarlama eklendi.
+  - Sol kapıya aynalama(mirror) eklendi.
+  - Sağa/sola ayarlama mesafesi arttırıldı.
+• Araç Sticker Kiti ürünü eklendi;
+  - Aracınızda sticker sistemini aktif etmenizi sağlar.
+  - Varsayılan olarak 100 adet katman yuvası verir.
+  - F6 Modifiye panelinden kullanılır.
+  - Fiyat: 300AC
+• Araç Sticker Katman Arttırıcı ürünü eklendi;
+  - Aracınızın sticker katman sınırını +100 arttırır (Maksimum 5.000 katmana kadar).
+  - F6 Modifiye panelinden kullanılır.
+  - Fiyat: 100AC
+• AC Marketi fiyat iyileştirmesi yapıldı;
+  - Ev Sesli Sohbet: 500 -> 200AC
+  - Animasyonlu Plaka: 50 -> 80AC
+  - Araç Kapı Kiti: 30 -> 50AC
+  - Plakalık: 30 -> 50AC
+• Ayarlar paneline "Araç Stickerları" eklendi; donanım performansına göre Açık (HD), Açık ve Kapalı seçenekleriyle ayarlanabilir.
+• GTA araçları için Araç Kapı Altı Logo desteği eklendi.
+
 [13.08.2026]
 • Araç Kapı Altı Logo eklendi;
   - Bir aracınız ön kapı altlarına özel logo ışığı takmanızı sağlar.
