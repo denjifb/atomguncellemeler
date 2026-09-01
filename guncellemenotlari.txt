@@ -1,3 +1,14 @@
+[02.09.2026]
+• Yeni Radar/Harita eklendi;
+  - Tamamen optimize ve FPS dostu altyapı.
+  - Canlı GPS/Navigasyon rotası ve klan bölgeleri için TAG desteği.
+  - Haritaya tıklayarak veya /haritaayar komutuyla boyut, opaklık ve konum özelleştirme.
+  - ESC menüsü üzerinden seçilebilir.
+• LS Spot haritası eklenmiştir.
+• Kameraya; HUD, göstergeler ve nametag'leri gizleme seçeneği eklendi.
+• Sticker ve tuning sistemindeyken HUD, göstergeler ve nametag gizleme eklendi, kamerayı engelleyen kolon kaldırıldı.
+• Sticker sistemine kamera salınım animasyon eklendi.
+
 [30.08.2026]
 • Araç Sticker Sistemi eklendi;
   - 4 Farklı kaplama hedefi: Gövde, Ön Cam, Yan Camlar ve Arka Cam
