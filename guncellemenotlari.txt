@@ -1,3 +1,13 @@
+[05.09.2026]
+• Özel Haritalar eklendi ve BETA kullanımına açıldı!
+  - F1 > Mekanlar > Özel Mekanlar üzerinden kullanılabilir (veya /haritalar).
+  - 7 çeşit özel harita (5 yeni)!
+  - Her haritaya özel canlı radar desteği.
+  - Tamamen optimize (dosyalar sadece oynamak istediğinde iner, FPS düşürmez).
+  - Çıkış için panelden 'Haritadan Ayrıl' butonu veya /haritadancik.
+• Sticker sistemi animasyonlu kaplama ve siyah çerçeve sorunu düzeltildi.
+• F10, S13, S15, R34, R35 ve Supra modellerindeki cam sticker uyumsuzlukları giderildi.
+
 [02.09.2026]
 • Yeni Radar/Harita eklendi;
   - Tamamen optimize ve FPS dostu altyapı.
