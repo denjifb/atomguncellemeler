@@ -1,3 +1,17 @@
+[06.09.2026]
+• Özel Haritalar güncellendi:
+  - 3 yeni harita eklendi;
+    * Puma Underground
+    * Rarui Track
+    * Cougar Circuit
+  - Oynanma sayısını ve son oynayan kişiyi görme özelliği eklendi.
+  - Favorileme ve kategori özelliği eklendi.
+  - Başlangıç noktasına dönme özelliği eklendi.
+  - Haritadan düşünce otomatik yola dönme sistemi eklendi.
+  - Panel tasarımı iyileştirildi.
+• F1 paneline oyuncu sayısıyla birlikte "Özel Haritalar" eklendi.
+• Ses sisteminde çalan müziğin harita ve ev geçişlerinde kesilmesi sorunu düzeltildi.
+
 [05.09.2026]
 • Özel Haritalar eklendi ve BETA kullanımına açıldı!
   - F1 > Mekanlar > Özel Mekanlar üzerinden kullanılabilir (veya /haritalar).
