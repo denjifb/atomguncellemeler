@@ -1,3 +1,20 @@
+[07.09.2026]
+• F11 Haritası yenilendi:
+  - Modern ve akıcı yeni harita tasarımı.
+  - Fareyle serbestçe sürükleyerek gezinme.
+  - Fare tekerleği ve butonlarla yakınlaşma.
+  - Space tuşuyla karaktere anında odaklanma.
+  - Sağ tık ile hızlı GPS rotası belirleme.
+  - GPS rotasını tek tıkla iptal etme butonu.
+  - Özel harita desteği.
+  - Özel haritalardan tek tıkla ayrılma butonu.
+  - Harita saydamlığını ayarlama özelliği.
+  - Arka plan karartmasını açıp kapatma seçeneği.
+  - Simgelerin üzerine gelince mekan ismini görme.
+• Özel haritalarda başlangıç noktasına atma sorunu düzeltildi.
+• Farklı boyutlarda korna seslerinin duyulmama sorunu düzeltildi.
+• Uzun klan isimlerinin plakadan taşma sorunu düzeltildi.
+
 [06.09.2026]
 • Özel Haritalar güncellendi:
   - 3 yeni harita eklendi;
