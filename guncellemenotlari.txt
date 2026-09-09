@@ -1,3 +1,18 @@
+[09.09.2026]
+• 5 yeni özel harita eklendi;
+  - Utagawa Machi Ex
+  - Mt. Akagi Touge
+  - Gymkhana 101
+  - Ebisu Minami
+  - HighPine Rally
+• Araç egzoz patlatma efekti baştan yenilendi.
+• Direksiyon desteği (Steering Help) eklendi;
+  - Drift atarken otomatik kontra vererek spin atmanızı önler ve aracı toplamayı kolaylaştırır.
+  - F6 / Teker ayarları üzerinden kullanılabilir.
+  - Menüdeki "Steer" kısmından açıp kapatabilir, yardım derecesini kendinize göre ayarlayabilirsiniz.
+  - Aracın steer bilgisini görmek için /steer yazabilirsiniz.
+• Mermi izleri ve suya düşme/çarpma efektlerindeki hatalar giderildi.
+
 [08.09.2026]
 • Radar ve F11 güncellendi;
   - Turftayken oyuncuların blip ve isimleri klan rengine dönüştürüldü.
