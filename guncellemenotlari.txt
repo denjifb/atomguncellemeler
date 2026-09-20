@@ -1,3 +1,30 @@
+[20.09.2026]
+• /ses paneli güncellendi;
+  - Şarkı arama özelliği eklendi.
+  - YouTube, Spotify ve SoundCloud linki desteği eklendi.
+  - YouTube ve Spotify çalma listelerini (playlist) içe aktarma eklendi.
+  - Spotify "Top 50 Türkiye" ve "Top 50 Global" sistem listeleri eklendi.
+  - ve daha fazlası...
+• Banka sistemi yenilendi;
+  - Modern ve sade yeni bir kullanıcı arayüzü tasarlandı.
+  - Hesap hareketleri bölümü baştan sona yenilendi:
+    * İşlem sonrası güncel bakiye göstergesi eklendi.
+    * İşlem detayı alanı eklendi (örneğin işlemin yapıldığı ATM vb.).
+  - Canlı bakiye kontrolleri ve dinamik hesaplama eklendi.
+  - Para çekme/yatırma işlemlerini hızlandıran tek tıkla tutar butonları eklendi.
+  - ve daha fazlası...
+• Sniper ve kamera crosshairleri kaliteli hale getirildi.
+• Özel nişangah(crosshair) düzenlendi;
+  - Yanlış/erken açılma sorunu düzeltildi.
+  - Panel tasarımı 2 sütunlu, modern ve sade hale getirildi.
+• Hızlı Geçiş Sistemi (HGS) yenilendi;
+  - Gişe ödeme paneli modern arayüzle yenilendi.
+  - Bariyerlerin havada takılı kalma sorunu düzeltildi.
+  - Bariyerin araç üstüne kapanmasını önleyen sensör eklendi.
+  - Basık araçların bariyer altından kaçma açığı kapatıldı.
+• Nakit ve AC'deki para akış bildirimleri, Banka işlemleri için de eklendi.
+• Araç seslerinin özel haritalarda düzgün çalışmama sorunu düzeltildi ve optimize edildi.
+
 [09.09.2026]
 • 5 yeni özel harita eklendi;
   - Utagawa Machi Ex
