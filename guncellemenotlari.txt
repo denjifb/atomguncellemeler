@@ -1,3 +1,33 @@
+[25.09.2026]
+• Profil resmi özelliği eklendi;
+  - Discord profilleriniz oyun profiliniz olarak belirlenir.
+  - Ayarlar üzerinden isteğe bağlı olarak açılıp kapatılabilir.
+  - Gözüktüğü yerler;
+    * Ölüm / öldürme mesajları
+    * Wasted ekranı
+    * Düello ekranı
+    * İsim etiketi (Nametag)
+    * TAB paneli (Scoreboard)
+• Ses sistemi güncellendi;
+  - Şarkıyı ileri ve geri sarma özelliği eklendi.
+  - Senkronizasyon sorunu giderildi: artık şarkı uzaklaşıp gelince baştan başlamayacak.
+  - Alt tuşuna basınca hoparlörün üstündeki yazıda şarkı süresi göstergesi eklendi.
+  - Çalma listesini tekrarlama özelliği düzeltildi.
+  - Performans ve ses senkronizasyonu optimize edildi.
+• Ceza sistemi eklendi;
+  - Ceza türleri: Silah Banı, Rapor Banı ve Profil Resmi Banı
+  - Aktif cezalarınızı görüntülemek için: /cezalarim
+  - Sunucudan çıktığınızda ceza süreleriniz dondurulur (offline iken süre işlemez).
+• Ayarlar paneline yeni seçenekler eklendi;
+  - Genel / Profil Resimleri -> Oyuncu profillerini tamamen kapatma / açma
+  - Tercihler / Profilimi Göster -> Kendi profilinizi diğer oyunculara kapatma / açma
+• Sunucudan çıktığınızda susturma (mute) süreleriniz dondurulur.
+• Benzinliklere 20 km/h hız sınırı eklendi. Artık durmak istemediğinizde hızlıca geçebilirsiniz.
+• Giriş ekranı iyileştirildi ve optimize edildi.
+• Sunucu yükleme (loading) ekranı sıfırdan yenilendi.
+• HD yol ve kaldırım kaplamalarındaki yükleme hataları düzeltildi ve optimize edildi.
+• Tab paneli (scoreboard) görünümü iyileştirildi.
+
 [20.09.2026]
 • /ses paneli güncellendi;
   - Şarkı arama özelliği eklendi.
