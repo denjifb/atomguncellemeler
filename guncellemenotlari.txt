@@ -1,3 +1,71 @@
+[19.10.2026]
+• Günlük Görev sistemi yenilendi;
+  - Panel tasarımı iyileştirildi.
+  - Her gün 1 kez kullanılabilen görev değiştirme özelliği eklendi.
+  - Günlük görev dağılımı 1 kolay, 1 orta ve 1 zor görev gelecek şekilde dengelendi.
+  - Tüm mesleklerin günlük görevlerde çıkma şansı eşitlendi.
+  - Madenci, Silahçı, Pilot ve İtfaiye görevleri eklendi.
+  - Temizlik, Taksi, Makinist ve Otobüs görev çeşitleri artırıldı.
+  - Düşük özellikli bilgisayarlarda panelin gözükmeme sorunu düzeltildi.
+  - Alt yapısı iyileştirilerek optimizasyon çalışmaları yapıldı.
+• F1 paneli yenilendi;
+  - Tüm menülerin tasarımı iyileştirildi ve arama kutusu eklendi.
+  - Işınlan menüsüne "Sadece klan oyuncularını göster" filtresi eklendi.
+  - Araçtan inince araçların hayalet moddan çıkması ve itilebilmesi düzeltildi.
+  - Araç God ayarının yayayken de açılıp kapatılabilmesi sağlandı.
+  - Kapısı kilitli araçtaki oyunculara ışınlanma engellendi.
+  - Kıyafetler, Stiller ve Saat menülerindeki buton hataları düzeltildi.
+• Araç kontrol sistemi yenilendi.
+  - El freninin yazı yazarken, Alt+Tab atınca, bekleyince veya araçtan inince kendiliğinden inmesi düzeltildi.
+  - El freni çekili araçların başka araçlar tarafından çarpılarak savrulması engellendi.
+  - El freni çekili araca binildiğinde uyarı mesajı gelmesi eklendi.
+  - Araç kontrol bildirim mesajları düzenlendi.
+  - Alt yapısı baştan yazılarak güvenlik ve optimizasyon çalışmaları yapıldı.
+• Güvenli Bölge (Greenzone) sistemine oyuncu hayalet koruması eklendi;
+  - Güvenli bölge içindeki oyuncuların birbirleriyle ve araçlarla çarpışması kapatıldı (araçla ezme ve bölge dışına ittirme engellendi).
+  - Korumanın aktif olduğu bölgelerdeki oyunculara yarı saydam görünüm eklendi.
+
+[18.10.2026]
+• Listelerdeki son satırın gözükmeme hatası düzeltildi.
+• Ölünce f2 can ve zırh alım süreleri sıfırlanması eklendi.
+• F2 can ve zırh bekleme süresi vipler için 30sn yerine 20sn yapıldı.
+
+[13.10.2026]
+• Sunucu giriş/dosya indirme hızlandırıldı. (FastDL)
+• Çift alımı önlemek amacıyla VIP panelindeki can ve zırh kaldırılarak F2 Market'e taşındı ve VIP'ler için ücretsiz yapıldı.
+• Temizlik mesleğinin "Çöp Toplama" bölümündeki çöpü araca koyamama hatası düzeltildi.
+
+[02.10.2026]
+• F9/Toplist yenilendi.
+• Tırcı mesleği tüm dorse hataları düzeltildi.
+• /ses paneli çalma listeleri kayıt hatası düzeltildi.
+• Bir çok panelin tasarımları iyileştirildi.
+• Sunucu geneli optimizasyon çalışmaları yapıldı.
+• Scoreboard 4k uyumlu yapıldı ve tasarımı iyileştirildi.
+• Bazı araçların çıkarılmama sorunu düzeltildi.
+• Özel tag önizleme ve karakter limit hatası düzeltildi.
+• Animasyon panelindeki kategori hatası düzeltildi.
+
+[30.09.2026]
+• F7/Araçlarım paneli yenilendi.
+  - Araç önizleme özelliği eklendi.
+  - Araç çıkar özelliği eklendi.
+  - Araç getirme 5k'dan 50k'ya çıkarıldı.
+  - Aracın kaçıncı el olduğu ve nereden alındığı bilgisi eklendi.
+  - Sunucuya toplu sat paneli değiştirildi.
+  - Araç ilanda veya pazarda ise listede gözükmesi eklendi.
+  - Panel tasarımı iyileştirildi.
+  - Alt yapısı baştan yazılarak güvenlik ve optimizasyon çalışmaları yapıldı.
+
+[26.09.2026]
+• Ceza sistemine 'Destek Alamaz' cezası eklendi.
+• Discord düzenlendi;
+  - Artık adınız oyun içi isminizle anlık güncelleniyor.
+  - Destek alamaz rolü oyun hesabına bağlandı.
+• Ölümsüzlük düzenlendi;
+  - Açıkken yumruk ile hasar verme hatası düzeltildi.
+  - Bıçaklanmalar da engellendi.
+
 [25.09.2026]
 • Profil resmi özelliği eklendi;
   - Discord profilleriniz oyun profiliniz olarak belirlenir.
