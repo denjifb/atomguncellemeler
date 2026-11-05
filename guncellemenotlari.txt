@@ -1,3 +1,86 @@
+[05.11.2026]
+• Ev sistemi yenilendi;
+  - Evde araç çıkarma özelliği eklendi, ev sahibi ve izin verdiği oyuncular F7'den evin içine araç çıkarabilir.
+  - Yönet sekmesine Araç İzinleri bölümü eklendi.
+  - Eve giriş ücreti ayarlama eklendi.
+  - İç mekan değiştirirken mekan adı, fiyat ve silinecek mobilya sayısını gösteren onay penceresi eklendi.
+  - Mobilya izinleri, araç izinleri, whitelist ve blacklist limiti 20 kişiye çıkarıldı.
+• Mobilya sistemi yenilendi;
+  - Mobilya Yönetimi paneli (/mliste) eklendi; mobilyalar listelenir, aranır ve seçilen mobilyaya kamera ile bakılır.
+  - Taşıma, döndürme, materyal, kopyalama ve silme işlemleri panele taşındı.
+  - Mobilya olarak koyulan CJ karakterine kıyafet giydirme ve kayıtlı kombin kullanma eklendi.
+  - Toplu mobilya düzenleme eklendi, aynı evde birden fazla kişi aynı anda mobilya düzenleyebilir.
+  - Mobilya ID yazılarının 20 metre sınırını kapatma seçeneği eklendi.
+  - Büyük evlerde mobilya güncellerken yaşanan donmalar azaltıldı.
+  - NPC mobilyası taşındıktan sonra çıkan "Geçersiz mobilya konumu veya boyutu" hatası düzeltildi.
+  - Limiti dolu oyuncudan mobilya parası çekilmesi engellendi.
+  - Panel tasarımları iyileştirildi.
+• Kıyafet sistemi baştan yazıldı;
+  - Kıyafetler paneli yenilendi ve kategorilere ayrıldı, panel F1 > Kıyafetler'den açılır.
+  - Sunucuya özel kıyafetlerin ve dövmelerin GTA kıyafetlerinin yerine geçmeden ayrı listelenmesi sağlandı.
+  - Kamera döndürme, yukarı-aşağı hareket ve daha fazla uzaklaştırma eklendi.
+  - Orta tuşla serbest kamera ve R tuşuyla kamerayı sıfırlama eklendi.
+  - Sınırsız kıyafet eklemenin önü açıldı (ileriki güncellemeler).
+• Animasyon paneli yenilendi;
+  - Panel tasarımı iyileştirildi, arama kutusu eklendi.
+  - Kategoriler, Favoriler ve Son Kullanılan sekmeleri eklendi.
+  - Orta tuş çarkı sayfalı hale getirildi, her sayfada 8 animasyon bulunur ve fare tekerleğiyle sayfa değişir.
+  - Favorileri sürükleyerek sıralama eklendi.
+  - Animasyonlara hızlı tuş atama eklendi (satıra sağ tık).
+  - İsteğe bağlı karakter önizlemesi eklendi.
+  - Oynatılan animasyonun adı panele eklendi.
+• Animasyon paneli yenilendi;
+  - Panel tasarımı iyileştirildi, arama kutusu eklendi.
+  - Kategoriler, Favoriler ve Son Kullanılan sekmeleri eklendi.
+  - Orta tuş çarkı sayfalı hale getirildi, her sayfada 8 animasyon bulunur ve fare tekerleğiyle sayfa değişir.
+  - Favorileri sürükleyerek sıralama eklendi.
+  - Animasyonlara hızlı tuş atama eklendi (satıra sağ tık).
+  - İsteğe bağlı karakter önizlemesi eklendi.
+  - Oynatılan animasyonun adı panele eklendi.
+• Grafik ayarları düzeltildi;
+  - HD Deniz, HD Araç ve diğer shader ayarlarının sunucuya tekrar girince kapanması düzeltildi.
+  - Detaylar ayarı açıkken HD Yol/Kaldırım ve mobilya materyallerinin görünmemesi düzeltildi.
+• Atlıkarınca ve dönme dolapda olan titreme sorunları ve animasyon hataları giderildi.
+• Sohbet balonu optimize edilerek toplu alanlarda CPU kullanımı %10'dan %1'lere düşürüldü.
+
+[03.11.2026]
+• Balıkçılık mesleği eklendi;
+  - İskelede oltayla balık tutulur; 8 balık türü, 10 meslek rütbesi ve seviye sistemi bulunur.
+  - Balıkçılığa özel animasyonlar: Oltayı savurup suya atma, makara sarma, balıkla mücadele, balığı sudan çekme, kovaya koyma ve suya geri bırakma hareketlerinin hepsi özeldir.
+  - Gerçekçi olta hareketi: Balık vurunca kamış ağırlıkla esner, misina kavis alır; balık sudan yay çizerek gelir, olta ucunda sallanır ve elle kovaya konur.
+  - 5 kademeli olta var: Ahşap, Fiberglas, Karbon, Titanyum ve Atom Efsanevi Olta. Üst kademeler daha hızlı tutar, nadir balık şansı ve kova kapasitesi daha yüksektir.
+  - Oltalar kullandıkça yıpranır ve tamir gerektirir.
+  - Standart Yem ve Canlı Karides kullanılır; karides 4. seviyede açılır ve nadir balık şansını artırır.
+  - Buzluk, kova ve seviyeye göre 200 balığa kadar alır.
+  - Balık Borsası: Her 3 saatte bir değişir, seçili balık 1.75x kazandırır.
+  - Restoran Siparişleri: Her saatin ilk 15 dakikasında şefe kasa teslim edenler 2.25x kazanır.
+  - Günün Rekoru: En ağır balığı yakalayan 7.500₺ ödül kazanır.
+  - Sürü Bereketi: Aktif oltacı sayısına göre 5+ oyuncuda %10, 10+ oyuncuda %20 ek nakit ve XP kazanılır.
+  - Altın Balık Sürüsü: Denizde çıkan altın çembere olta atanlar 2 kat hızlı balık yakalar.
+  - Gece Bereketi: 21:00-05:00 arası Lüfer ve Kalkan şansı artar, %10 bonus kazanılır.
+  - Deniz Ganimetleri: Hazine Sandığı, İnci İstiridyesi ve Yırtık Balıkçı Ağı gibi sürprizler çıkabilir.
+  - 3D Balıkçı Kovası: Yere konulur, balıklar kovadan görülür ve suya geri bırakılarak XP kazanılır.
+• İskele bölgesine animasyonlu ve ışık efektli Lunapark eklendi;
+   - Atlıkarınca: Bilet alıp ata binebilir ([F]), tur boyunca el sallayabilir ([G]) ve müziği açıp kapatabilirsiniz ([M]).
+   - Dönme Dolap: Arkadaşlarınızla aynı kabine binebilir ([F]) ve kabin içinde istediğiniz koltuğa oturabilirsiniz ([G]).
+   - F1/Mekanlar üzerinden gidebilirsiniz.
+• İskele haritası eklendi:
+   - Verona Beach iskelesi yeni ahşap zemin dokusu, 3D korkuluklar ve çevre aydınlatmalarıyla baştan sona yenilendi.
+   - İskele ucundaki eski yapılar kaldırılarak yerine sahil binaları, balıkçı tezgahları, restoran alanı ve canlı balık borsası tabelası eklendi.
+   - Balık tutma alanı genişletildi; kıyı boyunca masa-bank takımları, balıkçı ağ askıları ve dekoratif sahil objeleri yerleştirildi.
+   - F1/Mekanlar üzerinden gidebilirsiniz.
+• Meslek sistemi güncellendi;
+   - F3 Panel üzerinden meslekten çıkma eklendi.
+   - Sıralama paneli yenilendi.
+   - Meslek alanlarına gitmeden sıralamaları görme eklendi.
+   - Sunucu çökünce/kapanınca meslek ilerlemelerinin geriye gitmesi düzeltildi.
+   - Tüm mesleklerin panelleri iyileştirildi ve hataları düzeltildi.
+• Markerlar yenilendi;
+  - Görünümü daha gerçekçi hale getirildi.
+  - İkon ve yazılar eklendi.
+  - Optimizasyon yapıldı.
+• VIP zıplama sırasında dorse varsa dorse zıplaması eklendi.
+
 [31.10.2026]
 • Sanayi sistemi yenilendi;
   - Artık AC marketinden Sanayi Garajı, Dış Kaplama Desteği ve Tasarım Hakkı ürün olarak direkt satın alınabilir.
