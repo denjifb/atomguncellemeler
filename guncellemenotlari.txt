@@ -29,14 +29,6 @@
   - Animasyonlara hızlı tuş atama eklendi (satıra sağ tık).
   - İsteğe bağlı karakter önizlemesi eklendi.
   - Oynatılan animasyonun adı panele eklendi.
-• Animasyon paneli yenilendi;
-  - Panel tasarımı iyileştirildi, arama kutusu eklendi.
-  - Kategoriler, Favoriler ve Son Kullanılan sekmeleri eklendi.
-  - Orta tuş çarkı sayfalı hale getirildi, her sayfada 8 animasyon bulunur ve fare tekerleğiyle sayfa değişir.
-  - Favorileri sürükleyerek sıralama eklendi.
-  - Animasyonlara hızlı tuş atama eklendi (satıra sağ tık).
-  - İsteğe bağlı karakter önizlemesi eklendi.
-  - Oynatılan animasyonun adı panele eklendi.
 • Grafik ayarları düzeltildi;
   - HD Deniz, HD Araç ve diğer shader ayarlarının sunucuya tekrar girince kapanması düzeltildi.
   - Detaylar ayarı açıkken HD Yol/Kaldırım ve mobilya materyallerinin görünmemesi düzeltildi.
